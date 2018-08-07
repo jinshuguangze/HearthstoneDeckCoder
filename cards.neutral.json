@@ -1,0 +1,4601 @@
+[
+  {
+    "dbfId": 2569,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "暮光守护者"
+  },
+  {
+    "dbfId": 2757,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "天空上尉库拉格"
+  },
+  {
+    "dbfId": 2517,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "要塞指挥官"
+  },
+  {
+    "dbfId": 2486,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "低阶侍从"
+  },
+  {
+    "dbfId": 2533,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "龙鹰骑士"
+  },
+  {
+    "dbfId": 2577,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "持枪侍从"
+  },
+  {
+    "dbfId": 2488,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "湖之仙女"
+  },
+  {
+    "dbfId": 2576,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "破坏者"
+  },
+  {
+    "dbfId": 2490,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "银色骑手"
+  },
+  {
+    "dbfId": 2491,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "穆戈尔的勇士"
+  },
+  {
+    "dbfId": 2495,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "白骨卫士军官"
+  },
+  {
+    "dbfId": 2497,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "穆克拉的勇士"
+  },
+  {
+    "dbfId": 2575,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "赛场医师"
+  },
+  {
+    "dbfId": 2594,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "冰霜暴怒者"
+  },
+  {
+    "dbfId": 2532,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "雪地狗头人"
+  },
+  {
+    "dbfId": 2580,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "火焰杂耍者"
+  },
+  {
+    "dbfId": 2579,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "沉默的骑士"
+  },
+  {
+    "dbfId": 2500,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "发条骑士"
+  },
+  {
+    "dbfId": 2499,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "赛场观众"
+  },
+  {
+    "dbfId": 2573,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "杂耍吞法者"
+  },
+  {
+    "dbfId": 2598,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "科多兽骑手"
+  },
+  {
+    "dbfId": 2503,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "白银之手教官"
+  },
+  {
+    "dbfId": 2521,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "格斗士"
+  },
+  {
+    "dbfId": 2522,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "俘获的冰虫"
+  },
+  {
+    "dbfId": 2520,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "北海海怪"
+  },
+  {
+    "dbfId": 2502,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "受伤的克瓦迪尔"
+  },
+  {
+    "dbfId": 2259,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "圣光勇士"
+  },
+  {
+    "dbfId": 2627,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "重甲战马"
+  },
+  {
+    "dbfId": 2505,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "银色警卫"
+  },
+  {
+    "dbfId": 2585,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "角斗场主管"
+  },
+  {
+    "dbfId": 2704,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "零食商贩"
+  },
+  {
+    "dbfId": 2507,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "大师级枪骑士"
+  },
+  {
+    "dbfId": 2509,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "征募官"
+  },
+  {
+    "dbfId": 2752,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "邪灵拷问者"
+  },
+  {
+    "dbfId": 2581,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "击剑教头"
+  },
+  {
+    "dbfId": 2493,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "庆典司仪"
+  },
+  {
+    "dbfId": 2510,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "十字军统领"
+  },
+  {
+    "dbfId": 2511,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "克瓦迪尔劫掠者"
+  },
+  {
+    "dbfId": 2512,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "冰霜巨人"
+  },
+  {
+    "dbfId": 2518,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "人气选手"
+  },
+  {
+    "dbfId": 2724,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "穿刺者戈莫克"
+  },
+  {
+    "dbfId": 2682,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "冰喉"
+  },
+  {
+    "dbfId": 2595,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "博尔夫·碎盾"
+  },
+  {
+    "dbfId": 2725,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "冰吼"
+  },
+  {
+    "dbfId": 2683,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "虚灵勇士萨兰德"
+  },
+  {
+    "dbfId": 2681,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "骷髅骑士"
+  },
+  {
+    "dbfId": 2748,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "光明邪使菲奥拉"
+  },
+  {
+    "dbfId": 2519,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "黑暗邪使艾蒂丝"
+  },
+  {
+    "dbfId": 2736,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "裁决者图哈特"
+  },
+  {
+    "dbfId": 2818,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TGT",
+    "name": "加基森枪骑士"
+  },
+  {
+    "dbfId": 47775,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "滑板机器人"
+  },
+  {
+    "dbfId": 47781,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "青铜门卫"
+  },
+  {
+    "dbfId": 47837,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "地精炸弹"
+  },
+  {
+    "dbfId": 47888,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "生锈的回收机器人"
+  },
+  {
+    "dbfId": 47924,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "机械雏龙"
+  },
+  {
+    "dbfId": 48025,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "可靠的灯泡"
+  },
+  {
+    "dbfId": 48034,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "毒物学家"
+  },
+  {
+    "dbfId": 48060,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "没电的铁皮人"
+  },
+  {
+    "dbfId": 47979,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "火花钻机"
+  },
+  {
+    "dbfId": 48552,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "飞弹机器人"
+  },
+  {
+    "dbfId": 48223,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "载人毁灭机"
+  },
+  {
+    "dbfId": 48226,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "欢乐的发明家"
+  },
+  {
+    "dbfId": 48415,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "全息术士"
+  },
+  {
+    "dbfId": 48508,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "欧米茄防御者"
+  },
+  {
+    "dbfId": 48505,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "弹簧火箭犬"
+  },
+  {
+    "dbfId": 48529,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "可升级机器人"
+  },
+  {
+    "dbfId": 48536,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "量产型恐吓机"
+  },
+  {
+    "dbfId": 48518,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "武装皮纳塔"
+  },
+  {
+    "dbfId": 48544,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "脑力激荡者"
+  },
+  {
+    "dbfId": 48566,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "隐鳞药剂师"
+  },
+  {
+    "dbfId": 48625,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "机械克苏恩"
+  },
+  {
+    "dbfId": 48700,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "旋翼滑翔者"
+  },
+  {
+    "dbfId": 48886,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "机械袋鼠"
+  },
+  {
+    "dbfId": 49018,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "晶化师"
+  },
+  {
+    "dbfId": 49019,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "受损的机械剑龙"
+  },
+  {
+    "dbfId": 48753,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "爆盐投弹手"
+  },
+  {
+    "dbfId": 49161,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "投弹机器人"
+  },
+  {
+    "dbfId": 49163,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "机械推土牛"
+  },
+  {
+    "dbfId": 49164,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "微机操控者"
+  },
+  {
+    "dbfId": 49170,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "火花引擎"
+  },
+  {
+    "dbfId": 49171,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "奥能水母"
+  },
+  {
+    "dbfId": 49172,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "电磁脉冲特工"
+  },
+  {
+    "dbfId": 49176,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "脱逃的样本"
+  },
+  {
+    "dbfId": 49184,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "奇利亚斯"
+  },
+  {
+    "dbfId": 49188,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "电能工匠"
+  },
+  {
+    "dbfId": 49195,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "群星罗列者"
+  },
+  {
+    "dbfId": 49201,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "星界使者塞雷西亚"
+  },
+  {
+    "dbfId": 49269,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "强能雷象"
+  },
+  {
+    "dbfId": 49233,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "伪装机器人"
+  },
+  {
+    "dbfId": 49356,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "战争机兵"
+  },
+  {
+    "dbfId": 49447,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "实验体9号"
+  },
+  {
+    "dbfId": 48890,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "钢铁暴怒者"
+  },
+  {
+    "dbfId": 49279,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "爆爆机器人"
+  },
+  {
+    "dbfId": 48983,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "通电机器人"
+  },
+  {
+    "dbfId": 50477,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BOOMSDAY",
+    "name": "神奇的威兹班"
+  },
+  {
+    "dbfId": 2279,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "恐怖的奴隶主"
+  },
+  {
+    "dbfId": 2306,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "龙人巫师"
+  },
+  {
+    "dbfId": 2278,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "龙蛋"
+  },
+  {
+    "dbfId": 2257,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "龙人打击者"
+  },
+  {
+    "dbfId": 2258,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "火山幼龙"
+  },
+  {
+    "dbfId": 2283,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "饥饿的巨龙"
+  },
+  {
+    "dbfId": 2281,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "管理者埃克索图斯"
+  },
+  {
+    "dbfId": 2262,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "索瑞森大帝"
+  },
+  {
+    "dbfId": 2308,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "雷德·黑手"
+  },
+  {
+    "dbfId": 2261,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "奈法利安"
+  },
+  {
+    "dbfId": 2280,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "克洛玛古斯"
+  },
+  {
+    "dbfId": 2408,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "黑翼技师"
+  },
+  {
+    "dbfId": 2409,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "BRM",
+    "name": "黑翼腐蚀者"
+  },
+  {
+    "dbfId": 40337,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "发条强盗机器人"
+  },
+  {
+    "dbfId": 40213,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "杂耍小鬼"
+  },
+  {
+    "dbfId": 40281,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "猩红法力浮龙"
+  },
+  {
+    "dbfId": 40289,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "化学怪人"
+  },
+  {
+    "dbfId": 40294,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "黑金大亨"
+  },
+  {
+    "dbfId": 40344,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "猢狲医者"
+  },
+  {
+    "dbfId": 40549,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "鼬鼠挖掘工"
+  },
+  {
+    "dbfId": 41566,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "亡灵药剂师"
+  },
+  {
+    "dbfId": 40474,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "污手街情报员"
+  },
+  {
+    "dbfId": 40608,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "蹩脚海盗"
+  },
+  {
+    "dbfId": 40617,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "竞技推广员"
+  },
+  {
+    "dbfId": 41118,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "女警萨莉"
+  },
+  {
+    "dbfId": 40803,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "飞火流星·芬杰"
+  },
+  {
+    "dbfId": 40389,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "邪兽人噬魂魔"
+  },
+  {
+    "dbfId": 40407,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "暗金教炼金师"
+  },
+  {
+    "dbfId": 40408,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "卡扎库斯"
+  },
+  {
+    "dbfId": 40465,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "海盗帕奇斯"
+  },
+  {
+    "dbfId": 40492,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "后街男巫"
+  },
+  {
+    "dbfId": 40493,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "吹箭鱼人"
+  },
+  {
+    "dbfId": 40494,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "犯罪高手"
+  },
+  {
+    "dbfId": 40496,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "暗金教信使"
+  },
+  {
+    "dbfId": 40889,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "纳迦海盗"
+  },
+  {
+    "dbfId": 40906,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "二流打手"
+  },
+  {
+    "dbfId": 40911,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "重装佣兵"
+  },
+  {
+    "dbfId": 40914,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "热心的酒保"
+  },
+  {
+    "dbfId": 40921,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "毒性污水软泥怪"
+  },
+  {
+    "dbfId": 40928,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "街头调查员"
+  },
+  {
+    "dbfId": 40931,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "后院保镖"
+  },
+  {
+    "dbfId": 40949,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "加基森名媛"
+  },
+  {
+    "dbfId": 40950,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "狼人欺诈者"
+  },
+  {
+    "dbfId": 40951,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "功夫大师"
+  },
+  {
+    "dbfId": 40952,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "爆破小队"
+  },
+  {
+    "dbfId": 40953,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "魅影歹徒"
+  },
+  {
+    "dbfId": 40954,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "穴居人强盗"
+  },
+  {
+    "dbfId": 40955,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "诺格弗格市长"
+  },
+  {
+    "dbfId": 41841,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "郭雅夫人"
+  },
+  {
+    "dbfId": 40703,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "唐·汉古"
+  },
+  {
+    "dbfId": 40700,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "野猪骑士斯派克"
+  },
+  {
+    "dbfId": 40527,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "青玉之灵"
+  },
+  {
+    "dbfId": 41567,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "卑劣的脏鼠"
+  },
+  {
+    "dbfId": 40603,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "拉希奥"
+  },
+  {
+    "dbfId": 40605,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "大富翁比尔杜"
+  },
+  {
+    "dbfId": 40607,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "“鲨鱼”加佐"
+  },
+  {
+    "dbfId": 40611,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "野猪骑士塔纳利"
+  },
+  {
+    "dbfId": 40613,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "野猪骑士蕾瑟兰"
+  },
+  {
+    "dbfId": 40741,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "勇敢的记者"
+  },
+  {
+    "dbfId": 40742,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "玉莲帮密探"
+  },
+  {
+    "dbfId": 40743,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "污手街走私者"
+  },
+  {
+    "dbfId": 40744,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "远古之树"
+  },
+  {
+    "dbfId": 40745,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "迪菲亚清道夫"
+  },
+  {
+    "dbfId": 40596,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GANGS",
+    "name": "艾雅·黑掌"
+  },
+  {
+    "dbfId": 922,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "闪金镇步兵"
+  },
+  {
+    "dbfId": 602,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "沼泽爬行者"
+  },
+  {
+    "dbfId": 1651,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "大地之环先知"
+  },
+  {
+    "dbfId": 1653,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "岩浆暴怒者"
+  },
+  {
+    "dbfId": 1370,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "绿洲钳嘴龟"
+  },
+  {
+    "dbfId": 1369,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "淡水鳄"
+  },
+  {
+    "dbfId": 41,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "霜狼步兵"
+  },
+  {
+    "dbfId": 1401,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "团队领袖"
+  },
+  {
+    "dbfId": 289,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "狼骑兵"
+  },
+  {
+    "dbfId": 1182,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "铁鬃灰熊"
+  },
+  {
+    "dbfId": 67,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "银背族长"
+  },
+  {
+    "dbfId": 622,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "暴风城骑士"
+  },
+  {
+    "dbfId": 339,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "铁炉堡火枪手"
+  },
+  {
+    "dbfId": 672,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "狗头人地卜师"
+  },
+  {
+    "dbfId": 724,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "南海船工"
+  },
+  {
+    "dbfId": 308,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "侏儒发明家"
+  },
+  {
+    "dbfId": 413,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "雷矛特种兵"
+  },
+  {
+    "dbfId": 69,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "白银之手骑士"
+  },
+  {
+    "dbfId": 525,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "大法师"
+  },
+  {
+    "dbfId": 134,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "拉文霍德刺客"
+  },
+  {
+    "dbfId": 157,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "竞技场主宰"
+  },
+  {
+    "dbfId": 191,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "鱼人袭击者"
+  },
+  {
+    "dbfId": 641,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "幼龙鹰"
+  },
+  {
+    "dbfId": 648,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "石牙野猪"
+  },
+  {
+    "dbfId": 216,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "血沼迅猛龙"
+  },
+  {
+    "dbfId": 739,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "蓝腮战士"
+  },
+  {
+    "dbfId": 635,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "森金持盾卫士"
+  },
+  {
+    "dbfId": 1109,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "负伤剑圣"
+  },
+  {
+    "dbfId": 90,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "冰风雪人"
+  },
+  {
+    "dbfId": 712,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "作战傀儡"
+  },
+  {
+    "dbfId": 1140,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "藏宝海湾保镖"
+  },
+  {
+    "dbfId": 242,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "叫嚣的中士"
+  },
+  {
+    "dbfId": 389,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "精灵弓箭手"
+  },
+  {
+    "dbfId": 257,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "剃刀猎手"
+  },
+  {
+    "dbfId": 995,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "食人魔法师"
+  },
+  {
+    "dbfId": 1686,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "石拳食人魔"
+  },
+  {
+    "dbfId": 1687,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "熔火恶犬"
+  },
+  {
+    "dbfId": 290,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "铁喙猫头鹰"
+  },
+  {
+    "dbfId": 445,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "鲁莽火箭兵"
+  },
+  {
+    "dbfId": 61,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "恶毒铁匠"
+  },
+  {
+    "dbfId": 753,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "暴风城勇士"
+  },
+  {
+    "dbfId": 496,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "霜狼督军"
+  },
+  {
+    "dbfId": 1122,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "风险投资公司雇佣兵"
+  },
+  {
+    "dbfId": 179,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "小精灵"
+  },
+  {
+    "dbfId": 582,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "暗鳞治愈者"
+  },
+  {
+    "dbfId": 1655,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "圣光护卫者"
+  },
+  {
+    "dbfId": 1656,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "黑骑士"
+  },
+  {
+    "dbfId": 1634,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "年轻的女祭司"
+  },
+  {
+    "dbfId": 1657,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "王牌猎人"
+  },
+  {
+    "dbfId": 1658,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "报警机器人"
+  },
+  {
+    "dbfId": 1659,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "苦痛侍僧"
+  },
+  {
+    "dbfId": 757,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "银色侍从"
+  },
+  {
+    "dbfId": 1688,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "愤怒的小鸡"
+  },
+  {
+    "dbfId": 994,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "狼人渗透者"
+  },
+  {
+    "dbfId": 132,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "巫医"
+  },
+  {
+    "dbfId": 749,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "血法师萨尔诺斯"
+  },
+  {
+    "dbfId": 1693,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "穆克拉"
+  },
+  {
+    "dbfId": 284,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "工程师学徒"
+  },
+  {
+    "dbfId": 1721,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "希尔瓦娜斯·风行者"
+  },
+  {
+    "dbfId": 921,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "丛林猎豹"
+  },
+  {
+    "dbfId": 608,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "破碎残阳祭司"
+  },
+  {
+    "dbfId": 642,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "血色十字军战士"
+  },
+  {
+    "dbfId": 765,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "萨尔玛先知"
+  },
+  {
+    "dbfId": 34,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "银月城卫兵"
+  },
+  {
+    "dbfId": 523,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "机械幼龙技工"
+  },
+  {
+    "dbfId": 68,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "荆棘谷猛虎"
+  },
+  {
+    "dbfId": 658,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "麻风侏儒"
+  },
+  {
+    "dbfId": 759,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "烈日行者"
+  },
+  {
+    "dbfId": 567,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "风怒鹰身人"
+  },
+  {
+    "dbfId": 1037,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "暮光幼龙"
+  },
+  {
+    "dbfId": 791,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "任务达人"
+  },
+  {
+    "dbfId": 605,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "上古看守者"
+  },
+  {
+    "dbfId": 348,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "黑铁矮人"
+  },
+  {
+    "dbfId": 754,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "破法者"
+  },
+  {
+    "dbfId": 415,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "年轻的酒仙"
+  },
+  {
+    "dbfId": 1016,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "寒光智者"
+  },
+  {
+    "dbfId": 12,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "魔瘾者"
+  },
+  {
+    "dbfId": 186,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "年迈的酒仙"
+  },
+  {
+    "dbfId": 891,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "日怒保卫者"
+  },
+  {
+    "dbfId": 801,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "疯狂的炼金师"
+  },
+  {
+    "dbfId": 736,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "老瞎眼"
+  },
+  {
+    "dbfId": 906,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "酸性沼泽软泥怪"
+  },
+  {
+    "dbfId": 281,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "银色指挥官"
+  },
+  {
+    "dbfId": 37,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "小个子召唤师"
+  },
+  {
+    "dbfId": 158,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "奥秘守护者"
+  },
+  {
+    "dbfId": 762,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "疯狂投弹者"
+  },
+  {
+    "dbfId": 570,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "工匠大师欧沃斯巴克"
+  },
+  {
+    "dbfId": 734,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "精神控制技师"
+  },
+  {
+    "dbfId": 466,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "奥术傀儡"
+  },
+  {
+    "dbfId": 763,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "阿古斯防御者"
+  },
+  {
+    "dbfId": 932,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "加基森拍卖师"
+  },
+  {
+    "dbfId": 251,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "战利品贮藏者"
+  },
+  {
+    "dbfId": 440,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "憎恶"
+  },
+  {
+    "dbfId": 1135,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "游学者周卓"
+  },
+  {
+    "dbfId": 979,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "攻城车"
+  },
+  {
+    "dbfId": 453,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "寒光先知"
+  },
+  {
+    "dbfId": 993,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "山岭巨人"
+  },
+  {
+    "dbfId": 420,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "凯恩·血蹄"
+  },
+  {
+    "dbfId": 858,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "格尔宾·梅卡托克"
+  },
+  {
+    "dbfId": 559,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "火车王里诺艾"
+  },
+  {
+    "dbfId": 985,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "恐狼前锋"
+  },
+  {
+    "dbfId": 1098,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "帝王眼镜蛇"
+  },
+  {
+    "dbfId": 336,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "迦顿男爵"
+  },
+  {
+    "dbfId": 512,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "冰霜元素"
+  },
+  {
+    "dbfId": 825,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "碧蓝幼龙"
+  },
+  {
+    "dbfId": 374,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "炎魔之王拉格纳罗斯"
+  },
+  {
+    "dbfId": 45,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "牛头人战士"
+  },
+  {
+    "dbfId": 790,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "阿曼尼狂战士"
+  },
+  {
+    "dbfId": 700,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "魔古山守望者"
+  },
+  {
+    "dbfId": 768,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "古拉巴什狂暴者"
+  },
+  {
+    "dbfId": 866,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "持盾卫士"
+  },
+  {
+    "dbfId": 1155,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "暴怒的狼人"
+  },
+  {
+    "dbfId": 976,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "鱼人猎潮者"
+  },
+  {
+    "dbfId": 1063,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "鱼人领军"
+  },
+  {
+    "dbfId": 510,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "暗鳞先知"
+  },
+  {
+    "dbfId": 475,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "鱼人招潮者"
+  },
+  {
+    "dbfId": 778,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "麦田傀儡"
+  },
+  {
+    "dbfId": 1147,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "纳特·帕格"
+  },
+  {
+    "dbfId": 912,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "哈里森·琼斯"
+  },
+  {
+    "dbfId": 411,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "诺兹多姆"
+  },
+  {
+    "dbfId": 581,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "阿莱克丝塔萨"
+  },
+  {
+    "dbfId": 363,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "奥妮克希亚"
+  },
+  {
+    "dbfId": 436,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "玛里苟斯"
+  },
+  {
+    "dbfId": 531,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "无面操纵者"
+  },
+  {
+    "dbfId": 1186,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "伊瑟拉"
+  },
+  {
+    "dbfId": 962,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "比斯巨兽"
+  },
+  {
+    "dbfId": 175,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "达拉然法师"
+  },
+  {
+    "dbfId": 424,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "艾露恩的女祭司"
+  },
+  {
+    "dbfId": 915,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "年迈的法师"
+  },
+  {
+    "dbfId": 211,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "海巨人"
+  },
+  {
+    "dbfId": 755,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "血骑士"
+  },
+  {
+    "dbfId": 670,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE",
+    "name": "夜刃刺客"
+  },
+  {
+    "dbfId": 811,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "诅咒教派领袖"
+  },
+  {
+    "dbfId": 926,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "小鬼召唤师"
+  },
+  {
+    "dbfId": 556,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "伊利丹·怒风"
+  },
+  {
+    "dbfId": 715,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "法力怨魂"
+  },
+  {
+    "dbfId": 1372,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "熔核巨人"
+  },
+  {
+    "dbfId": 1753,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "肉用僵尸"
+  },
+  {
+    "dbfId": 1781,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "鬼灵爬行者"
+  },
+  {
+    "dbfId": 1858,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "分裂软泥怪"
+  },
+  {
+    "dbfId": 1783,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "疯狂的科学家"
+  },
+  {
+    "dbfId": 1784,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "纳克萨玛斯之影"
+  },
+  {
+    "dbfId": 1786,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "蛛魔之卵"
+  },
+  {
+    "dbfId": 1789,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "鬼灵骑士"
+  },
+  {
+    "dbfId": 1790,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "死亡领主"
+  },
+  {
+    "dbfId": 1791,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "迈克斯纳"
+  },
+  {
+    "dbfId": 1793,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "淤泥喷射者"
+  },
+  {
+    "dbfId": 1794,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "克尔苏加德"
+  },
+  {
+    "dbfId": 1796,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "斯塔拉格"
+  },
+  {
+    "dbfId": 1797,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "费尔根"
+  },
+  {
+    "dbfId": 1799,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "哀嚎的灵魂"
+  },
+  {
+    "dbfId": 1800,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "尼鲁巴蛛网领主"
+  },
+  {
+    "dbfId": 1808,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "蹒跚的食尸鬼"
+  },
+  {
+    "dbfId": 1861,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "岩肤石像鬼"
+  },
+  {
+    "dbfId": 1910,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "送葬者"
+  },
+  {
+    "dbfId": 1913,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "舞动之剑"
+  },
+  {
+    "dbfId": 1914,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "洛欧塞布"
+  },
+  {
+    "dbfId": 1915,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "NAXX",
+    "name": "瑞文戴尔男爵"
+  },
+  {
+    "dbfId": 46655,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "狼人憎恶"
+  },
+  {
+    "dbfId": 46656,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "癫狂的医生"
+  },
+  {
+    "dbfId": 46658,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "坩埚元素"
+  },
+  {
+    "dbfId": 46659,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "暴怒的双头巨人"
+  },
+  {
+    "dbfId": 46660,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "黑沼枭兽"
+  },
+  {
+    "dbfId": 46667,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "苔藓恐魔"
+  },
+  {
+    "dbfId": 46674,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "疯帽客"
+  },
+  {
+    "dbfId": 46710,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "凶恶的鳞皮兽"
+  },
+  {
+    "dbfId": 46874,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "窃魂者阿扎莉娜"
+  },
+  {
+    "dbfId": 46598,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "南瓜农夫"
+  },
+  {
+    "dbfId": 46601,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "吉尔尼斯皇家卫兵"
+  },
+  {
+    "dbfId": 46634,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "魅影民兵"
+  },
+  {
+    "dbfId": 46661,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "唤鸦者"
+  },
+  {
+    "dbfId": 46665,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "杂毛秘术师"
+  },
+  {
+    "dbfId": 46950,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "迷失的幽魂"
+  },
+  {
+    "dbfId": 46988,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "龙骨卫士"
+  },
+  {
+    "dbfId": 46991,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "邪魂审判官"
+  },
+  {
+    "dbfId": 46992,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "迅捷的信使"
+  },
+  {
+    "dbfId": 46994,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "幻术士"
+  },
+  {
+    "dbfId": 47014,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "荆棘帮暴徒"
+  },
+  {
+    "dbfId": 47072,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "沼泽水蛭"
+  },
+  {
+    "dbfId": 47077,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "黑樟林树精"
+  },
+  {
+    "dbfId": 47131,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "女伯爵阿莎摩尔"
+  },
+  {
+    "dbfId": 47134,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "缚沙者"
+  },
+  {
+    "dbfId": 47142,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "女巫森林吹笛人"
+  },
+  {
+    "dbfId": 47241,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "巨鳞蠕虫"
+  },
+  {
+    "dbfId": 47287,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "巫毒娃娃"
+  },
+  {
+    "dbfId": 47292,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "分裂腐树"
+  },
+  {
+    "dbfId": 47298,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "人偶大师多里安"
+  },
+  {
+    "dbfId": 47343,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "吸血蚊"
+  },
+  {
+    "dbfId": 47346,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "女巫森林灰熊"
+  },
+  {
+    "dbfId": 47348,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "暗夜徘徊者"
+  },
+  {
+    "dbfId": 47439,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "发条机器人"
+  },
+  {
+    "dbfId": 47458,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "总督察"
+  },
+  {
+    "dbfId": 47557,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "腐烂的苹果树"
+  },
+  {
+    "dbfId": 47602,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "胡桃精"
+  },
+  {
+    "dbfId": 49502,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "梦魇融合怪"
+  },
+  {
+    "dbfId": 47606,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "泥沼狩猎者"
+  },
+  {
+    "dbfId": 47607,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "沼泽飞龙"
+  },
+  {
+    "dbfId": 47693,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "吉恩·格雷迈恩"
+  },
+  {
+    "dbfId": 47895,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "破铜烂铁机器人"
+  },
+  {
+    "dbfId": 48039,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "恶毒的银行家"
+  },
+  {
+    "dbfId": 48106,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "沼泽龙蛋"
+  },
+  {
+    "dbfId": 48110,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "女巫的坩埚"
+  },
+  {
+    "dbfId": 48158,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GILNEAS",
+    "name": "噬月者巴库"
+  },
+  {
+    "dbfId": 1940,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "机械跃迁者"
+  },
+  {
+    "dbfId": 1932,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "齿轮大师"
+  },
+  {
+    "dbfId": 1982,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "魔能机甲"
+  },
+  {
+    "dbfId": 2012,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "蜘蛛坦克"
+  },
+  {
+    "dbfId": 2032,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "淤泥践踏者"
+  },
+  {
+    "dbfId": 2033,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "食人魔步兵"
+  },
+  {
+    "dbfId": 2035,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "碎石穴居人"
+  },
+  {
+    "dbfId": 2036,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "石腭穴居人壮汉"
+  },
+  {
+    "dbfId": 2037,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "老式治疗机器人"
+  },
+  {
+    "dbfId": 2038,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "熟练的水手"
+  },
+  {
+    "dbfId": 2039,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "迷失的陆行鸟"
+  },
+  {
+    "dbfId": 2042,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "科赞秘术师"
+  },
+  {
+    "dbfId": 2043,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "船载火炮"
+  },
+  {
+    "dbfId": 2044,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "自爆绵羊"
+  },
+  {
+    "dbfId": 2046,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "机械雪人"
+  },
+  {
+    "dbfId": 2047,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "强袭坦克"
+  },
+  {
+    "dbfId": 2049,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "海地精猎手"
+  },
+  {
+    "dbfId": 2050,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "发条侏儒"
+  },
+  {
+    "dbfId": 2052,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "飞行器"
+  },
+  {
+    "dbfId": 2053,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "吵吵机器人"
+  },
+  {
+    "dbfId": 2057,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "明光祭司"
+  },
+  {
+    "dbfId": 2058,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "疯狂爆破者"
+  },
+  {
+    "dbfId": 2059,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "施法者克星X-21"
+  },
+  {
+    "dbfId": 2060,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "侏儒实验技师"
+  },
+  {
+    "dbfId": 2061,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "活动假人"
+  },
+  {
+    "dbfId": 2062,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "基维斯"
+  },
+  {
+    "dbfId": 2063,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "地精工兵"
+  },
+  {
+    "dbfId": 2064,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "载人收割机"
+  },
+  {
+    "dbfId": 2065,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "小个子驱魔者"
+  },
+  {
+    "dbfId": 2066,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "诺莫瑞根步兵"
+  },
+  {
+    "dbfId": 2067,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "榴弹投手"
+  },
+  {
+    "dbfId": 2070,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "工匠镇技师"
+  },
+  {
+    "dbfId": 2071,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "微型战斗机甲"
+  },
+  {
+    "dbfId": 2072,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "大胖"
+  },
+  {
+    "dbfId": 2073,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "载人飞天魔像"
+  },
+  {
+    "dbfId": 2074,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "回收机器人"
+  },
+  {
+    "dbfId": 2075,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "强化机器人"
+  },
+  {
+    "dbfId": 2076,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "侏儒变形师"
+  },
+  {
+    "dbfId": 2077,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "小个子法师"
+  },
+  {
+    "dbfId": 2078,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "砰砰博士"
+  },
+  {
+    "dbfId": 2079,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "米米尔隆的头部"
+  },
+  {
+    "dbfId": 2080,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "食人魔勇士穆戈尔"
+  },
+  {
+    "dbfId": 2081,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "死神4000型"
+  },
+  {
+    "dbfId": 2082,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "斯尼德的伐木机"
+  },
+  {
+    "dbfId": 2083,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "托什雷"
+  },
+  {
+    "dbfId": 2084,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "瑟玛普拉格"
+  },
+  {
+    "dbfId": 2085,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "加兹鲁维"
+  },
+  {
+    "dbfId": 2086,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "颤地者特罗格佐尔"
+  },
+  {
+    "dbfId": 2087,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "布林顿3000型"
+  },
+  {
+    "dbfId": 2088,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "赫米特·奈辛瓦里"
+  },
+  {
+    "dbfId": 2233,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "GVG",
+    "name": "发条巨人"
+  },
+  {
+    "dbfId": 42327,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "幻影海盗"
+  },
+  {
+    "dbfId": 42328,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "骷髅法师"
+  },
+  {
+    "dbfId": 42338,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "雪鳍企鹅"
+  },
+  {
+    "dbfId": 42422,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "骷髅捣蛋鬼"
+  },
+  {
+    "dbfId": 42438,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "冷酷的死灵法师"
+  },
+  {
+    "dbfId": 42439,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "白骨幼龙"
+  },
+  {
+    "dbfId": 42440,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "阳焰瓦格里"
+  },
+  {
+    "dbfId": 42442,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "深蓝刃鳞龙人"
+  },
+  {
+    "dbfId": 42445,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "暗夜嗥狼"
+  },
+  {
+    "dbfId": 42446,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "制毒师"
+  },
+  {
+    "dbfId": 42714,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "维库食尸鬼"
+  },
+  {
+    "dbfId": 42773,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "阿彻鲁斯老兵"
+  },
+  {
+    "dbfId": 42775,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "海象人渔夫"
+  },
+  {
+    "dbfId": 42777,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "堕落残阳祭司"
+  },
+  {
+    "dbfId": 42779,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "熔火巨像"
+  },
+  {
+    "dbfId": 42780,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "墓地蹒跚者"
+  },
+  {
+    "dbfId": 42781,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "墓穴潜伏者"
+  },
+  {
+    "dbfId": 42782,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "自爆憎恶"
+  },
+  {
+    "dbfId": 42663,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "死鳞骑士"
+  },
+  {
+    "dbfId": 42909,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "唤尸者"
+  },
+  {
+    "dbfId": 42818,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "巫妖王"
+  },
+  {
+    "dbfId": 42395,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "萨隆苦囚"
+  },
+  {
+    "dbfId": 42394,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "亡语者"
+  },
+  {
+    "dbfId": 42398,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "失心农夫"
+  },
+  {
+    "dbfId": 42783,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "开心的食尸鬼"
+  },
+  {
+    "dbfId": 42784,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "游荡恶鬼"
+  },
+  {
+    "dbfId": 42785,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "孱弱的掘墓者"
+  },
+  {
+    "dbfId": 42790,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "骨魇"
+  },
+  {
+    "dbfId": 42791,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "蛛魔拆解者"
+  },
+  {
+    "dbfId": 43029,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "亡斧惩罚者"
+  },
+  {
+    "dbfId": 43051,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "绞肉车"
+  },
+  {
+    "dbfId": 45340,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "凯雷塞斯王子"
+  },
+  {
+    "dbfId": 45341,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "塔达拉姆王子"
+  },
+  {
+    "dbfId": 45342,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "瓦拉纳王子"
+  },
+  {
+    "dbfId": 45366,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "阿尔福斯"
+  },
+  {
+    "dbfId": 45377,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "海德尼尔冰霜骑士"
+  },
+  {
+    "dbfId": 45378,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "织法者"
+  },
+  {
+    "dbfId": 45307,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "死灵恶鬼"
+  },
+  {
+    "dbfId": 45309,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "达卡莱附魔师"
+  },
+  {
+    "dbfId": 45314,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "摧心者"
+  },
+  {
+    "dbfId": 45328,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "邪骨骷髅"
+  },
+  {
+    "dbfId": 45329,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "血虫"
+  },
+  {
+    "dbfId": 46101,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "哀泣女妖"
+  },
+  {
+    "dbfId": 46102,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "夺尸者"
+  },
+  {
+    "dbfId": 46103,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ICECROWN",
+    "name": "被污染的狂热者"
+  },
+  {
+    "dbfId": 39476,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "自负的演员"
+  },
+  {
+    "dbfId": 39433,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "符文蛋"
+  },
+  {
+    "dbfId": 39207,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "橱柜蜘蛛"
+  },
+  {
+    "dbfId": 39210,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "书卷之龙"
+  },
+  {
+    "dbfId": 39215,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "奥术畸体"
+  },
+  {
+    "dbfId": 39489,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "鸟禽守护者"
+  },
+  {
+    "dbfId": 39465,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "沟渠潜伏者"
+  },
+  {
+    "dbfId": 39453,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "莫罗斯"
+  },
+  {
+    "dbfId": 39225,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "馆长"
+  },
+  {
+    "dbfId": 39554,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "虚空幽龙史学家"
+  },
+  {
+    "dbfId": 39839,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "机械动物管理员"
+  },
+  {
+    "dbfId": 39840,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "玛克扎尔王子"
+  },
+  {
+    "dbfId": 39841,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "守护者麦迪文"
+  },
+  {
+    "dbfId": 39941,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "巴内斯"
+  },
+  {
+    "dbfId": 39269,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "展览馆法师"
+  },
+  {
+    "dbfId": 39491,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "奥能铁匠"
+  },
+  {
+    "dbfId": 39426,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "奥术巨人"
+  },
+  {
+    "dbfId": 39313,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "KARA",
+    "name": "紫罗兰法师"
+  },
+  {
+    "dbfId": 2883,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "雷诺·杰克逊"
+  },
+  {
+    "dbfId": 2901,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "宝石甲虫"
+  },
+  {
+    "dbfId": 2910,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "纳迦海巫"
+  },
+  {
+    "dbfId": 2911,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "A3型机械金刚"
+  },
+  {
+    "dbfId": 2918,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "巨型蟾蜍"
+  },
+  {
+    "dbfId": 2919,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "墓穴蜘蛛"
+  },
+  {
+    "dbfId": 2925,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "西风灯神"
+  },
+  {
+    "dbfId": 2933,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "阿努比萨斯哨兵"
+  },
+  {
+    "dbfId": 2945,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "石化魔暴龙"
+  },
+  {
+    "dbfId": 2948,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "芬利·莫格顿爵士"
+  },
+  {
+    "dbfId": 2949,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "布莱恩·铜须"
+  },
+  {
+    "dbfId": 2951,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "伊莉斯·逐星"
+  },
+  {
+    "dbfId": 2958,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "集合石"
+  },
+  {
+    "dbfId": 2961,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "摇摆的俾格米"
+  },
+  {
+    "dbfId": 2964,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "虚灵大盗拉法姆"
+  },
+  {
+    "dbfId": 9107,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "诡异的雕像"
+  },
+  {
+    "dbfId": 9081,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "远古暗影"
+  },
+  {
+    "dbfId": 13879,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOE",
+    "name": "鱼人宝宝"
+  },
+  {
+    "dbfId": 43345,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "下水道爬行者"
+  },
+  {
+    "dbfId": 43453,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "机械异种蝎"
+  },
+  {
+    "dbfId": 43463,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "蜡油元素"
+  },
+  {
+    "dbfId": 43465,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "黑色龙人铁匠"
+  },
+  {
+    "dbfId": 43469,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "腐蚀淤泥"
+  },
+  {
+    "dbfId": 43473,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "孤胆英雄"
+  },
+  {
+    "dbfId": 43474,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "石皮蜥蜴"
+  },
+  {
+    "dbfId": 43483,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "奥术统御者"
+  },
+  {
+    "dbfId": 43485,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "绿色凝胶怪"
+  },
+  {
+    "dbfId": 43486,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "屠龙者"
+  },
+  {
+    "dbfId": 43489,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "利齿宝箱"
+  },
+  {
+    "dbfId": 43493,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "鬼祟恶魔"
+  },
+  {
+    "dbfId": 43494,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "贪睡巨龙"
+  },
+  {
+    "dbfId": 43507,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "藏宝巨龙"
+  },
+  {
+    "dbfId": 43515,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "通道爬行者"
+  },
+  {
+    "dbfId": 43517,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "缚雾熊怪"
+  },
+  {
+    "dbfId": 43523,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "喧哗的诗人"
+  },
+  {
+    "dbfId": 43526,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "紫色岩虫"
+  },
+  {
+    "dbfId": 43528,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "砂齿骑兵"
+  },
+  {
+    "dbfId": 45195,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "食肉魔块"
+  },
+  {
+    "dbfId": 45265,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "菌菇术士"
+  },
+  {
+    "dbfId": 45287,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "白银先锋"
+  },
+  {
+    "dbfId": 46892,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "闪光的骏马"
+  },
+  {
+    "dbfId": 45547,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "凶猛的聒噪怪"
+  },
+  {
+    "dbfId": 45594,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "被诅咒的门徒"
+  },
+  {
+    "dbfId": 45707,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "厄运鼹鼠"
+  },
+  {
+    "dbfId": 45784,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "蘑菇酿酒师"
+  },
+  {
+    "dbfId": 45837,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "穴居人食菌者"
+  },
+  {
+    "dbfId": 45929,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "狗头人学徒"
+  },
+  {
+    "dbfId": 45988,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "“老狐狸”马林"
+  },
+  {
+    "dbfId": 46069,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "公会招募员"
+  },
+  {
+    "dbfId": 46079,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "狗头人武僧"
+  },
+  {
+    "dbfId": 46082,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "饥饿的双头怪"
+  },
+  {
+    "dbfId": 46087,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "菌菇附魔师"
+  },
+  {
+    "dbfId": 46088,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "狗头人拾荒者"
+  },
+  {
+    "dbfId": 46118,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "闪光的蘑菇"
+  },
+  {
+    "dbfId": 45930,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "硬壳甲虫"
+  },
+  {
+    "dbfId": 46032,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "资深档案管理员"
+  },
+  {
+    "dbfId": 46403,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "蛇发女妖佐拉"
+  },
+  {
+    "dbfId": 46449,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "欧克哈特大师"
+  },
+  {
+    "dbfId": 46454,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "黑暗之主"
+  },
+  {
+    "dbfId": 46461,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "虚空撕裂者"
+  },
+  {
+    "dbfId": 46551,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "恶毒的召唤师"
+  },
+  {
+    "dbfId": 46557,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "驯龙师"
+  },
+  {
+    "dbfId": 46589,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "LOOTAPALOOZA",
+    "name": "托瓦格尔国王"
+  },
+  {
+    "dbfId": 530,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "船长的鹦鹉"
+  },
+  {
+    "dbfId": 443,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "鱼人杀手蟹"
+  },
+  {
+    "dbfId": 999,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "血帆袭击者"
+  },
+  {
+    "dbfId": 1073,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "飞刀杂耍者"
+  },
+  {
+    "dbfId": 1014,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "狂野炎术师"
+  },
+  {
+    "dbfId": 138,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "末日预言者"
+  },
+  {
+    "dbfId": 878,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "恐怖海盗"
+  },
+  {
+    "dbfId": 609,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "精灵龙"
+  },
+  {
+    "dbfId": 456,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "绿皮船长"
+  },
+  {
+    "dbfId": 997,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "血帆海盗"
+  },
+  {
+    "dbfId": 1029,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "紫罗兰教师"
+  },
+  {
+    "dbfId": 680,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "南海船长"
+  },
+  {
+    "dbfId": 855,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "米尔豪斯·法力风暴"
+  },
+  {
+    "dbfId": 834,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "死亡之翼"
+  },
+  {
+    "dbfId": 351,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "铸剑师"
+  },
+  {
+    "dbfId": 526,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "格鲁尔"
+  },
+  {
+    "dbfId": 640,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "霍格"
+  },
+  {
+    "dbfId": 1371,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "狂奔科多兽"
+  },
+  {
+    "dbfId": 38304,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "异种群居蝎"
+  },
+  {
+    "dbfId": 38312,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "亚煞极"
+  },
+  {
+    "dbfId": 38408,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "异变的狗头人"
+  },
+  {
+    "dbfId": 38436,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "黑暗低语者"
+  },
+  {
+    "dbfId": 38468,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "山谷之王穆克拉"
+  },
+  {
+    "dbfId": 38475,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "百变泽鲁斯"
+  },
+  {
+    "dbfId": 38488,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "维克洛尔大帝"
+  },
+  {
+    "dbfId": 38496,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "恩佐斯"
+  },
+  {
+    "dbfId": 38505,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "尤格-萨隆"
+  },
+  {
+    "dbfId": 38517,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "蛛魔先知"
+  },
+  {
+    "dbfId": 38521,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "无面巨兽"
+  },
+  {
+    "dbfId": 38522,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "惊骇恐魔"
+  },
+  {
+    "dbfId": 38526,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "闹闹机器人"
+  },
+  {
+    "dbfId": 38528,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "腐化治疗机器人"
+  },
+  {
+    "dbfId": 38531,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "畸变狂战士"
+  },
+  {
+    "dbfId": 38532,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "恩佐斯的触须"
+  },
+  {
+    "dbfId": 38533,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "畸变的龙鹰"
+  },
+  {
+    "dbfId": 38534,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "毒沼爬行者"
+  },
+  {
+    "dbfId": 38538,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "怒鳍猎潮者"
+  },
+  {
+    "dbfId": 38541,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "狂热的新兵"
+  },
+  {
+    "dbfId": 38545,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "腐化先知"
+  },
+  {
+    "dbfId": 38547,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "克苏恩的信徒"
+  },
+  {
+    "dbfId": 38567,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "远古造物之血"
+  },
+  {
+    "dbfId": 38569,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "无面蹒跚者"
+  },
+  {
+    "dbfId": 38669,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "末日践行者"
+  },
+  {
+    "dbfId": 38781,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "扭曲的狼人"
+  },
+  {
+    "dbfId": 38782,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "怨影狂怒者"
+  },
+  {
+    "dbfId": 38784,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "被感染的牛头人"
+  },
+  {
+    "dbfId": 38792,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "奥秘吞噬者"
+  },
+  {
+    "dbfId": 38795,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "厄运召唤者"
+  },
+  {
+    "dbfId": 38797,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "恩佐斯的子嗣"
+  },
+  {
+    "dbfId": 38832,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "梦魇之龙"
+  },
+  {
+    "dbfId": 38833,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "暮光召唤师"
+  },
+  {
+    "dbfId": 38857,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "克苏恩"
+  },
+  {
+    "dbfId": 38859,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "邪灵召唤师"
+  },
+  {
+    "dbfId": 38863,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "克苏恩的侍从"
+  },
+  {
+    "dbfId": 38864,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "暮光地卜师"
+  },
+  {
+    "dbfId": 38868,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "暮光尊者"
+  },
+  {
+    "dbfId": 38873,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "上古之神先驱"
+  },
+  {
+    "dbfId": 38888,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "邪教药剂师"
+  },
+  {
+    "dbfId": 38895,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "波戈蒙斯塔"
+  },
+  {
+    "dbfId": 38943,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "黑龙领主死亡之翼"
+  },
+  {
+    "dbfId": 38944,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "艾尔文灾星霍格"
+  },
+  {
+    "dbfId": 38957,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "午夜噩龙"
+  },
+  {
+    "dbfId": 38958,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "疯狂的信徒"
+  },
+  {
+    "dbfId": 38960,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "黑水海盗"
+  },
+  {
+    "dbfId": 38961,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "被感染的贮藏者"
+  },
+  {
+    "dbfId": 39002,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "暮色野猪"
+  },
+  {
+    "dbfId": 39003,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "裂地触须"
+  },
+  {
+    "dbfId": 39041,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "巨型独眼怪"
+  },
+  {
+    "dbfId": 39046,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "阴暗渔夫纳特"
+  },
+  {
+    "dbfId": 39118,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "斯克拉姆狂热者"
+  },
+  {
+    "dbfId": 39119,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "OG",
+    "name": "深渊滑行者索苟斯"
+  },
+  {
+    "dbfId": 1754,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "HOF",
+    "name": "精英牛头人酋长"
+  },
+  {
+    "dbfId": 397,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "EXPERT1",
+    "name": "腐肉食尸鬼"
+  },
+  {
+    "dbfId": 41076,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "翼手龙宝宝"
+  },
+  {
+    "dbfId": 41120,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "火山龙"
+  },
+  {
+    "dbfId": 41137,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "暴掠龙幼崽"
+  },
+  {
+    "dbfId": 41138,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "臃肿的蛇颈龙"
+  },
+  {
+    "dbfId": 41241,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "托维尔塑石师"
+  },
+  {
+    "dbfId": 41242,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "巨型乳齿象"
+  },
+  {
+    "dbfId": 41243,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "石丘防御者"
+  },
+  {
+    "dbfId": 41245,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "石塘猎人"
+  },
+  {
+    "dbfId": 41247,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "凶恶的雏龙"
+  },
+  {
+    "dbfId": 41249,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "卑劣的窃蛋者"
+  },
+  {
+    "dbfId": 41253,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "冰冻粉碎者"
+  },
+  {
+    "dbfId": 41257,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "雷霆蜥蜴"
+  },
+  {
+    "dbfId": 41259,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "魔暴龙蛋"
+  },
+  {
+    "dbfId": 41260,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "火羽凤凰"
+  },
+  {
+    "dbfId": 41261,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "翡翠蜂后"
+  },
+  {
+    "dbfId": 41263,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "苦潮多头蛇"
+  },
+  {
+    "dbfId": 41264,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "始祖龟预言者"
+  },
+  {
+    "dbfId": 41265,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "温顺的巨壳龙"
+  },
+  {
+    "dbfId": 41286,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "狂奔的魔暴龙"
+  },
+  {
+    "dbfId": 41096,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "热情的探险家"
+  },
+  {
+    "dbfId": 41111,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "冰川裂片"
+  },
+  {
+    "dbfId": 41305,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "筑巢双头鹏"
+  },
+  {
+    "dbfId": 41309,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "翡翠掠夺者"
+  },
+  {
+    "dbfId": 41315,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "摩天龙"
+  },
+  {
+    "dbfId": 41316,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "葛拉卡爬行蟹"
+  },
+  {
+    "dbfId": 41318,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "倔强的蜗牛"
+  },
+  {
+    "dbfId": 41323,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "火羽精灵"
+  },
+  {
+    "dbfId": 41324,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "剑龙"
+  },
+  {
+    "dbfId": 41415,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "剑齿追猎者"
+  },
+  {
+    "dbfId": 41327,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "风暴看守"
+  },
+  {
+    "dbfId": 41328,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "巨型黄蜂"
+  },
+  {
+    "dbfId": 41410,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "卡利莫斯的仆从"
+  },
+  {
+    "dbfId": 41524,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "不稳定的元素"
+  },
+  {
+    "dbfId": 41885,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "“丛林猎人”赫米特"
+  },
+  {
+    "dbfId": 41913,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "沃拉斯"
+  },
+  {
+    "dbfId": 41925,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "巨齿刀叶"
+  },
+  {
+    "dbfId": 41926,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "火岩元素"
+  },
+  {
+    "dbfId": 41928,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "火焰使者"
+  },
+  {
+    "dbfId": 41929,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "始生幼龙"
+  },
+  {
+    "dbfId": 41935,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "“开拓者”伊莉斯"
+  },
+  {
+    "dbfId": 41289,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "灵魂歌者安布拉"
+  },
+  {
+    "dbfId": 41294,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "欧泽鲁克"
+  },
+  {
+    "dbfId": 41418,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "焦油爬行者"
+  },
+  {
+    "dbfId": 41478,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "蛮鱼斥候"
+  },
+  {
+    "dbfId": 41683,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "UNGORO",
+    "name": "贪食软泥怪"
+  }
+]

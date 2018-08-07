@@ -1,0 +1,835 @@
+[
+  {
+    "dbfId": 2792,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "活体根须"
+  },
+  {
+    "dbfId": 2782,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "达纳苏斯豹骑士"
+  },
+  {
+    "dbfId": 2780,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "狂野争斗者"
+  },
+  {
+    "dbfId": 2786,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "荒野行者"
+  },
+  {
+    "dbfId": 2788,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "荒野骑士"
+  },
+  {
+    "dbfId": 2783,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "刃牙德鲁伊"
+  },
+  {
+    "dbfId": 2785,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "星界沟通"
+  },
+  {
+    "dbfId": 2793,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "腐根"
+  },
+  {
+    "dbfId": 2796,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TGT",
+    "name": "艾维娜"
+  },
+  {
+    "dbfId": 47887,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "生物计划"
+  },
+  {
+    "dbfId": 48524,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "香甜的灵力瓜"
+  },
+  {
+    "dbfId": 49621,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "树木学家"
+  },
+  {
+    "dbfId": 48607,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "植树造林"
+  },
+  {
+    "dbfId": 48609,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "牛头人园丁"
+  },
+  {
+    "dbfId": 48612,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "梦境花栽种师"
+  },
+  {
+    "dbfId": 48757,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "软泥教授弗洛普"
+  },
+  {
+    "dbfId": 48837,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "弗洛普的神奇黏液"
+  },
+  {
+    "dbfId": 48744,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "黏液喷射者"
+  },
+  {
+    "dbfId": 48831,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BOOMSDAY",
+    "name": "植被破碎机"
+  },
+  {
+    "dbfId": 2295,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BRM",
+    "name": "火山邪木"
+  },
+  {
+    "dbfId": 2292,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BRM",
+    "name": "烈焰德鲁伊"
+  },
+  {
+    "dbfId": 40416,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "遗忘之王库恩"
+  },
+  {
+    "dbfId": 40797,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "青玉巨兽"
+  },
+  {
+    "dbfId": 40372,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "青玉护符"
+  },
+  {
+    "dbfId": 40397,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "玉莲印记"
+  },
+  {
+    "dbfId": 40401,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "妙手空空"
+  },
+  {
+    "dbfId": 40404,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "天神唤梦者"
+  },
+  {
+    "dbfId": 40523,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "青玉绽放"
+  },
+  {
+    "dbfId": 40615,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "新月视界"
+  },
+  {
+    "dbfId": 40641,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GANGS",
+    "name": "兔妖教头"
+  },
+  {
+    "dbfId": 1050,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "爪击"
+  },
+  {
+    "dbfId": 773,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "治疗之触"
+  },
+  {
+    "dbfId": 467,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "月火术"
+  },
+  {
+    "dbfId": 213,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "野性印记"
+  },
+  {
+    "dbfId": 742,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "野蛮咆哮"
+  },
+  {
+    "dbfId": 64,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "横扫"
+  },
+  {
+    "dbfId": 1124,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "野性成长"
+  },
+  {
+    "dbfId": 205,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "埃隆巴克保护者"
+  },
+  {
+    "dbfId": 836,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "愤怒"
+  },
+  {
+    "dbfId": 151,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "自然印记"
+  },
+  {
+    "dbfId": 381,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "丛林之魂"
+  },
+  {
+    "dbfId": 503,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "野性之力"
+  },
+  {
+    "dbfId": 233,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "自然平衡"
+  },
+  {
+    "dbfId": 95,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "滋养"
+  },
+  {
+    "dbfId": 692,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "利爪德鲁伊"
+  },
+  {
+    "dbfId": 601,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "丛林守护者"
+  },
+  {
+    "dbfId": 254,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "激活"
+  },
+  {
+    "dbfId": 823,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "星火术"
+  },
+  {
+    "dbfId": 1035,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "战争古树"
+  },
+  {
+    "dbfId": 577,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "撕咬"
+  },
+  {
+    "dbfId": 493,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "自然之力"
+  },
+  {
+    "dbfId": 36,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "塞纳留斯"
+  },
+  {
+    "dbfId": 481,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "野蛮之击"
+  },
+  {
+    "dbfId": 1802,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "NAXX",
+    "name": "剧毒之种"
+  },
+  {
+    "dbfId": 46680,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "阴郁的牡鹿"
+  },
+  {
+    "dbfId": 46859,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "镰刀德鲁伊"
+  },
+  {
+    "dbfId": 46903,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "失魂的守卫"
+  },
+  {
+    "dbfId": 47063,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "精灵之森"
+  },
+  {
+    "dbfId": 47117,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "巫术时刻"
+  },
+  {
+    "dbfId": 47423,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "凶猛咆哮"
+  },
+  {
+    "dbfId": 47520,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "碎枝"
+  },
+  {
+    "dbfId": 47553,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "女巫森林苹果"
+  },
+  {
+    "dbfId": 47819,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "暮陨者艾维娜"
+  },
+  {
+    "dbfId": 48286,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GILNEAS",
+    "name": "森林向导"
+  },
+  {
+    "dbfId": 2096,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "电镀机械熊仔"
+  },
+  {
+    "dbfId": 1995,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "回收"
+  },
+  {
+    "dbfId": 2225,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "林地树妖"
+  },
+  {
+    "dbfId": 2001,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "生命之树"
+  },
+  {
+    "dbfId": 2002,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "机械野兽"
+  },
+  {
+    "dbfId": 2003,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "玛洛恩"
+  },
+  {
+    "dbfId": 2009,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "黑暗私语"
+  },
+  {
+    "dbfId": 2048,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "GVG",
+    "name": "尖牙德鲁伊"
+  },
+  {
+    "dbfId": 42615,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "命运织网蛛"
+  },
+  {
+    "dbfId": 42649,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "蛛网"
+  },
+  {
+    "dbfId": 42651,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "虫群德鲁伊"
+  },
+  {
+    "dbfId": 42656,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "传播瘟疫"
+  },
+  {
+    "dbfId": 42748,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "铁齿铜牙"
+  },
+  {
+    "dbfId": 42759,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "终极感染"
+  },
+  {
+    "dbfId": 43022,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "硬壳清道夫"
+  },
+  {
+    "dbfId": 43025,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "地穴领主"
+  },
+  {
+    "dbfId": 43417,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "污染者玛法里奥"
+  },
+  {
+    "dbfId": 43439,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ICECROWN",
+    "name": "哈多诺克斯"
+  },
+  {
+    "dbfId": 39696,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "KARA",
+    "name": "展览馆守卫"
+  },
+  {
+    "dbfId": 39714,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "KARA",
+    "name": "月光林地传送门"
+  },
+  {
+    "dbfId": 39350,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "KARA",
+    "name": "魔法乌鸦"
+  },
+  {
+    "dbfId": 2922,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LOE",
+    "name": "骑乘迅猛龙"
+  },
+  {
+    "dbfId": 2923,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LOE",
+    "name": "丛林枭兽"
+  },
+  {
+    "dbfId": 13335,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "LOE",
+    "name": "乌鸦神像"
+  },
+  {
+    "dbfId": 43282,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "树皮术"
+  },
+  {
+    "dbfId": 43284,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "铁木魔像"
+  },
+  {
+    "dbfId": 43288,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "小型法术玉石"
+  },
+  {
+    "dbfId": 43294,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "分岔路口"
+  },
+  {
+    "dbfId": 43304,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "星界猛虎"
+  },
+  {
+    "dbfId": 45828,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "橡树的召唤"
+  },
+  {
+    "dbfId": 45835,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "灰熊守护者"
+  },
+  {
+    "dbfId": 45859,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "伊克斯里德，真菌之王"
+  },
+  {
+    "dbfId": 45945,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "贪婪的林精"
+  },
+  {
+    "dbfId": 46107,
+    "type": "WEAPON",
+    "cardClass": "DRUID",
+    "set": "LOOTAPALOOZA",
+    "name": "世界之树的嫩枝"
+  },
+  {
+    "dbfId": 86,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "星辰坠落"
+  },
+  {
+    "dbfId": 920,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "EXPERT1",
+    "name": "知识古树"
+  },
+  {
+    "dbfId": 38318,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "范达尔·鹿盔"
+  },
+  {
+    "dbfId": 38334,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "野性之怒"
+  },
+  {
+    "dbfId": 38337,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "亚煞极印记"
+  },
+  {
+    "dbfId": 38340,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "禁忌古树"
+  },
+  {
+    "dbfId": 38621,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "卡拉克西织珀者"
+  },
+  {
+    "dbfId": 38655,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "上古之神的小精灵"
+  },
+  {
+    "dbfId": 38718,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "泥潭守护者"
+  },
+  {
+    "dbfId": 38882,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "黑暗鸦人"
+  },
+  {
+    "dbfId": 38916,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "OG",
+    "name": "腐化灰熊"
+  },
+  {
+    "dbfId": 41252,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "始祖龟劫掠者"
+  },
+  {
+    "dbfId": 41262,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "巨型蟒蛇"
+  },
+  {
+    "dbfId": 40971,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "苍绿长颈龙"
+  },
+  {
+    "dbfId": 40973,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "变形神龟"
+  },
+  {
+    "dbfId": 40991,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "生长孢子"
+  },
+  {
+    "dbfId": 41081,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "大地之鳞"
+  },
+  {
+    "dbfId": 41086,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "年迈的长颈龙"
+  },
+  {
+    "dbfId": 41094,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "活体法力"
+  },
+  {
+    "dbfId": 41099,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "丛林巨兽"
+  },
+  {
+    "dbfId": 41954,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "UNGORO",
+    "name": "泰拉图斯"
+  }
+]

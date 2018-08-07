@@ -1,0 +1,149 @@
+[
+  {
+    "dbfId": 7,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "CORE",
+    "name": "加尔鲁什·地狱咆哮"
+  },
+  {
+    "dbfId": 2828,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS",
+    "name": "麦格尼·铜须"
+  },
+  {
+    "dbfId": 1066,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "CORE",
+    "name": "萨尔"
+  },
+  {
+    "dbfId": 40183,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS",
+    "name": "神谕者摩戈尔"
+  },
+  {
+    "dbfId": 930,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "CORE",
+    "name": "瓦莉拉·萨古纳尔"
+  },
+  {
+    "dbfId": 40195,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS",
+    "name": "玛维·影歌"
+  },
+  {
+    "dbfId": 671,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "乌瑟尔·光明使者"
+  },
+  {
+    "dbfId": 2827,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS",
+    "name": "女伯爵莉亚德琳"
+  },
+  {
+    "dbfId": 46116,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS",
+    "name": "阿尔萨斯王子"
+  },
+  {
+    "dbfId": 31,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "CORE",
+    "name": "雷克萨"
+  },
+  {
+    "dbfId": 2826,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS",
+    "name": "奥蕾莉亚·风行者"
+  },
+  {
+    "dbfId": 274,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "CORE",
+    "name": "玛法里奥·怒风"
+  },
+  {
+    "dbfId": 50484,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS",
+    "name": "露娜拉"
+  },
+  {
+    "dbfId": 893,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "CORE",
+    "name": "古尔丹"
+  },
+  {
+    "dbfId": 47817,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS",
+    "name": "奈姆希·灵沼"
+  },
+  {
+    "dbfId": 51834,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS",
+    "name": "机械加拉克苏斯"
+  },
+  {
+    "dbfId": 637,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "CORE",
+    "name": "吉安娜·普罗德摩尔"
+  },
+  {
+    "dbfId": 2829,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS",
+    "name": "麦迪文"
+  },
+  {
+    "dbfId": 39117,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS",
+    "name": "卡德加"
+  },
+  {
+    "dbfId": 813,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "CORE",
+    "name": "安度因·乌瑞恩"
+  },
+  {
+    "dbfId": 41887,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS",
+    "name": "泰兰德·语风"
+  }
+]

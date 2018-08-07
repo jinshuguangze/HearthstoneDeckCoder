@@ -1,0 +1,835 @@
+[
+  {
+    "dbfId": 2648,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "争强好胜"
+  },
+  {
+    "dbfId": 2717,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "英勇圣印"
+  },
+  {
+    "dbfId": 2515,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "战马训练师"
+  },
+  {
+    "dbfId": 2655,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "鱼人骑士"
+  },
+  {
+    "dbfId": 2720,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "白银之枪"
+  },
+  {
+    "dbfId": 2654,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "精英对决"
+  },
+  {
+    "dbfId": 2726,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "神秘挑战者"
+  },
+  {
+    "dbfId": 2727,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "纯洁者耶德瑞克"
+  },
+  {
+    "dbfId": 2504,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TGT",
+    "name": "海象人龟骑士"
+  },
+  {
+    "dbfId": 48644,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "萎缩射线"
+  },
+  {
+    "dbfId": 48637,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "水晶工匠坎格尔"
+  },
+  {
+    "dbfId": 48764,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "棱彩透镜"
+  },
+  {
+    "dbfId": 49169,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "机械蛋"
+  },
+  {
+    "dbfId": 48982,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "格洛顿"
+  },
+  {
+    "dbfId": 48984,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "自动防御矩阵"
+  },
+  {
+    "dbfId": 48985,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "水晶学"
+  },
+  {
+    "dbfId": 48989,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "亮石技师"
+  },
+  {
+    "dbfId": 48993,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "吵吵模组"
+  },
+  {
+    "dbfId": 49009,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BOOMSDAY",
+    "name": "坎格尔的无尽大军"
+  },
+  {
+    "dbfId": 2274,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BRM",
+    "name": "严正警戒"
+  },
+  {
+    "dbfId": 2299,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BRM",
+    "name": "龙王配偶"
+  },
+  {
+    "dbfId": 40295,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "污手街守护者"
+  },
+  {
+    "dbfId": 40371,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "风驰电掣"
+  },
+  {
+    "dbfId": 40469,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "污手街惩罚者"
+  },
+  {
+    "dbfId": 40531,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "暗鳞劫掠者"
+  },
+  {
+    "dbfId": 40567,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "污手街供货商"
+  },
+  {
+    "dbfId": 40577,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "海象人执法官"
+  },
+  {
+    "dbfId": 40587,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "战术撤离"
+  },
+  {
+    "dbfId": 40636,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "燃鬃·自走炮"
+  },
+  {
+    "dbfId": 40634,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GANGS",
+    "name": "三教九流"
+  },
+  {
+    "dbfId": 70,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "力量祝福"
+  },
+  {
+    "dbfId": 1068,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "列王守卫"
+  },
+  {
+    "dbfId": 291,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "圣光术"
+  },
+  {
+    "dbfId": 383,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "圣光的正义"
+  },
+  {
+    "dbfId": 943,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "王者祝福"
+  },
+  {
+    "dbfId": 476,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "奉献"
+  },
+  {
+    "dbfId": 250,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "愤怒之锤"
+  },
+  {
+    "dbfId": 847,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "真银圣剑"
+  },
+  {
+    "dbfId": 584,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "崇高牺牲"
+  },
+  {
+    "dbfId": 462,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "以眼还眼"
+  },
+  {
+    "dbfId": 140,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "救赎"
+  },
+  {
+    "dbfId": 679,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "神恩术"
+  },
+  {
+    "dbfId": 594,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "圣疗术"
+  },
+  {
+    "dbfId": 1522,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "受祝福的勇士"
+  },
+  {
+    "dbfId": 854,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "谦逊"
+  },
+  {
+    "dbfId": 1022,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "银色保卫者"
+  },
+  {
+    "dbfId": 1373,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "智慧祝福"
+  },
+  {
+    "dbfId": 435,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "神圣愤怒"
+  },
+  {
+    "dbfId": 643,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "公正之剑"
+  },
+  {
+    "dbfId": 727,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE",
+    "name": "保护之手"
+  },
+  {
+    "dbfId": 232,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "忏悔"
+  },
+  {
+    "dbfId": 1167,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "奥尔多卫士"
+  },
+  {
+    "dbfId": 890,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "提里奥·弗丁"
+  },
+  {
+    "dbfId": 1174,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "复仇之怒"
+  },
+  {
+    "dbfId": 756,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "EXPERT1",
+    "name": "生而平等"
+  },
+  {
+    "dbfId": 1804,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "NAXX",
+    "name": "复仇"
+  },
+  {
+    "dbfId": 46713,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "敲响警钟"
+  },
+  {
+    "dbfId": 46621,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "责难"
+  },
+  {
+    "dbfId": 47051,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "幽灵战马"
+  },
+  {
+    "dbfId": 47201,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "银剑"
+  },
+  {
+    "dbfId": 47405,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "警钟哨卫"
+  },
+  {
+    "dbfId": 47416,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "教堂石像兽"
+  },
+  {
+    "dbfId": 47614,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "圣光楷模"
+  },
+  {
+    "dbfId": 47696,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "利亚姆王子"
+  },
+  {
+    "dbfId": 48107,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "玻璃骑士"
+  },
+  {
+    "dbfId": 48832,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GILNEAS",
+    "name": "隐秘的智慧"
+  },
+  {
+    "dbfId": 2025,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "光明圣印"
+  },
+  {
+    "dbfId": 2026,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "护盾机器人"
+  },
+  {
+    "dbfId": 2027,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "齿轮光锤"
+  },
+  {
+    "dbfId": 2028,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "军需官"
+  },
+  {
+    "dbfId": 2029,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "作战动员"
+  },
+  {
+    "dbfId": 2030,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "钴制卫士"
+  },
+  {
+    "dbfId": 2031,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "伯瓦尔·弗塔根"
+  },
+  {
+    "dbfId": 2069,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "GVG",
+    "name": "血色净化者"
+  },
+  {
+    "dbfId": 42462,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "傲慢的十字军"
+  },
+  {
+    "dbfId": 42467,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "正义保护者"
+  },
+  {
+    "dbfId": 42469,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "黑暗裁决"
+  },
+  {
+    "dbfId": 42735,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "光之悲恸"
+  },
+  {
+    "dbfId": 42824,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "殊死一搏"
+  },
+  {
+    "dbfId": 42825,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "黑色卫士"
+  },
+  {
+    "dbfId": 42948,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "咆哮的指挥官"
+  },
+  {
+    "dbfId": 43127,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "寒刃勇士"
+  },
+  {
+    "dbfId": 43406,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "黑锋骑士乌瑟尔"
+  },
+  {
+    "dbfId": 45392,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ICECROWN",
+    "name": "浴火者伯瓦尔"
+  },
+  {
+    "dbfId": 39477,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "KARA",
+    "name": "夜魇骑士"
+  },
+  {
+    "dbfId": 39439,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "KARA",
+    "name": "象牙骑士"
+  },
+  {
+    "dbfId": 39716,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "KARA",
+    "name": "银月城传送门"
+  },
+  {
+    "dbfId": 2889,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "LOE",
+    "name": "奥达曼守护者"
+  },
+  {
+    "dbfId": 2898,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LOE",
+    "name": "亡者归来"
+  },
+  {
+    "dbfId": 2899,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LOE",
+    "name": "审判"
+  },
+  {
+    "dbfId": 43373,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "英勇药水"
+  },
+  {
+    "dbfId": 43382,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "小型法术珍珠"
+  },
+  {
+    "dbfId": 43384,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "战斗号角"
+  },
+  {
+    "dbfId": 45539,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "莱妮莎·炎伤"
+  },
+  {
+    "dbfId": 45782,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "未鉴定的重槌"
+  },
+  {
+    "dbfId": 45833,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "水晶雄狮"
+  },
+  {
+    "dbfId": 45877,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "等级提升！"
+  },
+  {
+    "dbfId": 46007,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "旱谷狱卒"
+  },
+  {
+    "dbfId": 46258,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "和蔼的灯神"
+  },
+  {
+    "dbfId": 46263,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "LOOTAPALOOZA",
+    "name": "瓦兰奈尔"
+  },
+  {
+    "dbfId": 38227,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "邪鳍审判者"
+  },
+  {
+    "dbfId": 38666,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "禁忌治疗"
+  },
+  {
+    "dbfId": 38740,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "无私的英雄"
+  },
+  {
+    "dbfId": 38745,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "集结之刃"
+  },
+  {
+    "dbfId": 38749,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "神圣之力"
+  },
+  {
+    "dbfId": 38758,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "光耀之主拉格纳罗斯"
+  },
+  {
+    "dbfId": 38843,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "惩黑除恶"
+  },
+  {
+    "dbfId": 38911,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "夜色镇执法官"
+  },
+  {
+    "dbfId": 38913,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "OG",
+    "name": "黑暗曙光"
+  },
+  {
+    "dbfId": 41130,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "巨化术"
+  },
+  {
+    "dbfId": 41139,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "水文学家"
+  },
+  {
+    "dbfId": 41145,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "守日者塔林姆"
+  },
+  {
+    "dbfId": 41859,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "斩棘刀"
+  },
+  {
+    "dbfId": 41864,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "剑龙骑术"
+  },
+  {
+    "dbfId": 41866,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "蛮鱼勇士"
+  },
+  {
+    "dbfId": 41868,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "最后的水晶龙"
+  },
+  {
+    "dbfId": 41912,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "迷失丛林"
+  },
+  {
+    "dbfId": 41944,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "适者生存"
+  },
+  {
+    "dbfId": 41945,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "UNGORO",
+    "name": "光铸剑龙"
+  }
+]
