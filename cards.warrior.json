@@ -1,835 +1,1073 @@
 [
   {
-    "dbfId": 2729,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "怒袭"
-  },
-  {
-    "dbfId": 2756,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "国王护卫者"
-  },
-  {
-    "dbfId": 2711,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "奥格瑞玛狼骑士"
-  },
-  {
-    "dbfId": 2753,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "猛犸人头领"
-  },
-  {
-    "dbfId": 2754,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "加固"
-  },
-  {
-    "dbfId": 2733,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "格斗陪练师"
-  },
-  {
-    "dbfId": 2758,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "阿莱克丝塔萨的勇士"
-  },
-  {
-    "dbfId": 2760,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "瓦里安·乌瑞恩"
-  },
-  {
-    "dbfId": 2723,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "TGT",
-    "name": "破海者"
-  },
-  {
-    "dbfId": 47860,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "武器计划"
-  },
-  {
-    "dbfId": 48691,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "恒金巡游者"
-  },
-  {
-    "dbfId": 47925,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "火箭靴"
-  },
-  {
-    "dbfId": 47928,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "砰砰飞艇"
-  },
-  {
-    "dbfId": 48542,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "掷弹机器人"
-  },
-  {
-    "dbfId": 48100,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "安保巡游者"
-  },
-  {
-    "dbfId": 48142,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "铍金毁灭者"
-  },
-  {
-    "dbfId": 48146,
-    "type": "HERO",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "“科学狂人”砰砰博士"
-  },
-  {
-    "dbfId": 48515,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "欧米茄装配"
-  },
-  {
-    "dbfId": 48526,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "BOOMSDAY",
-    "name": "超级对撞器"
-  },
-  {
-    "dbfId": 2296,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "BRM",
-    "name": "复仇打击"
-  },
-  {
-    "dbfId": 2297,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "BRM",
-    "name": "掷斧者"
-  },
-  {
-    "dbfId": 40364,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "公辩律师"
-  },
-  {
-    "dbfId": 40438,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "黄铜指虎"
-  },
-  {
-    "dbfId": 40482,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "霍巴特·钩锤"
-  },
-  {
-    "dbfId": 41414,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "鱼死网破"
-  },
-  {
-    "dbfId": 40566,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "失窃物资"
-  },
-  {
-    "dbfId": 40568,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "污手玩具商"
-  },
-  {
-    "dbfId": 40569,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "污手街典当师"
-  },
-  {
-    "dbfId": 40574,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "兽人铸甲师"
-  },
-  {
-    "dbfId": 40839,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "GANGS",
-    "name": "盛气凌人"
-  },
-  {
-    "dbfId": 344,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "冲锋"
-  },
-  {
-    "dbfId": 1108,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "狂暴"
-  },
-  {
-    "dbfId": 1007,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "英勇打击"
-  },
-  {
-    "dbfId": 401,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "炽炎战斧"
-  },
-  {
-    "dbfId": 785,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "斩杀"
-  },
-  {
-    "dbfId": 304,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "奥金斧"
-  },
-  {
-    "dbfId": 940,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "顺劈斩"
-  },
-  {
-    "dbfId": 1009,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "战歌指挥官"
-  },
-  {
-    "dbfId": 1074,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "猛击"
-  },
-  {
-    "dbfId": 400,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "战斗怒火"
-  },
-  {
-    "dbfId": 538,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "阿拉希武器匠"
-  },
-  {
-    "dbfId": 636,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "旋风斩"
-  },
-  {
-    "dbfId": 596,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "铸甲师"
-  },
-  {
-    "dbfId": 75,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "绝命乱斗"
-  },
-  {
-    "dbfId": 804,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "致死打击"
-  },
-  {
-    "dbfId": 511,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "升级！"
-  },
-  {
-    "dbfId": 546,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "盾牌猛击"
-  },
-  {
-    "dbfId": 810,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "血吼"
-  },
-  {
-    "dbfId": 338,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "格罗玛什·地狱咆哮"
-  },
-  {
-    "dbfId": 285,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "严酷的监工"
-  },
-  {
-    "dbfId": 654,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "暴乱狂战士"
-  },
-  {
-    "dbfId": 1023,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "盾牌格挡"
-  },
-  {
     "dbfId": 22,
+    "name": "怒火中烧",
+    "rarity": "COMMON",
+    "cost": 0,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "怒火中烧"
-  },
-  {
-    "dbfId": 1805,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "NAXX",
-    "name": "死亡之咬"
-  },
-  {
-    "dbfId": 46650,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "狂暴的狼人"
-  },
-  {
-    "dbfId": 46721,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "黑嚎炮塔"
-  },
-  {
-    "dbfId": 46725,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "赤环蜂"
-  },
-  {
-    "dbfId": 47016,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "致命武装"
-  },
-  {
-    "dbfId": 47053,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "达利乌斯·克罗雷"
-  },
-  {
-    "dbfId": 47133,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "城镇公告员"
-  },
-  {
-    "dbfId": 47511,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "樵夫之斧"
-  },
-  {
-    "dbfId": 47515,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "战路"
-  },
-  {
-    "dbfId": 47516,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "腐树巨人"
-  },
-  {
-    "dbfId": 47825,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GILNEAS",
-    "name": "民兵指挥官"
-  },
-  {
-    "dbfId": 2018,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "弹射之刃"
-  },
-  {
-    "dbfId": 2019,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "战斗机器人"
-  },
-  {
-    "dbfId": 2020,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "重碾"
-  },
-  {
-    "dbfId": 2021,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "盾甲侍女"
-  },
-  {
-    "dbfId": 2022,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "食人魔战槌"
-  },
-  {
-    "dbfId": 2023,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "废旧螺栓机甲"
-  },
-  {
-    "dbfId": 2024,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "钢铁战蝎"
-  },
-  {
-    "dbfId": 2054,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "GVG",
-    "name": "重型攻城战车"
-  },
-  {
-    "dbfId": 42698,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "熔甲卫士"
-  },
-  {
-    "dbfId": 42700,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "血刃剃刀"
-  },
-  {
-    "dbfId": 42766,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "亡者之牌"
-  },
-  {
-    "dbfId": 42810,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "活化狂战士"
-  },
-  {
-    "dbfId": 42998,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "灵魂洪炉"
-  },
-  {
-    "dbfId": 42630,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "腐面"
-  },
-  {
-    "dbfId": 42671,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "瓦格里摄魂者"
-  },
-  {
-    "dbfId": 42392,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "死亡幽魂"
-  },
-  {
-    "dbfId": 43423,
-    "type": "HERO",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "天灾领主加尔鲁什"
-  },
-  {
-    "dbfId": 43505,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "ICECROWN",
-    "name": "放马过来"
-  },
-  {
-    "dbfId": 39495,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "KARA",
-    "name": "保卫国王"
-  },
-  {
-    "dbfId": 39417,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "KARA",
-    "name": "愚者之灾"
-  },
-  {
-    "dbfId": 39747,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "KARA",
-    "name": "铁炉堡传送门"
-  },
-  {
-    "dbfId": 2881,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "LOE",
-    "name": "黑曜石毁灭者"
-  },
-  {
-    "dbfId": 2894,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "LOE",
-    "name": "凶暴猿猴"
-  },
-  {
-    "dbfId": 35025,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "LOE",
-    "name": "诅咒之刃"
-  },
-  {
-    "dbfId": 43269,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "狗头人蛮兵"
-  },
-  {
-    "dbfId": 43277,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "铁刃护手"
-  },
-  {
-    "dbfId": 45519,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "小型法术秘银石"
-  },
-  {
-    "dbfId": 45775,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "未鉴定的盾牌"
-  },
-  {
-    "dbfId": 46026,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "鲁莽风暴"
-  },
-  {
-    "dbfId": 46027,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "宝石魔像"
-  },
-  {
-    "dbfId": 46031,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "枯须铸甲师"
-  },
-  {
-    "dbfId": 46058,
-    "type": "SPELL",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "寻求组队"
-  },
-  {
-    "dbfId": 46077,
-    "type": "WEAPON",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "灾厄斩杀者"
-  },
-  {
-    "dbfId": 46442,
-    "type": "MINION",
-    "cardClass": "WARRIOR",
-    "set": "LOOTAPALOOZA",
-    "name": "地塑师伊普"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 28,
+    "name": "库卡隆精英卫士",
+    "rarity": "FREE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "库卡隆精英卫士"
+    "set": "CORE"
+  },
+  {
+    "dbfId": 75,
+    "name": "绝命乱斗",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 285,
+    "name": "严酷的监工",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 304,
+    "name": "奥金斧",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 338,
+    "name": "格罗玛什·地狱咆哮",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 344,
+    "name": "冲锋",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 400,
+    "name": "战斗怒火",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 401,
+    "name": "炽炎战斧",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 511,
+    "name": "升级！",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 538,
+    "name": "阿拉希武器匠",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 546,
+    "name": "盾牌猛击",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 596,
+    "name": "铸甲师",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 636,
+    "name": "旋风斩",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 654,
+    "name": "暴乱狂战士",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 785,
+    "name": "斩杀",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 804,
+    "name": "致死打击",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 810,
+    "name": "血吼",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 940,
+    "name": "顺劈斩",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1007,
+    "name": "英勇打击",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1009,
+    "name": "战歌指挥官",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1023,
+    "name": "盾牌格挡",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
   },
   {
     "dbfId": 1026,
+    "name": "命令怒吼",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "EXPERT1",
-    "name": "命令怒吼"
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1074,
+    "name": "猛击",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1108,
+    "name": "狂暴",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1805,
+    "name": "死亡之咬",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "NAXX"
+  },
+  {
+    "dbfId": 2018,
+    "name": "弹射之刃",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2019,
+    "name": "战斗机器人",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2020,
+    "name": "重碾",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2021,
+    "name": "盾甲侍女",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2022,
+    "name": "食人魔战槌",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2023,
+    "name": "废旧螺栓机甲",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2024,
+    "name": "钢铁战蝎",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2054,
+    "name": "重型攻城战车",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2296,
+    "name": "复仇打击",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "BRM"
+  },
+  {
+    "dbfId": 2297,
+    "name": "掷斧者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "BRM"
+  },
+  {
+    "dbfId": 2711,
+    "name": "奥格瑞玛狼骑士",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2723,
+    "name": "破海者",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2729,
+    "name": "怒袭",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2733,
+    "name": "格斗陪练师",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2753,
+    "name": "猛犸人头领",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2754,
+    "name": "加固",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2756,
+    "name": "国王护卫者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2758,
+    "name": "阿莱克丝塔萨的勇士",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2760,
+    "name": "瓦里安·乌瑞恩",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2881,
+    "name": "黑曜石毁灭者",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "LOE"
+  },
+  {
+    "dbfId": 2894,
+    "name": "凶暴猿猴",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "LOE"
+  },
+  {
+    "dbfId": 35025,
+    "name": "诅咒之刃",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "LOE"
   },
   {
     "dbfId": 38279,
+    "name": "钢铁触须",
+    "rarity": "EPIC",
+    "cost": 5,
     "type": "WEAPON",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "钢铁触须"
+    "set": "OG"
   },
   {
     "dbfId": 38530,
+    "name": "暴虐食尸鬼",
+    "rarity": "COMMON",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "暴虐食尸鬼"
+    "set": "OG"
   },
   {
     "dbfId": 38738,
+    "name": "血蹄勇士",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "血蹄勇士"
+    "set": "OG"
   },
   {
     "dbfId": 38739,
+    "name": "马尔考罗克",
+    "rarity": "LEGENDARY",
+    "cost": 7,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "马尔考罗克"
+    "set": "OG"
   },
   {
     "dbfId": 38848,
+    "name": "苦战傀儡",
+    "rarity": "EPIC",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "苦战傀儡"
+    "set": "OG"
   },
   {
     "dbfId": 38897,
+    "name": "上古之神护卫",
+    "rarity": "RARE",
+    "cost": 7,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "上古之神护卫"
+    "set": "OG"
   },
   {
     "dbfId": 38914,
+    "name": "恩佐斯的副官",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "恩佐斯的副官"
+    "set": "OG"
   },
   {
     "dbfId": 38918,
+    "name": "化血为脓",
+    "rarity": "RARE",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "化血为脓"
+    "set": "OG"
   },
   {
     "dbfId": 38920,
+    "name": "血帆教徒",
+    "rarity": "RARE",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "OG",
-    "name": "血帆教徒"
+    "set": "OG"
   },
   {
-    "dbfId": 41881,
+    "dbfId": 39417,
+    "name": "愚者之灾",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 39495,
+    "name": "保卫国王",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 39747,
+    "name": "铁炉堡传送门",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 40364,
+    "name": "公辩律师",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "焦油兽王"
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40438,
+    "name": "黄铜指虎",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40482,
+    "name": "霍巴特·钩锤",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40566,
+    "name": "失窃物资",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40568,
+    "name": "污手玩具商",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40569,
+    "name": "污手街典当师",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40574,
+    "name": "兽人铸甲师",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40839,
+    "name": "盛气凌人",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
   },
   {
     "dbfId": 41400,
+    "name": "探索安戈洛",
+    "rarity": "EPIC",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "探索安戈洛"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41401,
+    "name": "铜皮铁甲",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "铜皮铁甲"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41404,
+    "name": "暴躁的恐角龙",
+    "rarity": "COMMON",
+    "cost": 6,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "暴躁的恐角龙"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41406,
+    "name": "身陷绝境的哨卫",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "身陷绝境的哨卫"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41407,
+    "name": "基因转接",
+    "rarity": "EPIC",
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "基因转接"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 41414,
+    "name": "鱼死网破",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "GANGS"
   },
   {
     "dbfId": 41420,
+    "name": "熔岩之刃",
+    "rarity": "RARE",
+    "cost": 1,
     "type": "WEAPON",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "熔岩之刃"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41425,
+    "name": "暴龙之王摩什",
+    "rarity": "LEGENDARY",
+    "cost": 9,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "暴龙之王摩什"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41427,
+    "name": "火羽之心",
+    "rarity": "LEGENDARY",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "火羽之心"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 41881,
+    "name": "焦油兽王",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "UNGORO"
   },
   {
     "dbfId": 41890,
+    "name": "恐角龙宝宝",
+    "rarity": "RARE",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "UNGORO",
-    "name": "恐角龙宝宝"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 42392,
+    "name": "死亡幽魂",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42630,
+    "name": "腐面",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42671,
+    "name": "瓦格里摄魂者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42698,
+    "name": "熔甲卫士",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42700,
+    "name": "血刃剃刀",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42766,
+    "name": "亡者之牌",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42810,
+    "name": "活化狂战士",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42998,
+    "name": "灵魂洪炉",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 43269,
+    "name": "狗头人蛮兵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43277,
+    "name": "铁刃护手",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43423,
+    "name": "天灾领主加尔鲁什",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 43505,
+    "name": "放马过来",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 45519,
+    "name": "小型法术秘银石",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45775,
+    "name": "未鉴定的盾牌",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46026,
+    "name": "鲁莽风暴",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46027,
+    "name": "宝石魔像",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46031,
+    "name": "枯须铸甲师",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46058,
+    "name": "寻求组队",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46077,
+    "name": "灾厄斩杀者",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46442,
+    "name": "地塑师伊普",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46650,
+    "name": "狂暴的狼人",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46721,
+    "name": "黑嚎炮塔",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46725,
+    "name": "赤环蜂",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47016,
+    "name": "致命武装",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47053,
+    "name": "达利乌斯·克罗雷",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47133,
+    "name": "城镇公告员",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47511,
+    "name": "樵夫之斧",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47515,
+    "name": "战路",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47516,
+    "name": "腐树巨人",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47825,
+    "name": "民兵指挥官",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47860,
+    "name": "武器计划",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 47925,
+    "name": "火箭靴",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 47928,
+    "name": "砰砰飞艇",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48100,
+    "name": "安保巡游者",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48142,
+    "name": "铍金毁灭者",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48146,
+    "name": "“科学狂人”砰砰博士",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48515,
+    "name": "欧米茄装配",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48526,
+    "name": "超级对撞器",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48542,
+    "name": "掷弹机器人",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48691,
+    "name": "恒金巡游者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "BOOMSDAY"
   }
 ]

@@ -1,835 +1,1073 @@
 [
   {
-    "dbfId": 2513,
+    "dbfId": 32,
+    "name": "风领主奥拉基尔",
+    "rarity": "LEGENDARY",
+    "cost": 8,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "海象人图腾师"
-  },
-  {
-    "dbfId": 2613,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "德莱尼图腾师"
-  },
-  {
-    "dbfId": 2612,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "治疗波"
-  },
-  {
-    "dbfId": 2615,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "雷霆崖勇士"
-  },
-  {
-    "dbfId": 2617,
-    "type": "WEAPON",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "灌魔之锤"
-  },
-  {
-    "dbfId": 2620,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "元素毁灭"
-  },
-  {
-    "dbfId": 2610,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "图腾魔像"
-  },
-  {
-    "dbfId": 2514,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "先祖知识"
-  },
-  {
-    "dbfId": 2618,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "TGT",
-    "name": "唤雾者伊戈瓦尔"
-  },
-  {
-    "dbfId": 48051,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "元素反应"
-  },
-  {
-    "dbfId": 48799,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "我找到了！"
-  },
-  {
-    "dbfId": 48161,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "风暴聚合器"
-  },
-  {
-    "dbfId": 48798,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "瓶装闪电"
-  },
-  {
-    "dbfId": 48490,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "风暴追逐者"
-  },
-  {
-    "dbfId": 48527,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "雷云元素"
-  },
-  {
-    "dbfId": 48537,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "伊莱克特拉·风潮"
-  },
-  {
-    "dbfId": 49052,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "流电爆裂"
-  },
-  {
-    "dbfId": 49162,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "凶恶的雨云"
-  },
-  {
-    "dbfId": 49175,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "BOOMSDAY",
-    "name": "欧米茄灵能者"
-  },
-  {
-    "dbfId": 2289,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "BRM",
-    "name": "熔岩震击"
-  },
-  {
-    "dbfId": 2290,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "BRM",
-    "name": "火焰驱逐者"
-  },
-  {
-    "dbfId": 40285,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "锦鱼人水语者"
-  },
-  {
-    "dbfId": 40419,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "神奇四鱼"
-  },
-  {
-    "dbfId": 40422,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "青玉酋长"
-  },
-  {
-    "dbfId": 40423,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "先到先得"
-  },
-  {
-    "dbfId": 40486,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "白眼大侠"
-  },
-  {
-    "dbfId": 40694,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "衰变"
-  },
-  {
-    "dbfId": 40693,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "玉莲帮幻术师"
-  },
-  {
-    "dbfId": 40455,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "青玉闪电"
-  },
-  {
-    "dbfId": 40529,
-    "type": "WEAPON",
-    "cardClass": "SHAMAN",
-    "set": "GANGS",
-    "name": "青玉之爪"
-  },
-  {
-    "dbfId": 971,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "冰霜震击"
-  },
-  {
-    "dbfId": 404,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "先祖之魂"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 51,
+    "name": "风怒",
+    "rarity": "FREE",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "风怒"
+    "set": "CORE"
   },
   {
     "dbfId": 149,
+    "name": "先祖治疗",
+    "rarity": "FREE",
+    "cost": 0,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "先祖治疗"
-  },
-  {
-    "dbfId": 189,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "火元素"
-  },
-  {
-    "dbfId": 239,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "石化武器"
-  },
-  {
-    "dbfId": 1171,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "嗜血"
-  },
-  {
-    "dbfId": 818,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "视界术"
-  },
-  {
-    "dbfId": 505,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "闪电箭"
-  },
-  {
-    "dbfId": 864,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "熔岩爆裂"
-  },
-  {
-    "dbfId": 618,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "尘魔"
-  },
-  {
-    "dbfId": 830,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "图腾之力"
-  },
-  {
-    "dbfId": 767,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "大地震击"
-  },
-  {
-    "dbfId": 766,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "妖术"
-  },
-  {
-    "dbfId": 960,
-    "type": "WEAPON",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "雷铸战斧"
-  },
-  {
-    "dbfId": 238,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "野性狼魂"
-  },
-  {
-    "dbfId": 1141,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "土元素"
-  },
-  {
-    "dbfId": 299,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "叉状闪电"
-  },
-  {
-    "dbfId": 774,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "无羁元素"
-  },
-  {
-    "dbfId": 629,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "闪电风暴"
-  },
-  {
-    "dbfId": 1008,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "火舌图腾"
-  },
-  {
-    "dbfId": 352,
-    "type": "WEAPON",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "毁灭之锤"
-  },
-  {
-    "dbfId": 513,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "法力之潮图腾"
+    "set": "CORE"
   },
   {
     "dbfId": 178,
+    "name": "风语者",
+    "rarity": "FREE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "风语者"
+    "set": "CORE"
+  },
+  {
+    "dbfId": 189,
+    "name": "火元素",
+    "rarity": "FREE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 238,
+    "name": "野性狼魂",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 239,
+    "name": "石化武器",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 299,
+    "name": "叉状闪电",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 352,
+    "name": "毁灭之锤",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 404,
+    "name": "先祖之魂",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 505,
+    "name": "闪电箭",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 513,
+    "name": "法力之潮图腾",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 618,
+    "name": "尘魔",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 629,
+    "name": "闪电风暴",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 766,
+    "name": "妖术",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 767,
+    "name": "大地震击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 774,
+    "name": "无羁元素",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 818,
+    "name": "视界术",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 830,
+    "name": "图腾之力",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 864,
+    "name": "熔岩爆裂",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 960,
+    "name": "雷铸战斧",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 971,
+    "name": "冰霜震击",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1008,
+    "name": "火舌图腾",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1141,
+    "name": "土元素",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1171,
+    "name": "嗜血",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
   },
   {
     "dbfId": 1809,
+    "name": "转生",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "NAXX",
-    "name": "转生"
-  },
-  {
-    "dbfId": 46887,
-    "type": "HERO",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "女巫哈加莎"
-  },
-  {
-    "dbfId": 46996,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "阴燃电鳗"
-  },
-  {
-    "dbfId": 46998,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "女巫的学徒"
-  },
-  {
-    "dbfId": 47138,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "图腾啃食者"
-  },
-  {
-    "dbfId": 47152,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "大地之力"
-  },
-  {
-    "dbfId": 47222,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "静电震击"
-  },
-  {
-    "dbfId": 47600,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "冥光鱼人"
-  },
-  {
-    "dbfId": 47873,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "塑沼者"
-  },
-  {
-    "dbfId": 48111,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "沙德沃克"
-  },
-  {
-    "dbfId": 48393,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "GILNEAS",
-    "name": "炽焰祈咒"
+    "set": "NAXX"
   },
   {
     "dbfId": 1998,
+    "name": "先祖召唤",
+    "rarity": "EPIC",
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "先祖召唤"
+    "set": "GVG"
   },
   {
     "dbfId": 2004,
+    "name": "动力战锤",
+    "rarity": "RARE",
+    "cost": 3,
     "type": "WEAPON",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "动力战锤"
+    "set": "GVG"
   },
   {
     "dbfId": 2005,
+    "name": "自动漩涡打击装置",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "自动漩涡打击装置"
+    "set": "GVG"
   },
   {
     "dbfId": 2006,
+    "name": "连环爆裂",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "连环爆裂"
+    "set": "GVG"
   },
   {
     "dbfId": 2007,
+    "name": "活力图腾",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "活力图腾"
+    "set": "GVG"
   },
   {
     "dbfId": 2008,
+    "name": "沙鳞灵魂行者",
+    "rarity": "EPIC",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "沙鳞灵魂行者"
+    "set": "GVG"
   },
   {
     "dbfId": 2010,
+    "name": "耐普图隆",
+    "rarity": "LEGENDARY",
+    "cost": 7,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "耐普图隆"
+    "set": "GVG"
   },
   {
     "dbfId": 2034,
+    "name": "砂槌萨满祭司",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "GVG",
-    "name": "砂槌萨满祭司"
+    "set": "GVG"
   },
   {
-    "dbfId": 42676,
+    "dbfId": 2289,
+    "name": "熔岩震击",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "低温静滞"
+    "set": "BRM"
   },
   {
-    "dbfId": 42678,
+    "dbfId": 2290,
+    "name": "火焰驱逐者",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "冷冻鱼人"
+    "set": "BRM"
   },
   {
-    "dbfId": 42747,
+    "dbfId": 2513,
+    "name": "海象人图腾师",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2514,
+    "name": "先祖知识",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "雪崩"
+    "set": "TGT"
   },
   {
-    "dbfId": 42750,
+    "dbfId": 2610,
+    "name": "图腾魔像",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "达卡莱防御者"
+    "set": "TGT"
   },
   {
-    "dbfId": 42762,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "巫毒妖术师"
-  },
-  {
-    "dbfId": 42763,
+    "dbfId": 2612,
+    "name": "治疗波",
+    "rarity": "RARE",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "冰钓术"
+    "set": "TGT"
   },
   {
-    "dbfId": 42765,
+    "dbfId": 2613,
+    "name": "德莱尼图腾师",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "雪怒巨人"
+    "set": "TGT"
   },
   {
-    "dbfId": 42808,
+    "dbfId": 2615,
+    "name": "雷霆崖勇士",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2617,
+    "name": "灌魔之锤",
+    "rarity": "EPIC",
+    "cost": 4,
     "type": "WEAPON",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "破冰斧"
+    "set": "TGT"
   },
   {
-    "dbfId": 43072,
+    "dbfId": 2618,
+    "name": "唤雾者伊戈瓦尔",
+    "rarity": "LEGENDARY",
+    "cost": 6,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "莫拉比"
+    "set": "TGT"
   },
   {
-    "dbfId": 42987,
-    "type": "HERO",
-    "cardClass": "SHAMAN",
-    "set": "ICECROWN",
-    "name": "死亡先知萨尔"
-  },
-  {
-    "dbfId": 39190,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "KARA",
-    "name": "邪恶的巫医"
-  },
-  {
-    "dbfId": 39694,
-    "type": "WEAPON",
-    "cardClass": "SHAMAN",
-    "set": "KARA",
-    "name": "幽灵之爪"
-  },
-  {
-    "dbfId": 39712,
+    "dbfId": 2620,
+    "name": "元素毁灭",
+    "rarity": "EPIC",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "KARA",
-    "name": "大漩涡传送门"
+    "set": "TGT"
   },
   {
     "dbfId": 2888,
+    "name": "顽石元素",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "LOE",
-    "name": "顽石元素"
+    "set": "LOE"
   },
   {
     "dbfId": 2890,
+    "name": "坑道穴居人",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "LOE",
-    "name": "坑道穴居人"
+    "set": "LOE"
   },
   {
     "dbfId": 3007,
+    "name": "鱼人恩典",
+    "rarity": "RARE",
+    "cost": 7,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "LOE",
-    "name": "鱼人恩典"
-  },
-  {
-    "dbfId": 43322,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "粉碎之手"
-  },
-  {
-    "dbfId": 43329,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "狗头人隐士"
-  },
-  {
-    "dbfId": 43331,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "小型法术蓝宝石"
-  },
-  {
-    "dbfId": 45905,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "原始护身符"
-  },
-  {
-    "dbfId": 45995,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "撼世者格朗勃尔"
-  },
-  {
-    "dbfId": 46067,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "治疗之雨"
-  },
-  {
-    "dbfId": 46303,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "不稳定的异变"
-  },
-  {
-    "dbfId": 46305,
-    "type": "WEAPON",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "符文之矛"
-  },
-  {
-    "dbfId": 46432,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "低语元素"
-  },
-  {
-    "dbfId": 46440,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "LOOTAPALOOZA",
-    "name": "风剪唤风者"
-  },
-  {
-    "dbfId": 32,
-    "type": "MINION",
-    "cardClass": "SHAMAN",
-    "set": "EXPERT1",
-    "name": "风领主奥拉基尔"
+    "set": "LOE"
   },
   {
     "dbfId": 38262,
+    "name": "原始融合",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "原始融合"
+    "set": "OG"
   },
   {
     "dbfId": 38263,
+    "name": "投火无面者",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "投火无面者"
+    "set": "OG"
   },
   {
     "dbfId": 38265,
+    "name": "永恒哨卫",
+    "rarity": "EPIC",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "永恒哨卫"
+    "set": "OG"
   },
   {
     "dbfId": 38266,
+    "name": "异变",
+    "rarity": "RARE",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "异变"
+    "set": "OG"
   },
   {
     "dbfId": 38267,
+    "name": "深渊魔物",
+    "rarity": "RARE",
+    "cost": 6,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "深渊魔物"
+    "set": "OG"
   },
   {
     "dbfId": 38270,
+    "name": "暮光神锤",
+    "rarity": "EPIC",
+    "cost": 5,
     "type": "WEAPON",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "暮光神锤"
-  },
-  {
-    "dbfId": 38724,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "雷暴术"
+    "set": "OG"
   },
   {
     "dbfId": 38722,
+    "name": "升腾者海纳泽尔",
+    "rarity": "LEGENDARY",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "升腾者海纳泽尔"
+    "set": "OG"
+  },
+  {
+    "dbfId": 38724,
+    "name": "雷暴术",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "OG"
   },
   {
     "dbfId": 39008,
+    "name": "异变之主",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "OG",
-    "name": "异变之主"
+    "set": "OG"
   },
   {
-    "dbfId": 41152,
+    "dbfId": 39190,
+    "name": "邪恶的巫医",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "空气元素"
+    "set": "KARA"
   },
   {
-    "dbfId": 41159,
+    "dbfId": 39694,
+    "name": "幽灵之爪",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 39712,
+    "name": "大漩涡传送门",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "火山喷发"
+    "set": "KARA"
+  },
+  {
+    "dbfId": 40285,
+    "name": "锦鱼人水语者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40419,
+    "name": "神奇四鱼",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40422,
+    "name": "青玉酋长",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40423,
+    "name": "先到先得",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40455,
+    "name": "青玉闪电",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40486,
+    "name": "白眼大侠",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40529,
+    "name": "青玉之爪",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40693,
+    "name": "玉莲帮幻术师",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40694,
+    "name": "衰变",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "GANGS"
   },
   {
     "dbfId": 41105,
+    "name": "蛮鱼图腾",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "蛮鱼图腾"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41107,
+    "name": "火羽先锋",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "火羽先锋"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41116,
+    "name": "岩石哨兵",
+    "rarity": "EPIC",
+    "cost": 7,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "岩石哨兵"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 41152,
+    "name": "空气元素",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 41159,
+    "name": "火山喷发",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "UNGORO"
   },
   {
     "dbfId": 41331,
+    "name": "荒蛮之主卡利莫斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "荒蛮之主卡利莫斯"
-  },
-  {
-    "dbfId": 41521,
-    "type": "SPELL",
-    "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "海潮涌动"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41479,
+    "name": "温泉守卫",
+    "rarity": "COMMON",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "温泉守卫"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41499,
+    "name": "鱼人总动员",
+    "rarity": "LEGENDARY",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "鱼人总动员"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 41521,
+    "name": "海潮涌动",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "UNGORO"
   },
   {
     "dbfId": 41879,
+    "name": "灵魂回响",
+    "rarity": "EPIC",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "UNGORO",
-    "name": "灵魂回响"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 42676,
+    "name": "低温静滞",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42678,
+    "name": "冷冻鱼人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42747,
+    "name": "雪崩",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42750,
+    "name": "达卡莱防御者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42762,
+    "name": "巫毒妖术师",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42763,
+    "name": "冰钓术",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42765,
+    "name": "雪怒巨人",
+    "rarity": "EPIC",
+    "cost": 11,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42808,
+    "name": "破冰斧",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42987,
+    "name": "死亡先知萨尔",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 43072,
+    "name": "莫拉比",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 43322,
+    "name": "粉碎之手",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43329,
+    "name": "狗头人隐士",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43331,
+    "name": "小型法术蓝宝石",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45905,
+    "name": "原始护身符",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45995,
+    "name": "撼世者格朗勃尔",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46067,
+    "name": "治疗之雨",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46303,
+    "name": "不稳定的异变",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46305,
+    "name": "符文之矛",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46432,
+    "name": "低语元素",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46440,
+    "name": "风剪唤风者",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46887,
+    "name": "女巫哈加莎",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46996,
+    "name": "阴燃电鳗",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46998,
+    "name": "女巫的学徒",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47138,
+    "name": "图腾啃食者",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47152,
+    "name": "大地之力",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47222,
+    "name": "静电震击",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47600,
+    "name": "冥光鱼人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47873,
+    "name": "塑沼者",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48051,
+    "name": "元素反应",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48111,
+    "name": "沙德沃克",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48161,
+    "name": "风暴聚合器",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48393,
+    "name": "炽焰祈咒",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48490,
+    "name": "风暴追逐者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48527,
+    "name": "雷云元素",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48537,
+    "name": "伊莱克特拉·风潮",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48798,
+    "name": "瓶装闪电",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48799,
+    "name": "我找到了！",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49052,
+    "name": "流电爆裂",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49162,
+    "name": "凶恶的雨云",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49175,
+    "name": "欧米茄灵能者",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "BOOMSDAY"
   }
 ]

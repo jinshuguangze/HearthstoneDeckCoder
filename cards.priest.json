@@ -1,835 +1,1073 @@
 [
   {
-    "dbfId": 2555,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "神圣勇士"
-  },
-  {
-    "dbfId": 2551,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "暗影子嗣"
-  },
-  {
-    "dbfId": 2568,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "真言术：耀"
-  },
-  {
-    "dbfId": 2566,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "暗影魔"
-  },
-  {
-    "dbfId": 2563,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "策反"
-  },
-  {
-    "dbfId": 2564,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "迷乱"
-  },
-  {
-    "dbfId": 2556,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "银色神官帕尔崔丝"
-  },
-  {
-    "dbfId": 2582,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "快速治疗"
-  },
-  {
-    "dbfId": 2596,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "TGT",
-    "name": "龙眠教官"
-  },
-  {
-    "dbfId": 48099,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "欧米茄医护兵"
-  },
-  {
-    "dbfId": 48101,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "增生手臂"
-  },
-  {
-    "dbfId": 48203,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "克隆大师泽里克"
-  },
-  {
-    "dbfId": 48759,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "克隆装置"
-  },
-  {
-    "dbfId": 48929,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "丧钟机器人"
-  },
-  {
-    "dbfId": 48976,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "引力翻转"
-  },
-  {
-    "dbfId": 49013,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "真言术：仿"
-  },
-  {
-    "dbfId": 49265,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "实验体"
-  },
-  {
-    "dbfId": 49416,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "鲁莽的实验者"
-  },
-  {
-    "dbfId": 49421,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "BOOMSDAY",
-    "name": "泽里克的克隆展"
-  },
-  {
-    "dbfId": 2286,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "BRM",
-    "name": "暮光雏龙"
-  },
-  {
-    "dbfId": 2298,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "BRM",
-    "name": "复活术"
-  },
-  {
-    "dbfId": 40323,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "缚链者拉兹"
-  },
-  {
-    "dbfId": 40373,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "疯狂药水"
-  },
-  {
-    "dbfId": 40375,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "强效治疗药水"
-  },
-  {
-    "dbfId": 40378,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "龙人侦测者"
-  },
-  {
-    "dbfId": 40381,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "法力晶簇"
-  },
-  {
-    "dbfId": 40432,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "暗金教鸦人祭司"
-  },
-  {
-    "dbfId": 40929,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "暗金教窃歌者"
-  },
-  {
-    "dbfId": 40936,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "缩小药水"
-  },
-  {
-    "dbfId": 40938,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GANGS",
-    "name": "龙息药水"
-  },
-  {
-    "dbfId": 841,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "神圣新星"
-  },
-  {
     "dbfId": 8,
+    "name": "精神控制",
+    "rarity": "FREE",
+    "cost": 10,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "精神控制"
-  },
-  {
-    "dbfId": 376,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "心灵之火"
-  },
-  {
-    "dbfId": 279,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "神圣惩击"
-  },
-  {
-    "dbfId": 1099,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "心灵视界"
-  },
-  {
-    "dbfId": 613,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "真言术：盾"
-  },
-  {
-    "dbfId": 1367,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "暗言术：痛"
-  },
-  {
-    "dbfId": 1650,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "北郡牧师"
-  },
-  {
-    "dbfId": 1361,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "神圣之灵"
-  },
-  {
-    "dbfId": 545,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "心灵震爆"
-  },
-  {
-    "dbfId": 272,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "秘教暗影祭司"
-  },
-  {
-    "dbfId": 1189,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "沉默"
-  },
-  {
-    "dbfId": 220,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "暗影狂乱"
-  },
-  {
-    "dbfId": 886,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "光耀之子"
-  },
-  {
-    "dbfId": 30,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "思维窃取"
-  },
-  {
-    "dbfId": 797,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "光明之泉"
-  },
-  {
-    "dbfId": 145,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "控心术"
+    "set": "CORE"
   },
   {
     "dbfId": 9,
+    "name": "先知维伦",
+    "rarity": "LEGENDARY",
+    "cost": 7,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "先知维伦"
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 30,
+    "name": "思维窃取",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 145,
+    "name": "控心术",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 220,
+    "name": "暗影狂乱",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
   },
   {
     "dbfId": 237,
+    "name": "奥金尼灵魂祭司",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "奥金尼灵魂祭司"
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 272,
+    "name": "秘教暗影祭司",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 279,
+    "name": "神圣惩击",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 376,
+    "name": "心灵之火",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 545,
+    "name": "心灵震爆",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 613,
+    "name": "真言术：盾",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 797,
+    "name": "光明之泉",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 841,
+    "name": "神圣新星",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 886,
+    "name": "光耀之子",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1099,
+    "name": "心灵视界",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1189,
+    "name": "沉默",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1361,
+    "name": "神圣之灵",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
   },
   {
     "dbfId": 1362,
+    "name": "治疗之环",
+    "rarity": "COMMON",
+    "cost": 0,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "治疗之环"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 1363,
+    "name": "暗言术：灭",
+    "rarity": "FREE",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "暗言术：灭"
+    "set": "CORE"
   },
   {
     "dbfId": 1364,
+    "name": "圣殿执行者",
+    "rarity": "COMMON",
+    "cost": 6,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "圣殿执行者"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 1365,
+    "name": "神圣之火",
+    "rarity": "RARE",
+    "cost": 6,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "神圣之火"
-  },
-  {
-    "dbfId": 1368,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "暗影形态"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 1366,
+    "name": "群体驱散",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "EXPERT1",
-    "name": "群体驱散"
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1367,
+    "name": "暗言术：痛",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1368,
+    "name": "暗影形态",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1650,
+    "name": "北郡牧师",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
   },
   {
     "dbfId": 1807,
+    "name": "黑暗教徒",
+    "rarity": "COMMON",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "NAXX",
-    "name": "黑暗教徒"
-  },
-  {
-    "dbfId": 46694,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "圣水"
-  },
-  {
-    "dbfId": 46706,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "变色龙卡米洛斯"
-  },
-  {
-    "dbfId": 46737,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "石英元素"
-  },
-  {
-    "dbfId": 46862,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "夜鳞龙后"
-  },
-  {
-    "dbfId": 47549,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "神圣赞美诗"
-  },
-  {
-    "dbfId": 47836,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "破棺者"
-  },
-  {
-    "dbfId": 48002,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "鲜活梦魇"
-  },
-  {
-    "dbfId": 48360,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "南瓜宝宝"
-  },
-  {
-    "dbfId": 48444,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "闪光飞蛾"
-  },
-  {
-    "dbfId": 48560,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GILNEAS",
-    "name": "白衣幽魂"
-  },
-  {
-    "dbfId": 1938,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "圣光炸弹"
-  },
-  {
-    "dbfId": 1937,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "暗影投弹手"
-  },
-  {
-    "dbfId": 1935,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "维伦的恩泽"
-  },
-  {
-    "dbfId": 1936,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "缩小射线工程师"
-  },
-  {
-    "dbfId": 1933,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "纳鲁之光"
+    "set": "NAXX"
   },
   {
     "dbfId": 1931,
+    "name": "沃金",
+    "rarity": "LEGENDARY",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "沃金"
+    "set": "GVG"
+  },
+  {
+    "dbfId": 1933,
+    "name": "纳鲁之光",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 1935,
+    "name": "维伦的恩泽",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 1936,
+    "name": "缩小射线工程师",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 1937,
+    "name": "暗影投弹手",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 1938,
+    "name": "圣光炸弹",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GVG"
   },
   {
     "dbfId": 2040,
+    "name": "暗影打击装甲",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "暗影打击装甲"
+    "set": "GVG"
   },
   {
     "dbfId": 2051,
+    "name": "高级修理机器人",
+    "rarity": "RARE",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "GVG",
-    "name": "高级修理机器人"
+    "set": "GVG"
   },
   {
-    "dbfId": 42566,
+    "dbfId": 2286,
+    "name": "暮光雏龙",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "BRM"
+  },
+  {
+    "dbfId": 2298,
+    "name": "复活术",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "吞噬意志"
+    "set": "BRM"
   },
   {
-    "dbfId": 42574,
+    "dbfId": 2551,
+    "name": "暗影子嗣",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "暗影升腾者"
+    "set": "TGT"
   },
   {
-    "dbfId": 42596,
+    "dbfId": 2555,
+    "name": "神圣勇士",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "酷虐侍僧"
+    "set": "TGT"
   },
   {
-    "dbfId": 42597,
+    "dbfId": 2556,
+    "name": "银色神官帕尔崔丝",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2563,
+    "name": "策反",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "永恒奴役"
+    "set": "TGT"
   },
   {
-    "dbfId": 42598,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "黑曜石雕像"
-  },
-  {
-    "dbfId": 42633,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "大主教本尼迪塔斯"
-  },
-  {
-    "dbfId": 42804,
+    "dbfId": 2564,
+    "name": "迷乱",
+    "rarity": "EPIC",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "暗影精华"
+    "set": "TGT"
   },
   {
-    "dbfId": 42992,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "灵魂鞭笞"
-  },
-  {
-    "dbfId": 43408,
-    "type": "HERO",
-    "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "暗影收割者安度因"
-  },
-  {
-    "dbfId": 45308,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "ICECROWN",
-    "name": "黑暗之拥"
-  },
-  {
-    "dbfId": 39468,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "KARA",
-    "name": "净化"
-  },
-  {
-    "dbfId": 39442,
+    "dbfId": 2566,
+    "name": "暗影魔",
+    "rarity": "EPIC",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "KARA",
-    "name": "宴会牧师"
+    "set": "TGT"
   },
   {
-    "dbfId": 39374,
+    "dbfId": 2568,
+    "name": "真言术：耀",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2582,
+    "name": "快速治疗",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2596,
+    "name": "龙眠教官",
+    "rarity": "RARE",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "KARA",
-    "name": "玛瑙主教"
+    "set": "TGT"
   },
   {
     "dbfId": 2878,
+    "name": "博物馆馆长",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "LOE",
-    "name": "博物馆馆长"
-  },
-  {
-    "dbfId": 3015,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "LOE",
-    "name": "埋葬"
+    "set": "LOE"
   },
   {
     "dbfId": 2999,
+    "name": "极恶之咒",
+    "rarity": "RARE",
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "LOE",
-    "name": "极恶之咒"
+    "set": "LOE"
   },
   {
-    "dbfId": 43112,
+    "dbfId": 3015,
+    "name": "埋葬",
+    "rarity": "COMMON",
+    "cost": 6,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "心灵尖啸"
-  },
-  {
-    "dbfId": 45353,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "暮光召唤"
-  },
-  {
-    "dbfId": 45528,
-    "type": "WEAPON",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "巨龙之魂"
-  },
-  {
-    "dbfId": 45759,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "未鉴定的药剂"
-  },
-  {
-    "dbfId": 45979,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "灵能窥探"
-  },
-  {
-    "dbfId": 45899,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "破晓之龙"
-  },
-  {
-    "dbfId": 46307,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "小型法术钻石"
-  },
-  {
-    "dbfId": 46460,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "暮光侍僧"
-  },
-  {
-    "dbfId": 46495,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "镀金的石像鬼"
-  },
-  {
-    "dbfId": 46544,
-    "type": "MINION",
-    "cardClass": "PRIEST",
-    "set": "LOOTAPALOOZA",
-    "name": "坦普卢斯"
+    "set": "LOE"
   },
   {
     "dbfId": 38426,
+    "name": "真言术：触",
+    "rarity": "COMMON",
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "真言术：触"
+    "set": "OG"
   },
   {
     "dbfId": 38429,
+    "name": "暮光暗愈者",
+    "rarity": "RARE",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "暮光暗愈者"
+    "set": "OG"
   },
   {
     "dbfId": 38433,
+    "name": "暗言术：骇",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "暗言术：骇"
+    "set": "OG"
   },
   {
     "dbfId": 38434,
+    "name": "禁忌畸变",
+    "rarity": "EPIC",
+    "cost": 0,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "禁忌畸变"
+    "set": "OG"
   },
   {
     "dbfId": 38439,
+    "name": "暗影之握",
+    "rarity": "EPIC",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "暗影之握"
+    "set": "OG"
   },
   {
     "dbfId": 38764,
+    "name": "夜色镇炼金师",
+    "rarity": "COMMON",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "夜色镇炼金师"
+    "set": "OG"
   },
   {
     "dbfId": 38922,
+    "name": "传令官沃拉兹",
+    "rarity": "LEGENDARY",
+    "cost": 6,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "传令官沃拉兹"
+    "set": "OG"
   },
   {
     "dbfId": 39033,
+    "name": "兜帽侍僧",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "兜帽侍僧"
+    "set": "OG"
   },
   {
     "dbfId": 39034,
+    "name": "变幻之影",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "OG",
-    "name": "变幻之影"
+    "set": "OG"
+  },
+  {
+    "dbfId": 39374,
+    "name": "玛瑙主教",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 39442,
+    "name": "宴会牧师",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 39468,
+    "name": "净化",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 40323,
+    "name": "缚链者拉兹",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40373,
+    "name": "疯狂药水",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40375,
+    "name": "强效治疗药水",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40378,
+    "name": "龙人侦测者",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40381,
+    "name": "法力晶簇",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40432,
+    "name": "暗金教鸦人祭司",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40929,
+    "name": "暗金教窃歌者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40936,
+    "name": "缩小药水",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40938,
+    "name": "龙息药水",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GANGS"
   },
   {
     "dbfId": 41155,
+    "name": "幻象制造者",
+    "rarity": "RARE",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "幻象制造者"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41169,
+    "name": "暗影视界",
+    "rarity": "EPIC",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "暗影视界"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41170,
+    "name": "联结治疗",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "联结治疗"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41173,
+    "name": "结晶预言者",
+    "rarity": "RARE",
+    "cost": 1,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "结晶预言者"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41176,
+    "name": "光照元素",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "光照元素"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41177,
+    "name": "好奇的萤根草",
+    "rarity": "EPIC",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "好奇的萤根草"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41180,
+    "name": "始祖龟执盾者",
+    "rarity": "COMMON",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "始祖龟执盾者"
-  },
-  {
-    "dbfId": 42009,
-    "type": "SPELL",
-    "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "琥口脱险"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41494,
+    "name": "唤醒造物者",
+    "rarity": "LEGENDARY",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "唤醒造物者"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 42009,
+    "name": "琥口脱险",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "UNGORO"
   },
   {
     "dbfId": 42046,
+    "name": "“太阳裂片”莱拉",
+    "rarity": "LEGENDARY",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "UNGORO",
-    "name": "“太阳裂片”莱拉"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 42566,
+    "name": "吞噬意志",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42574,
+    "name": "暗影升腾者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42596,
+    "name": "酷虐侍僧",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42597,
+    "name": "永恒奴役",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42598,
+    "name": "黑曜石雕像",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42633,
+    "name": "大主教本尼迪塔斯",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42804,
+    "name": "暗影精华",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42992,
+    "name": "灵魂鞭笞",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 43112,
+    "name": "心灵尖啸",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43408,
+    "name": "暗影收割者安度因",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 45308,
+    "name": "黑暗之拥",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 45353,
+    "name": "暮光召唤",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45528,
+    "name": "巨龙之魂",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45759,
+    "name": "未鉴定的药剂",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45899,
+    "name": "破晓之龙",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45979,
+    "name": "灵能窥探",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46307,
+    "name": "小型法术钻石",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46460,
+    "name": "暮光侍僧",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46495,
+    "name": "镀金的石像鬼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46544,
+    "name": "坦普卢斯",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46694,
+    "name": "圣水",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46706,
+    "name": "变色龙卡米洛斯",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46737,
+    "name": "石英元素",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46862,
+    "name": "夜鳞龙后",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47549,
+    "name": "神圣赞美诗",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47836,
+    "name": "破棺者",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48002,
+    "name": "鲜活梦魇",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48099,
+    "name": "欧米茄医护兵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48101,
+    "name": "增生手臂",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48203,
+    "name": "克隆大师泽里克",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48360,
+    "name": "南瓜宝宝",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48444,
+    "name": "闪光飞蛾",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48560,
+    "name": "白衣幽魂",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48759,
+    "name": "克隆装置",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48929,
+    "name": "丧钟机器人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48976,
+    "name": "引力翻转",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49013,
+    "name": "真言术：仿",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49265,
+    "name": "实验体",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49416,
+    "name": "鲁莽的实验者",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49421,
+    "name": "泽里克的克隆展",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "BOOMSDAY"
   }
 ]

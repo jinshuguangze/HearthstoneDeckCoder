@@ -1,149 +1,191 @@
 [
   {
     "dbfId": 7,
+    "name": "加尔鲁什·地狱咆哮",
+    "rarity": "FREE",
+    "cost": 0,
     "type": "HERO",
     "cardClass": "WARRIOR",
-    "set": "CORE",
-    "name": "加尔鲁什·地狱咆哮"
-  },
-  {
-    "dbfId": 2828,
-    "type": "HERO",
-    "cardClass": "WARRIOR",
-    "set": "HERO_SKINS",
-    "name": "麦格尼·铜须"
-  },
-  {
-    "dbfId": 1066,
-    "type": "HERO",
-    "cardClass": "SHAMAN",
-    "set": "CORE",
-    "name": "萨尔"
-  },
-  {
-    "dbfId": 40183,
-    "type": "HERO",
-    "cardClass": "SHAMAN",
-    "set": "HERO_SKINS",
-    "name": "神谕者摩戈尔"
-  },
-  {
-    "dbfId": 930,
-    "type": "HERO",
-    "cardClass": "ROGUE",
-    "set": "CORE",
-    "name": "瓦莉拉·萨古纳尔"
-  },
-  {
-    "dbfId": 40195,
-    "type": "HERO",
-    "cardClass": "ROGUE",
-    "set": "HERO_SKINS",
-    "name": "玛维·影歌"
-  },
-  {
-    "dbfId": 671,
-    "type": "HERO",
-    "cardClass": "PALADIN",
-    "set": "CORE",
-    "name": "乌瑟尔·光明使者"
-  },
-  {
-    "dbfId": 2827,
-    "type": "HERO",
-    "cardClass": "PALADIN",
-    "set": "HERO_SKINS",
-    "name": "女伯爵莉亚德琳"
-  },
-  {
-    "dbfId": 46116,
-    "type": "HERO",
-    "cardClass": "PALADIN",
-    "set": "HERO_SKINS",
-    "name": "阿尔萨斯王子"
+    "set": "CORE"
   },
   {
     "dbfId": 31,
+    "name": "雷克萨",
+    "rarity": "FREE",
+    "cost": 0,
     "type": "HERO",
     "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "雷克萨"
-  },
-  {
-    "dbfId": 2826,
-    "type": "HERO",
-    "cardClass": "HUNTER",
-    "set": "HERO_SKINS",
-    "name": "奥蕾莉亚·风行者"
+    "set": "CORE"
   },
   {
     "dbfId": 274,
+    "name": "玛法里奥·怒风",
+    "rarity": "FREE",
+    "cost": 0,
     "type": "HERO",
     "cardClass": "DRUID",
-    "set": "CORE",
-    "name": "玛法里奥·怒风"
-  },
-  {
-    "dbfId": 50484,
-    "type": "HERO",
-    "cardClass": "DRUID",
-    "set": "HERO_SKINS",
-    "name": "露娜拉"
-  },
-  {
-    "dbfId": 893,
-    "type": "HERO",
-    "cardClass": "WARLOCK",
-    "set": "CORE",
-    "name": "古尔丹"
-  },
-  {
-    "dbfId": 47817,
-    "type": "HERO",
-    "cardClass": "WARLOCK",
-    "set": "HERO_SKINS",
-    "name": "奈姆希·灵沼"
-  },
-  {
-    "dbfId": 51834,
-    "type": "HERO",
-    "cardClass": "WARLOCK",
-    "set": "HERO_SKINS",
-    "name": "机械加拉克苏斯"
+    "set": "CORE"
   },
   {
     "dbfId": 637,
+    "name": "吉安娜·普罗德摩尔",
+    "rarity": "FREE",
+    "cost": 0,
     "type": "HERO",
     "cardClass": "MAGE",
-    "set": "CORE",
-    "name": "吉安娜·普罗德摩尔"
+    "set": "CORE"
   },
   {
-    "dbfId": 2829,
+    "dbfId": 671,
+    "name": "乌瑟尔·光明使者",
+    "rarity": "FREE",
+    "cost": 0,
     "type": "HERO",
-    "cardClass": "MAGE",
-    "set": "HERO_SKINS",
-    "name": "麦迪文"
-  },
-  {
-    "dbfId": 39117,
-    "type": "HERO",
-    "cardClass": "MAGE",
-    "set": "HERO_SKINS",
-    "name": "卡德加"
+    "cardClass": "PALADIN",
+    "set": "CORE"
   },
   {
     "dbfId": 813,
+    "name": "安度因·乌瑞恩",
+    "rarity": "FREE",
+    "cost": 0,
     "type": "HERO",
     "cardClass": "PRIEST",
-    "set": "CORE",
-    "name": "安度因·乌瑞恩"
+    "set": "CORE"
+  },
+  {
+    "dbfId": 893,
+    "name": "古尔丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 930,
+    "name": "瓦莉拉·萨古纳尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1066,
+    "name": "萨尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 2826,
+    "name": "奥蕾莉亚·风行者",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 2827,
+    "name": "女伯爵莉亚德琳",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 2828,
+    "name": "麦格尼·铜须",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 2829,
+    "name": "麦迪文",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 39117,
+    "name": "卡德加",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 40183,
+    "name": "神谕者摩戈尔",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 40195,
+    "name": "玛维·影歌",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
   },
   {
     "dbfId": 41887,
+    "name": "泰兰德·语风",
+    "rarity": "EPIC",
+    "cost": 0,
     "type": "HERO",
     "cardClass": "PRIEST",
-    "set": "HERO_SKINS",
-    "name": "泰兰德·语风"
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 46116,
+    "name": "阿尔萨斯王子",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 47817,
+    "name": "奈姆希·灵沼",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 50484,
+    "name": "露娜拉",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 51834,
+    "name": "机械加拉克苏斯",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
   }
 ]

@@ -17,28 +17,27 @@ public class Test {
 		//System.out.println(30-2*doubleCount);
 		
 		//测试json分类器
-		//JsonReader jr=new JsonReader(JsonReader.path,false);
-		//jr.cardsClassify();
+		JsonReader jr=new JsonReader(JsonReader.path,false);
+		jr.cardsSort();
+		jr.cardsClassify();
 		
 		//测试编码转数组
-		//CodeAnalyzer ca1 = new CodeAnalyzer();
 		//String aString=
-		//		"AAEBAaIHHp4BmQLtAo0DpAP+A6wE3QSQB8oI8wyXDZAVyxbnFv6sAsuvApS2Atm6Ap+9Asm/Asq/Atm/AuC/AsLDAsbLAtjNArHOApTQAvfzAgAA";
-		//System.out.println(ca1.code2list(aString));
+		//		"AAEBAbSKAxDIBfEFmAfTD54QphCEEtoTxRWgwQLIxwKZ0wLE7AKa7gKM7wKrgAMHiwjkFYWtAv+tAq7CAtfrAuT7AgA=";
+		//System.out.println(CodeAnalyzer.code2list(aString));
 		
 		//测试数组转编码
-		//CodeAnalyzer ca2 = new CodeAnalyzer();
 		//Integer[] aIntegers=new Integer[] { 
-		//		0, 1, 1, 1, 930, 30, 158, 281, 365, 397, 420, 510, 556, 605, 912, 1098, 1651, 1687, 2704, 2891, 2919, 38526, 38859, 39700, 40281, 40607, 40905, 40906, 40921, 40928, 41410, 42438, 42712, 42801, 43028, 47607, 0,0
+		//		0, 1, 1, 1, 46116, 30, 336, 374, 570, 581, 834, 890,
+		//		912, 1914, 2078, 2727, 2883, 2948, 2949, 38312, 38758, 39119, 39225, 39941, 40636, 41289, 41841, 42818,
+		//		43406, 45340, 45366, 46263, 46403, 46449, 47298, 48107, 0,0
 		//		};
-		//System.out.println(ca2.list2code(Arrays.asList(aIntegers)));
+		//System.out.println(CodeAnalyzer.llist2code(Arrays.asList(aIntegers)));
 		
 		//测试随机卡组生成
+		//BUG:偶尔出现不适合这个模式
 		DeckBuilder db = new DeckBuilder();
-		CodeAnalyzer ca3 = new CodeAnalyzer();
 		db.randomBuild();
-		System.out.println("### RandomDeckByJinshu\n"+ca3.list2code(db.deckList));
-		System.out.println(db.deckName);
-		System.out.println(db.deckList);
+		db.deckPrint(true);
 	}
 }

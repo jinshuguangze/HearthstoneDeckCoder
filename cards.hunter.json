@@ -1,842 +1,1082 @@
 [
   {
-    "dbfId": 2552,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "暴躁的牧羊人"
-  },
-  {
-    "dbfId": 2638,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "强风射击"
-  },
-  {
-    "dbfId": 2639,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "兽栏大师"
-  },
-  {
-    "dbfId": 2635,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "皇家雷象"
-  },
-  {
-    "dbfId": 2642,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "神勇弓箭手"
-  },
-  {
-    "dbfId": 2641,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "捕熊陷阱"
-  },
-  {
-    "dbfId": 2484,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "子弹上膛"
-  },
-  {
-    "dbfId": 2483,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "天降蛛群"
-  },
-  {
-    "dbfId": 2633,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "酸喉"
-  },
-  {
-    "dbfId": 2634,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "TGT",
-    "name": "恐鳞"
-  },
-  {
-    "dbfId": 47840,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "投掷炸弹"
-  },
-  {
-    "dbfId": 47841,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "爆破大师弗拉克"
-  },
-  {
-    "dbfId": 47842,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "毒箭机器人"
-  },
-  {
-    "dbfId": 47855,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "烟火技师"
-  },
-  {
-    "dbfId": 47856,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "死灵机械师"
-  },
-  {
-    "dbfId": 48185,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "蜘蛛炸弹"
-  },
-  {
-    "dbfId": 48519,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "奥秘图纸"
-  },
-  {
-    "dbfId": 48670,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "弗拉克的火箭炮"
-  },
-  {
-    "dbfId": 48770,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "地精的把戏"
-  },
-  {
-    "dbfId": 48772,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "BOOMSDAY",
-    "name": "机核芯片"
-  },
-  {
-    "dbfId": 2260,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "BRM",
-    "name": "快速射击"
-  },
-  {
-    "dbfId": 2263,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "BRM",
-    "name": "熔火怒犬"
-  },
-  {
-    "dbfId": 40339,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "军备宝箱"
-  },
-  {
-    "dbfId": 40426,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "雄斑虎"
-  },
-  {
-    "dbfId": 40428,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "瘟疫鼠群"
-  },
-  {
-    "dbfId": 40678,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "金手指纳克斯"
-  },
-  {
-    "dbfId": 40679,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "走私货物"
-  },
-  {
-    "dbfId": 41126,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "驮运科多兽"
-  },
-  {
-    "dbfId": 40681,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "豺狼人土枪手"
-  },
-  {
-    "dbfId": 40683,
-    "type": "WEAPON",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "食人鱼喷枪"
-  },
-  {
-    "dbfId": 40684,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GANGS",
-    "name": "穴居人驯兽师"
-  },
-  {
     "dbfId": 141,
+    "name": "猎人印记",
+    "rarity": "FREE",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "猎人印记"
-  },
-  {
-    "dbfId": 1241,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "饥饿的秃鹫"
-  },
-  {
-    "dbfId": 1003,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "驯兽师"
-  },
-  {
-    "dbfId": 606,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "森林狼"
-  },
-  {
-    "dbfId": 699,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "苔原犀牛"
+    "set": "CORE"
   },
   {
     "dbfId": 292,
+    "name": "多重射击",
+    "rarity": "FREE",
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "多重射击"
-  },
-  {
-    "dbfId": 1047,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "追踪术"
-  },
-  {
-    "dbfId": 877,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "奥术射击"
-  },
-  {
-    "dbfId": 311,
-    "type": "WEAPON",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "角斗士的长弓"
-  },
-  {
-    "dbfId": 1281,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "食腐土狼"
-  },
-  {
-    "dbfId": 1091,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "误导"
-  },
-  {
-    "dbfId": 1261,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "长鬃草原狮"
-  },
-  {
-    "dbfId": 1662,
-    "type": "WEAPON",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "鹰角弓"
-  },
-  {
-    "dbfId": 394,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "爆炸射击"
-  },
-  {
-    "dbfId": 1243,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "关门放狗"
+    "set": "CORE"
   },
   {
     "dbfId": 296,
+    "name": "杀戮命令",
+    "rarity": "FREE",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "杀戮命令"
+    "set": "CORE"
   },
   {
-    "dbfId": 1144,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "暴龙王克鲁什"
-  },
-  {
-    "dbfId": 896,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "照明弹"
-  },
-  {
-    "dbfId": 903,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "狂野怒火"
-  },
-  {
-    "dbfId": 455,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "毒蛇陷阱"
-  },
-  {
-    "dbfId": 814,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "狙击"
-  },
-  {
-    "dbfId": 585,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "爆炸陷阱"
-  },
-  {
-    "dbfId": 519,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "冰冻陷阱"
-  },
-  {
-    "dbfId": 1093,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "EXPERT1",
-    "name": "致命射击"
-  },
-  {
-    "dbfId": 1860,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "NAXX",
-    "name": "结网蛛"
-  },
-  {
-    "dbfId": 46678,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "艾莫莉丝"
-  },
-  {
-    "dbfId": 46596,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "暮湾镇猎手"
-  },
-  {
-    "dbfId": 46940,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "飞翼冲击"
-  },
-  {
-    "dbfId": 47078,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "邪巢诱捕蛛"
-  },
-  {
-    "dbfId": 47128,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "捕鼠陷阱"
-  },
-  {
-    "dbfId": 47256,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "毒药贩子"
-  },
-  {
-    "dbfId": 47930,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "狩猎犬"
-  },
-  {
-    "dbfId": 47488,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "驯犬大师肖尔"
-  },
-  {
-    "dbfId": 48201,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "凶猛狂暴"
-  },
-  {
-    "dbfId": 48902,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GILNEAS",
-    "name": "食腐飞龙"
-  },
-  {
-    "dbfId": 2094,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "召唤宠物"
-  },
-  {
-    "dbfId": 1991,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "假死"
-  },
-  {
-    "dbfId": 2011,
+    "dbfId": 311,
+    "name": "角斗士的长弓",
+    "rarity": "EPIC",
+    "cost": 7,
     "type": "WEAPON",
     "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "重型刃弩"
+    "set": "EXPERT1"
   },
   {
-    "dbfId": 2014,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "百兽之王"
-  },
-  {
-    "dbfId": 2016,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "金刚刃牙兽"
-  },
-  {
-    "dbfId": 2017,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "加兹瑞拉"
-  },
-  {
-    "dbfId": 2041,
+    "dbfId": 394,
+    "name": "爆炸射击",
+    "rarity": "RARE",
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "眼镜蛇射击"
-  },
-  {
-    "dbfId": 2055,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "GVG",
-    "name": "热砂港狙击手"
-  },
-  {
-    "dbfId": 42320,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "自爆肿胀蝠"
-  },
-  {
-    "dbfId": 42648,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "剧毒箭矢"
-  },
-  {
-    "dbfId": 42652,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "装死"
-  },
-  {
-    "dbfId": 42525,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "眼镜蛇陷阱"
-  },
-  {
-    "dbfId": 42563,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "普崔塞德教授"
-  },
-  {
-    "dbfId": 42822,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "巨型尸蛛"
-  },
-  {
-    "dbfId": 42707,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "缝合追踪者"
-  },
-  {
-    "dbfId": 42711,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "熊鲨"
-  },
-  {
-    "dbfId": 43245,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "憎恶弓箭手"
-  },
-  {
-    "dbfId": 43398,
-    "type": "HERO",
-    "cardClass": "HUNTER",
-    "set": "ICECROWN",
-    "name": "死亡猎手雷克萨"
-  },
-  {
-    "dbfId": 39160,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "KARA",
-    "name": "豹子戏法"
-  },
-  {
-    "dbfId": 39481,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "KARA",
-    "name": "慈祥的外婆"
-  },
-  {
-    "dbfId": 39492,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "KARA",
-    "name": "神秘女猎手"
-  },
-  {
-    "dbfId": 2892,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "LOE",
-    "name": "大漠沙驼"
-  },
-  {
-    "dbfId": 2893,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "LOE",
-    "name": "毒镖陷阱"
-  },
-  {
-    "dbfId": 3001,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "LOE",
-    "name": "探险帽"
-  },
-  {
-    "dbfId": 43357,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "侧翼打击"
-  },
-  {
-    "dbfId": 43358,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "洞穴多头蛇"
-  },
-  {
-    "dbfId": 43359,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "游荡怪物"
-  },
-  {
-    "dbfId": 43363,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "小型法术翡翠"
-  },
-  {
-    "dbfId": 43369,
-    "type": "WEAPON",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "伦鲁迪洛尔"
-  },
-  {
-    "dbfId": 45546,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "来我身边！"
-  },
-  {
-    "dbfId": 45537,
-    "type": "WEAPON",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "蜡烛弓"
-  },
-  {
-    "dbfId": 46390,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "卡瑟娜·冬灵"
-  },
-  {
-    "dbfId": 46445,
-    "type": "MINION",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "渗水的软泥怪"
-  },
-  {
-    "dbfId": 46450,
-    "type": "SPELL",
-    "cardClass": "HUNTER",
-    "set": "LOOTAPALOOZA",
-    "name": "碾压墙"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 437,
+    "name": "动物伙伴",
+    "rarity": "FREE",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE",
-    "name": "动物伙伴"
+    "set": "CORE"
+  },
+  {
+    "dbfId": 455,
+    "name": "毒蛇陷阱",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 519,
+    "name": "冰冻陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 585,
+    "name": "爆炸陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 606,
+    "name": "森林狼",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 699,
+    "name": "苔原犀牛",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 814,
+    "name": "狙击",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 877,
+    "name": "奥术射击",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 896,
+    "name": "照明弹",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 903,
+    "name": "狂野怒火",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1003,
+    "name": "驯兽师",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1047,
+    "name": "追踪术",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1091,
+    "name": "误导",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1093,
+    "name": "致命射击",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1144,
+    "name": "暴龙王克鲁什",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1241,
+    "name": "饥饿的秃鹫",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 1243,
+    "name": "关门放狗",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1261,
+    "name": "长鬃草原狮",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1281,
+    "name": "食腐土狼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1662,
+    "name": "鹰角弓",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 1860,
+    "name": "结网蛛",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "NAXX"
+  },
+  {
+    "dbfId": 1991,
+    "name": "假死",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2011,
+    "name": "重型刃弩",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2014,
+    "name": "百兽之王",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2016,
+    "name": "金刚刃牙兽",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2017,
+    "name": "加兹瑞拉",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2041,
+    "name": "眼镜蛇射击",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2055,
+    "name": "热砂港狙击手",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2094,
+    "name": "召唤宠物",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GVG"
+  },
+  {
+    "dbfId": 2260,
+    "name": "快速射击",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BRM"
+  },
+  {
+    "dbfId": 2263,
+    "name": "熔火怒犬",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BRM"
+  },
+  {
+    "dbfId": 2483,
+    "name": "天降蛛群",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2484,
+    "name": "子弹上膛",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2552,
+    "name": "暴躁的牧羊人",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2633,
+    "name": "酸喉",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2634,
+    "name": "恐鳞",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2635,
+    "name": "皇家雷象",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2638,
+    "name": "强风射击",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2639,
+    "name": "兽栏大师",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2641,
+    "name": "捕熊陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2642,
+    "name": "神勇弓箭手",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TGT"
+  },
+  {
+    "dbfId": 2892,
+    "name": "大漠沙驼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "LOE"
+  },
+  {
+    "dbfId": 2893,
+    "name": "毒镖陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "LOE"
+  },
+  {
+    "dbfId": 3001,
+    "name": "探险帽",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "LOE"
   },
   {
     "dbfId": 38329,
+    "name": "寄生感染",
+    "rarity": "RARE",
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "寄生感染"
+    "set": "OG"
   },
   {
     "dbfId": 38377,
+    "name": "搜寻猎物",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "搜寻猎物"
+    "set": "OG"
   },
   {
     "dbfId": 38584,
+    "name": "炽炎蝙蝠",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "炽炎蝙蝠"
+    "set": "OG"
   },
   {
     "dbfId": 38727,
+    "name": "兽群呼唤",
+    "rarity": "EPIC",
+    "cost": 9,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "兽群呼唤"
+    "set": "OG"
   },
   {
     "dbfId": 38734,
+    "name": "寄生恶狼",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "寄生恶狼"
+    "set": "OG"
   },
   {
     "dbfId": 38875,
+    "name": "狼人追猎者",
+    "rarity": "RARE",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "狼人追猎者"
+    "set": "OG"
   },
   {
     "dbfId": 38909,
+    "name": "巨型沙虫",
+    "rarity": "EPIC",
+    "cost": 8,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "巨型沙虫"
+    "set": "OG"
   },
   {
     "dbfId": 38910,
+    "name": "哈霍兰公主",
+    "rarity": "LEGENDARY",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "哈霍兰公主"
+    "set": "OG"
   },
   {
     "dbfId": 38985,
+    "name": "腐肉虫",
+    "rarity": "COMMON",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "OG",
-    "name": "腐肉虫"
+    "set": "OG"
+  },
+  {
+    "dbfId": 39160,
+    "name": "豹子戏法",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 39481,
+    "name": "慈祥的外婆",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 39492,
+    "name": "神秘女猎手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "KARA"
+  },
+  {
+    "dbfId": 40339,
+    "name": "军备宝箱",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40426,
+    "name": "雄斑虎",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40428,
+    "name": "瘟疫鼠群",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40678,
+    "name": "金手指纳克斯",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40679,
+    "name": "走私货物",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40681,
+    "name": "豺狼人土枪手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40683,
+    "name": "食人鱼喷枪",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40684,
+    "name": "穴居人驯兽师",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 41126,
+    "name": "驮运科多兽",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GANGS"
   },
   {
     "dbfId": 41304,
+    "name": "恐鳞追猎者",
+    "rarity": "RARE",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "恐鳞追猎者"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41350,
+    "name": "凶残撕咬",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "凶残撕咬"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41353,
+    "name": "宝石鹦鹉",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "宝石鹦鹉"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41354,
+    "name": "托维尔守卫",
+    "rarity": "RARE",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "托维尔守卫"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41357,
+    "name": "迅猛龙宝宝",
+    "rarity": "RARE",
+    "cost": 1,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "迅猛龙宝宝"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41358,
+    "name": "雷鸣刺喉龙",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "雷鸣刺喉龙"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41360,
+    "name": "奔踏",
+    "rarity": "EPIC",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "奔踏"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41363,
+    "name": "恐龙学",
+    "rarity": "EPIC",
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "恐龙学"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41366,
+    "name": "沼泽之王爵德",
+    "rarity": "LEGENDARY",
+    "cost": 7,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "沼泽之王爵德"
+    "set": "UNGORO"
   },
   {
     "dbfId": 41368,
+    "name": "湿地女王",
+    "rarity": "LEGENDARY",
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "UNGORO",
-    "name": "湿地女王"
+    "set": "UNGORO"
+  },
+  {
+    "dbfId": 42320,
+    "name": "自爆肿胀蝠",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42525,
+    "name": "眼镜蛇陷阱",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42563,
+    "name": "普崔塞德教授",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42648,
+    "name": "剧毒箭矢",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42652,
+    "name": "装死",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42707,
+    "name": "缝合追踪者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42711,
+    "name": "熊鲨",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 42822,
+    "name": "巨型尸蛛",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 43245,
+    "name": "憎恶弓箭手",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 43357,
+    "name": "侧翼打击",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43358,
+    "name": "洞穴多头蛇",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43359,
+    "name": "游荡怪物",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43363,
+    "name": "小型法术翡翠",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43369,
+    "name": "伦鲁迪洛尔",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 43398,
+    "name": "死亡猎手雷克萨",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "ICECROWN"
+  },
+  {
+    "dbfId": 45537,
+    "name": "蜡烛弓",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 45546,
+    "name": "来我身边！",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46390,
+    "name": "卡瑟娜·冬灵",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46445,
+    "name": "渗水的软泥怪",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46450,
+    "name": "碾压墙",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "LOOTAPALOOZA"
+  },
+  {
+    "dbfId": 46596,
+    "name": "暮湾镇猎手",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46678,
+    "name": "艾莫莉丝",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 46940,
+    "name": "飞翼冲击",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47078,
+    "name": "邪巢诱捕蛛",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47128,
+    "name": "捕鼠陷阱",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47256,
+    "name": "毒药贩子",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47488,
+    "name": "驯犬大师肖尔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 47840,
+    "name": "投掷炸弹",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 47841,
+    "name": "爆破大师弗拉克",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 47842,
+    "name": "毒箭机器人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 47855,
+    "name": "烟火技师",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 47856,
+    "name": "死灵机械师",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 47930,
+    "name": "狩猎犬",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48185,
+    "name": "蜘蛛炸弹",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48201,
+    "name": "凶猛狂暴",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
+  },
+  {
+    "dbfId": 48519,
+    "name": "奥秘图纸",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48670,
+    "name": "弗拉克的火箭炮",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48770,
+    "name": "地精的把戏",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48772,
+    "name": "机核芯片",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 48902,
+    "name": "食腐飞龙",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "GILNEAS"
   }
 ]

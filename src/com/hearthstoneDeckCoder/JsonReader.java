@@ -19,12 +19,18 @@ import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonWriter;
 
 public class JsonReader {
+	/**
+	 * Json文件读取者
+	 */
 	public static String path = "cards.collectible.json";
 	public static String url = "https://api.hearthstonejson.com/v1/x/zhCN/cards.collectible.json";
 	public static int version = 25770;
 	public List<Card> cards;
 
 	public JsonReader(String fileName, boolean update) throws IOException {
+		/**
+		 * 构造函数
+		 */
 		File file = new File(fileName);
 		if (!file.exists() || update) {
 			// URL httpUrl=new URL(url.replace("x", String.valueOf(version)));
@@ -32,8 +38,8 @@ public class JsonReader {
 			// 若失败，搜寻https://api.hearthstonejson.com/v1此网址的可用文件
 			// 每次失败又成功后，将version存储至单独文件中
 			JsonReader jr = new JsonReader(path, false);
+			jr.cardsSort();
 			jr.cardsClassify();
-			cardsSort();
 		}
 		Gson gsonInput = new Gson();
 		Reader reader = new InputStreamReader(new FileInputStream(file), "UTF-8");
@@ -66,19 +72,23 @@ public class JsonReader {
 		// 分离出九大职业与中立卡池，分离出英雄卡池
 		List<List<Card>> splitCards = new ArrayList<>(Collections.nCopies(11, new ArrayList<>()));
 		ListIterator<Card> lIterator = cards.listIterator();
+
 		while (lIterator.hasNext()) {
 			Card temp = lIterator.next();
 			for (int i = 0; i < CardClass.getCount(); i++) {
-				if (i == 0 && temp.type.toLowerCase().equals(CardClass.getName(0))//英雄牌
+				int fileState = -1;
+				if (temp.type.toLowerCase().equals(CardClass.getName(0))// 英雄牌
 						&& (temp.set.toLowerCase().equals(CardSet.getName(0))
 								|| temp.set.toLowerCase().equals(CardSet.getName(1)))) {
-					splitCards.get(0).add(temp);
-					break;
-				} else if (temp.cardClass.toLowerCase().equals(CardClass.getName(i))) {//其他牌
+					fileState = 0;
+				} else if (temp.cardClass.toLowerCase().equals(CardClass.getName(i))) {// 其他牌
+					fileState = i;
+				}
+				if (fileState != -1) {
 					List<Card> loopList = new ArrayList<>();
-					loopList.addAll(splitCards.get(i));
+					loopList.addAll(splitCards.get(fileState));
 					loopList.add(temp);
-					splitCards.set(i, loopList);
+					splitCards.set(fileState, loopList);
 					break;
 				}
 			}

@@ -10,7 +10,13 @@ import java.util.Base64;
 import java.util.List;
 
 public class CodeAnalyzer {
+	/**
+	 * 代码分析者
+	 */
 	public static int readVarInt(DataInputStream dis) throws IOException {
+		/**
+		 * 将Varint转化为整数 原作者：http://wiki.vg/Data_types
+		 */
 		int numRead = 0;
 		int result = 0;
 		byte read;
@@ -29,6 +35,9 @@ public class CodeAnalyzer {
 	}
 
 	public static void writeVarInt(DataOutputStream dos, int value) throws IOException {
+		/**
+		 * 将整数转化为Varint格式 原作者：http://wiki.vg/Data_types
+		 */
 		do {
 			byte temp = (byte) (value & 0b01111111);
 			value >>>= 7;
@@ -39,7 +48,10 @@ public class CodeAnalyzer {
 		} while (value != 0);
 	}
 
-	public List<Integer> code2list(String code) throws IOException {
+	public static List<Integer> code2list(String code) throws IOException {
+		/**
+		 * 将卡组代码转化为ID列表
+		 */
 		byte[] byteArray = Base64.getDecoder().decode(code);
 		DataInputStream dis = new DataInputStream(new ByteArrayInputStream(byteArray));
 		List<Integer> list = new ArrayList<>();
@@ -53,7 +65,10 @@ public class CodeAnalyzer {
 		return list;
 	}
 
-	public String list2code(List<Integer> list) throws IOException {
+	public static String list2code(List<Integer> list) throws IOException {
+		/**
+		 * 将ID列表转化为卡组代码
+		 */
 		ByteArrayOutputStream baos = new ByteArrayOutputStream();
 		DataOutputStream dos = new DataOutputStream(baos);
 		for (Integer integer : list) {
