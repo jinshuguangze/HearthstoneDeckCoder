@@ -24,6 +24,8 @@ public class DeckBuilder {
 	public List<Integer> cardsCount;// 套牌张数列表
 	public List<Integer> cardsCost;// 套牌费用列表
 	public List<String> cardsName;// 套牌名称列表
+	public List<Integer> relationList;// cardsList与其他List的序列关系
+	// 得到某一cardsList的元素对应的Name:cardsName.get(relationList.get(i))
 
 	public DeckBuilder() {
 		/**
@@ -102,6 +104,15 @@ public class DeckBuilder {
 		this.cardsCount = cardsCount;
 		this.cardsCost = cardsCost;
 		this.cardsName = cardsName;
+		this.relationList = new ArrayList<>() {
+			// 自动生成的序列化版本号
+			private static final long serialVersionUID = 2672544090904439792L;
+			{
+				for (int i = 0; i < cardsCount.size(); i++) {
+					add(i);
+				}
+			}
+		};
 		deckSort();
 	}
 
@@ -148,20 +159,39 @@ public class DeckBuilder {
 		List<Integer> cardsCount = this.cardsCount;
 		List<Integer> cardsCost = this.cardsCost;
 		List<String> cardsName = this.cardsName;
-		int singleCardCount = cardsList.get(5);
-		int doubleCardCount = cardsList.get(singleCardCount + 6);
+		List<Integer> relationList = this.relationList;
 
 		// 提取核心列表
+		List<Integer> singleList = cardsList.subList(6, cardsList.get(5) + 6);
+		List<Integer> doubleList = cardsList.subList(cardsList.get(5) + 7, cardsList.size() - 1);
 		List<Integer> coreList = new ArrayList<>() {
+			private static final long serialVersionUID = 2672544090904439792L;
 			// 自动生成的序列化版本号
-			private static final long serialVersionUID = 6783350014225170237L;
 			{
-				addAll(cardsList.subList(6, singleCardCount + 6));
-				addAll(cardsList.subList(singleCardCount + 7, cardsList.size() - 1));
+				addAll(singleList);
+				addAll(doubleList);
 			}
 		};
 
-		// 依据卡牌的费用和ID排序
+		// 依据ID排序singleList,doubleList
+		for (int i = 0; i < singleList.size() - 1; i++) {
+			for (int j = i + 1; j < singleList.size(); j++) {
+				if (singleList.get(i) > singleList.get(j)) {
+					Collections.swap(singleList, i, j);
+					Collections.swap(relationList, i, j);
+				}
+			}
+		}
+		for (int i = 0; i < doubleList.size() - 1; i++) {
+			for (int j = i + 1; j < doubleList.size(); j++) {
+				if (doubleList.get(i) > doubleList.get(j)) {
+					Collections.swap(doubleList, i, j);
+					Collections.swap(relationList, singleList.size() + i, singleList.size() + j);
+				}
+			}
+		}
+
+		// 依据卡牌的费用和ID排序cardsCount,cardsCost,cardsName
 		for (int i = 0; i < coreList.size() - 1; i++) {
 			for (int j = i + 1; j < coreList.size(); j++) {
 				if (cardsCost.get(i) > cardsCost.get(j)
@@ -170,6 +200,7 @@ public class DeckBuilder {
 					Collections.swap(cardsCount, i, j);
 					Collections.swap(cardsCost, i, j);
 					Collections.swap(cardsName, i, j);
+					Collections.swap(relationList, relationList.indexOf(i), relationList.indexOf(j));
 				}
 			}
 		}
@@ -179,9 +210,10 @@ public class DeckBuilder {
 			// 自动生成的序列化版本号
 			private static final long serialVersionUID = 3860324031377400266L;
 			{
-				addAll(coreList);
-				add(0, singleCardCount);
-				add(singleCardCount + 1, doubleCardCount);
+				addAll(singleList);
+				addAll(doubleList);
+				add(0, singleList.size());
+				add(singleList.size() + 1, doubleList.size());
 				add(0, cardsHero.dbfId);
 				add(0, cardsMode);
 			}
@@ -190,5 +222,6 @@ public class DeckBuilder {
 		this.cardsCount = cardsCount;
 		this.cardsCost = cardsCost;
 		this.cardsName = cardsName;
+		this.relationList = relationList;
 	}
 }
