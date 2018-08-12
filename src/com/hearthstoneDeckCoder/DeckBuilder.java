@@ -60,7 +60,8 @@ public class DeckBuilder {
 		}
 
 		// 选择职业
-		JsonReader heroes = new JsonReader("cards." + CardClass.getName(0).toLowerCase() + ".json", false);
+		CardHandler heroes = new CardHandler();
+		heroes.cardRead("cards." + CardClass.getName(0).toLowerCase() + ".json", true);
 		cardsHero = heroes.cards.get(random.nextInt(heroes.cards.size()));
 		cardsList.add(cardsHero.dbfId);
 
@@ -74,8 +75,10 @@ public class DeckBuilder {
 		} while (sigleCount * doubleCount < 0);
 
 		// 加入卡牌
-		JsonReader careerCards = new JsonReader("cards." + cardsHero.cardClass.toLowerCase() + ".json", false);
-		JsonReader neutralCards = new JsonReader("cards." + CardClass.getName(10) + ".json", false);
+		CardHandler careerCards = new CardHandler();
+		careerCards.cardRead("cards." + cardsHero.cardClass.toLowerCase() + ".json", true);
+		CardHandler neutralCards = new CardHandler();
+		neutralCards.cardRead("cards." + CardClass.getName(10) + ".json", true);
 		for (int i = 0; i < sigleCount + doubleCount; i++) {
 			Card card = new Card();
 			do {

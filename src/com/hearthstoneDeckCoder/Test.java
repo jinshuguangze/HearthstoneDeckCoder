@@ -1,15 +1,30 @@
 package com.hearthstoneDeckCoder;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.StringReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.net.URLConnection;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+
 @SuppressWarnings("unused")
 public class Test {
 	public static void main(String[] args) throws IOException {
+		//TODO:
+		//-创建文件config用于存储当前的版本号，上次自动检测更新时间
+		//-windows版本的UI，采用JavaFX制作
+		//-高级自定义，元素系列卡组，机械系列等
+		
 		//测试单卡双卡数量
 		//Random random=new Random();
 		//int doubleCount=Integer.parseInt(new DecimalFormat("0").format(Math.sqrt(10)*random.nextGaussian()+5));
@@ -38,9 +53,8 @@ public class Test {
 		DeckBuilder db = new DeckBuilder();
 		db.randomBuild();
 		db.deckPrint(true);
-		//TODO:
-		//-接轨国际化，解析all.cards.collectible.json
-		//-自动更新器
-		//-windows版本的UI，采用JavaFX制作
+		
+		//测试网页下载源可用性
+		//Updater.update();
 	}
 }
