@@ -21,7 +21,7 @@ import org.jsoup.nodes.Document;
 public class Test {
 	public static void main(String[] args) throws IOException {
 		//TODO:
-		//-创建文件config用于存储当前的版本号，上次自动检测更新时间
+		//-软件开启自动检测更新，遇到更新弹出窗口询问下载是否下载xKB数据包
 		//-windows版本的UI，采用JavaFX制作
 		//-高级自定义，元素系列卡组，机械系列等
 		
@@ -55,6 +55,6 @@ public class Test {
 		db.deckPrint(true);
 		
 		//测试网页下载源可用性
-		//Updater.update();
+		Updater.checkUpdate();
 	}
 }

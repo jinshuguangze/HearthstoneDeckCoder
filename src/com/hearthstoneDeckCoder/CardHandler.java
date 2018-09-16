@@ -36,7 +36,7 @@ public class CardHandler {
 		 */
 		File file = new File(path);
 		if (update && !file.exists()) {
-			if (!Updater.update())
+			if (!Updater.checkUpdate())
 				return false;
 			CardHandler cr = new CardHandler();
 			cr.cardRead(Updater.path, false);
