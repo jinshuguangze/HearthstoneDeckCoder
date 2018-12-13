@@ -55,6 +55,6 @@ public class Test {
 		db.deckPrint(true);
 		
 		//测试网页下载源可用性
-		Updater.checkUpdate();
+		//Updater.checkUpdate();
 	}
 }

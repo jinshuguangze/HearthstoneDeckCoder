@@ -399,7 +399,7 @@
     "dbfId": 2796,
     "name": "艾维娜",
     "rarity": "LEGENDARY",
-    "cost": 9,
+    "cost": 10,
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "TGT"
@@ -1623,7 +1623,7 @@
     "dbfId": 48226,
     "name": "欢乐的发明家",
     "rarity": "RARE",
-    "cost": 5,
+    "cost": 7,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "BOOMSDAY"
@@ -5751,6 +5751,42 @@
     "set": "EXPERT1"
   },
   {
+    "dbfId": 52255,
+    "name": "冰刺",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 52262,
+    "name": "智慧秘典",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 52263,
+    "name": "虚空召唤",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 52264,
+    "name": "窃取",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "EXPERT1"
+  },
+  {
     "dbfId": 505,
     "name": "闪电箭",
     "rarity": "COMMON",
@@ -9693,6 +9729,15 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 53237,
+    "name": "拉斯塔哈大王",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 930,
     "name": "瓦莉拉·萨古纳尔",
     "rarity": "FREE",
@@ -9731,6 +9776,15 @@
   {
     "dbfId": 46116,
     "name": "阿尔萨斯王子",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 53187,
+    "name": "吵吵爵士",
     "rarity": "EPIC",
     "cost": 0,
     "type": "HERO",
@@ -13152,7 +13206,7 @@
     "dbfId": 405,
     "name": "法力浮龙",
     "rarity": "COMMON",
-    "cost": 1,
+    "cost": 2,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "EXPERT1"
@@ -14560,6 +14614,1221 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "HOF"
+  },
+  {
+    "dbfId": 49049,
+    "name": "中场拾荒者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49051,
+    "name": "图腾重击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49066,
+    "name": "黑心票贩",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49088,
+    "name": "盲眼游侠",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49800,
+    "name": "毒蛇守卫",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49802,
+    "name": "亡鬼幻象",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49803,
+    "name": "沼泽游荡者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49804,
+    "name": "青蛙之灵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49819,
+    "name": "祖尔金",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49838,
+    "name": "血帆啸猴",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49843,
+    "name": "锯刃齿",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49847,
+    "name": "古拉巴什宣传员",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49853,
+    "name": "终极巫毒",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49867,
+    "name": "泽蒂摩",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49972,
+    "name": "鲨鱼之灵",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50009,
+    "name": "格里伏塔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50278,
+    "name": "灵媒术",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50608,
+    "name": "猎头者之斧",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50644,
+    "name": "野兽之心",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50773,
+    "name": "团伙劫掠",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50774,
+    "name": "钩牙船长",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50779,
+    "name": "火炮弹幕",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50794,
+    "name": "再生",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50315,
+    "name": "沙地苦工",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50731,
+    "name": "退役冠军",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50749,
+    "name": "盗取武器",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50766,
+    "name": "走跳板",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49944,
+    "name": "迅猛龙之灵",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49973,
+    "name": "铁皮恐角龙",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49984,
+    "name": "野蛮先锋",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49985,
+    "name": "贡克，迅猛龙之神",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49990,
+    "name": "飞扑",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49994,
+    "name": "掠食本能",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50002,
+    "name": "尖啸",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50004,
+    "name": "虚空契约",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50006,
+    "name": "护魂者",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50012,
+    "name": "残酷集结",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50025,
+    "name": "蝙蝠之灵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50032,
+    "name": "高阶祭司耶克里克",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50034,
+    "name": "希里克，蝙蝠之神",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50042,
+    "name": "神灵印记",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50044,
+    "name": "狂奔怒吼",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50070,
+    "name": "鲜血巨魔工兵",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50071,
+    "name": "群体狂乱",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50082,
+    "name": "塔兰吉公主",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50087,
+    "name": "邦桑迪，死亡之神",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49981,
+    "name": "西瓦尔拉，猛虎之神",
+    "rarity": "LEGENDARY",
+    "cost": 25,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49999,
+    "name": "暂避锋芒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50014,
+    "name": "法拉基战斧",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50019,
+    "name": "新人登场",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50022,
+    "name": "永恒祭司",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50028,
+    "name": "圣光闪现",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50126,
+    "name": "高阶祭司塞卡尔",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50031,
+    "name": "猛虎之灵",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50120,
+    "name": "元素唤醒",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50121,
+    "name": "奥术暴龙",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50083,
+    "name": "狂暴咒术师",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50122,
+    "name": "灼烧",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50084,
+    "name": "火焰狂人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50088,
+    "name": "加亚莱，龙鹰之神",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50086,
+    "name": "冲击波",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50095,
+    "name": "妖术领主玛拉卡斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50093,
+    "name": "龙鹰之灵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50040,
+    "name": "毁灭打击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50049,
+    "name": "烬鳞幼龙",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50054,
+    "name": "重金属狂潮！",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50056,
+    "name": "鞭笞者苏萨斯",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50059,
+    "name": "燃棘枪兵",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 52242,
+    "name": "犀牛之灵",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50066,
+    "name": "指挥官沃恩",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50074,
+    "name": "阿卡里，犀牛之神",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50212,
+    "name": "主人的召唤",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50356,
+    "name": "树语者",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 43310,
+    "name": "战争德鲁伊罗缇",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50369,
+    "name": "卡格瓦，青蛙之神",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50466,
+    "name": "诱饵射击",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49824,
+    "name": "魔泉山猫",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50471,
+    "name": "血顶战略家",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50547,
+    "name": "蟾蜍雨",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50550,
+    "name": "舔舔魔杖",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50595,
+    "name": "领主之鞭",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50602,
+    "name": "巨龙怒吼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50796,
+    "name": "萨隆铁矿监工",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50381,
+    "name": "大胆的吞火者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50230,
+    "name": "裂魂残像",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50491,
+    "name": "狂野兽王",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50493,
+    "name": "嗜睡的神枪手",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50497,
+    "name": "茶水小弟",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50539,
+    "name": "墓园恐魔",
+    "rarity": "RARE",
+    "cost": 12,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50775,
+    "name": "格罗尔，鲨鱼之神",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50282,
+    "name": "疯入膏肓",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50283,
+    "name": "奥金尼幻象",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50352,
+    "name": "亡者之灵",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50372,
+    "name": "甲虫卵",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50374,
+    "name": "藏宝海湾荷官",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50377,
+    "name": "无助的幼雏",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50380,
+    "name": "古拉巴什小鸡",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50383,
+    "name": "鲨鳍后援",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50385,
+    "name": "再生暴徒",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50386,
+    "name": "香蕉小丑",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50391,
+    "name": "调皮的噬踝者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50392,
+    "name": "莫什奥格执行者",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50393,
+    "name": "好斗的侏儒",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50395,
+    "name": "场馆保镖",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50396,
+    "name": "古拉巴什供品",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50397,
+    "name": "赛场狂热者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50402,
+    "name": "鱼人大厨",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50403,
+    "name": "竞技场奴隶主",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50405,
+    "name": "疾疫使者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50408,
+    "name": "火树巫医",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50410,
+    "name": "破盾者",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50411,
+    "name": "竞技场财宝箱",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50412,
+    "name": "龙喉喷火者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50414,
+    "name": "达卡莱幻术师",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50416,
+    "name": "阵线破坏者",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50421,
+    "name": "蒙面选手",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50427,
+    "name": "暴牙震颤者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50430,
+    "name": "莫什奥格播报员",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50434,
+    "name": "冰淇淋小贩",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50437,
+    "name": "钳嘴龟盾卫",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50443,
+    "name": "送葬者安德提卡",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50454,
+    "name": "夺灵者哈卡",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50459,
+    "name": "乌达斯塔",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50512,
+    "name": "血爪",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50514,
+    "name": "赞达拉武士",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50532,
+    "name": "暴躁的巨龟",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50776,
+    "name": "阿曼尼战熊",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50863,
+    "name": "粗暴的恐怖巨魔",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50991,
+    "name": "恶魔之箭",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 51136,
+    "name": "魔精大师兹伊希",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 51159,
+    "name": "荒野的复仇",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 51816,
+    "name": "看台喷火龙",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 52931,
+    "name": "汤水商贩",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50659,
+    "name": "哈尔拉兹，山猫之神",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50660,
+    "name": "山猫之灵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
   },
   {
     "dbfId": 397,

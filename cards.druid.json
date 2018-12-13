@@ -399,7 +399,7 @@
     "dbfId": 2796,
     "name": "艾维娜",
     "rarity": "LEGENDARY",
-    "cost": 9,
+    "cost": 10,
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "TGT"
@@ -828,6 +828,15 @@
     "set": "LOOTAPALOOZA"
   },
   {
+    "dbfId": 43310,
+    "name": "战争德鲁伊罗缇",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
     "dbfId": 43417,
     "name": "污染者玛法里奥",
     "rarity": "LEGENDARY",
@@ -1069,5 +1078,86 @@
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49944,
+    "name": "迅猛龙之灵",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49973,
+    "name": "铁皮恐角龙",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49984,
+    "name": "野蛮先锋",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49985,
+    "name": "贡克，迅猛龙之神",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49990,
+    "name": "飞扑",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49994,
+    "name": "掠食本能",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50042,
+    "name": "神灵印记",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50044,
+    "name": "狂奔怒吼",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50356,
+    "name": "树语者",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "TROLL"
   }
 ]

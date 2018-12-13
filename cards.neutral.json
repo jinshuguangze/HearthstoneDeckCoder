@@ -5637,7 +5637,7 @@
     "dbfId": 48226,
     "name": "欢乐的发明家",
     "rarity": "RARE",
-    "cost": 5,
+    "cost": 7,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "BOOMSDAY"
@@ -5796,6 +5796,33 @@
     "set": "BOOMSDAY"
   },
   {
+    "dbfId": 49049,
+    "name": "中场拾荒者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49066,
+    "name": "黑心票贩",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49088,
+    "name": "盲眼游侠",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
     "dbfId": 49161,
     "name": "投弹机器人",
     "rarity": "COMMON",
@@ -5949,6 +5976,294 @@
     "set": "GILNEAS"
   },
   {
+    "dbfId": 49800,
+    "name": "毒蛇守卫",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50009,
+    "name": "格里伏塔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50083,
+    "name": "狂暴咒术师",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50372,
+    "name": "甲虫卵",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50374,
+    "name": "藏宝海湾荷官",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50377,
+    "name": "无助的幼雏",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50380,
+    "name": "古拉巴什小鸡",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50383,
+    "name": "鲨鳍后援",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50385,
+    "name": "再生暴徒",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50386,
+    "name": "香蕉小丑",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50391,
+    "name": "调皮的噬踝者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50392,
+    "name": "莫什奥格执行者",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50393,
+    "name": "好斗的侏儒",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50395,
+    "name": "场馆保镖",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50396,
+    "name": "古拉巴什供品",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50397,
+    "name": "赛场狂热者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50402,
+    "name": "鱼人大厨",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50403,
+    "name": "竞技场奴隶主",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50408,
+    "name": "火树巫医",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50410,
+    "name": "破盾者",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50411,
+    "name": "竞技场财宝箱",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50412,
+    "name": "龙喉喷火者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50414,
+    "name": "达卡莱幻术师",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50416,
+    "name": "阵线破坏者",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50421,
+    "name": "蒙面选手",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50427,
+    "name": "暴牙震颤者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50430,
+    "name": "莫什奥格播报员",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50434,
+    "name": "冰淇淋小贩",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50437,
+    "name": "钳嘴龟盾卫",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50443,
+    "name": "送葬者安德提卡",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50454,
+    "name": "夺灵者哈卡",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50459,
+    "name": "乌达斯塔",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
     "dbfId": 50477,
     "name": "神奇的威兹班",
     "rarity": "LEGENDARY",
@@ -5956,5 +6271,95 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 50491,
+    "name": "狂野兽王",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50493,
+    "name": "嗜睡的神枪手",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50497,
+    "name": "茶水小弟",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50532,
+    "name": "暴躁的巨龟",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50731,
+    "name": "退役冠军",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50776,
+    "name": "阿曼尼战熊",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50796,
+    "name": "萨隆铁矿监工",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 51136,
+    "name": "魔精大师兹伊希",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 51816,
+    "name": "看台喷火龙",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 52931,
+    "name": "汤水商贩",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "TROLL"
   }
 ]

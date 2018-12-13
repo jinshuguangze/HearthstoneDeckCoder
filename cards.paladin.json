@@ -1069,5 +1069,95 @@
     "type": "MINION",
     "cardClass": "PALADIN",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49981,
+    "name": "西瓦尔拉，猛虎之神",
+    "rarity": "LEGENDARY",
+    "cost": 25,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49999,
+    "name": "暂避锋芒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50014,
+    "name": "法拉基战斧",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50019,
+    "name": "新人登场",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50022,
+    "name": "永恒祭司",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50028,
+    "name": "圣光闪现",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50031,
+    "name": "猛虎之灵",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50126,
+    "name": "高阶祭司塞卡尔",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50512,
+    "name": "血爪",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50514,
+    "name": "赞达拉武士",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "TROLL"
   }
 ]

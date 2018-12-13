@@ -187,5 +187,23 @@
     "type": "HERO",
     "cardClass": "WARLOCK",
     "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 53187,
+    "name": "吵吵爵士",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 53237,
+    "name": "拉斯塔哈大王",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
   }
 ]

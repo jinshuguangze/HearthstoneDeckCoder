@@ -10,6 +10,7 @@ import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.Writer;
 import java.net.URL;
+import java.util.Arrays;
 import java.util.List;
 
 import org.jsoup.Jsoup;
@@ -50,8 +51,12 @@ public class Updater {
 		 */
 		Document docHomepage;
 		try {
+			// 坑爹的JDK11只支持TLSv1.3了，想支持以前的版本只能手动
+			System.setProperty("https.protocols", "TLSv1.2,TLSv1.1,SSLv3");
 			docHomepage = Jsoup.connect(urlHomepage).get();
-			String version = docHomepage.body().select("a").get(1).text();
+			String content[] = docHomepage.body().select("a").text().replaceAll("[^0-9 ]", "").split("\\s+");
+			Arrays.sort(content);
+			String version = content[content.length - 1];
 			if (version.isEmpty()) {
 				return null;
 			} else {

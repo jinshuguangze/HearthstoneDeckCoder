@@ -1069,5 +1069,104 @@
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49838,
+    "name": "血帆啸猴",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49843,
+    "name": "锯刃齿",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49847,
+    "name": "古拉巴什宣传员",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49972,
+    "name": "鲨鱼之灵",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50749,
+    "name": "盗取武器",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50766,
+    "name": "走跳板",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50773,
+    "name": "团伙劫掠",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50774,
+    "name": "钩牙船长",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50775,
+    "name": "格罗尔，鲨鱼之神",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50779,
+    "name": "火炮弹幕",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 52264,
+    "name": "窃取",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "EXPERT1"
   }
 ]

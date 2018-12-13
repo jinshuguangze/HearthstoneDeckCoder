@@ -1069,5 +1069,95 @@
     "type": "MINION",
     "cardClass": "WARRIOR",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 50040,
+    "name": "毁灭打击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50049,
+    "name": "烬鳞幼龙",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50054,
+    "name": "重金属狂潮！",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50056,
+    "name": "鞭笞者苏萨斯",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50059,
+    "name": "燃棘枪兵",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50066,
+    "name": "指挥官沃恩",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50074,
+    "name": "阿卡里，犀牛之神",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50595,
+    "name": "领主之鞭",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50602,
+    "name": "巨龙怒吼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 52242,
+    "name": "犀牛之灵",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "TROLL"
   }
 ]

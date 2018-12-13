@@ -1062,6 +1062,78 @@
     "set": "BOOMSDAY"
   },
   {
+    "dbfId": 50002,
+    "name": "尖啸",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50004,
+    "name": "虚空契约",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50006,
+    "name": "护魂者",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50012,
+    "name": "残酷集结",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50025,
+    "name": "蝙蝠之灵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50032,
+    "name": "高阶祭司耶克里克",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50034,
+    "name": "希里克，蝙蝠之神",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50070,
+    "name": "鲜血巨魔工兵",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
     "dbfId": 50432,
     "name": "恶魔计划",
     "rarity": "COMMON",
@@ -1069,5 +1141,32 @@
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 50863,
+    "name": "粗暴的恐怖巨魔",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50991,
+    "name": "恶魔之箭",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 52263,
+    "name": "虚空召唤",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "EXPERT1"
   }
 ]

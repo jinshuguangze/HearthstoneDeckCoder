@@ -1069,5 +1069,95 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 50071,
+    "name": "群体狂乱",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50082,
+    "name": "塔兰吉公主",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50087,
+    "name": "邦桑迪，死亡之神",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50278,
+    "name": "灵媒术",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50282,
+    "name": "疯入膏肓",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50283,
+    "name": "奥金尼幻象",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50315,
+    "name": "沙地苦工",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50352,
+    "name": "亡者之灵",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50539,
+    "name": "墓园恐魔",
+    "rarity": "RARE",
+    "cost": 12,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50794,
+    "name": "再生",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "TROLL"
   }
 ]

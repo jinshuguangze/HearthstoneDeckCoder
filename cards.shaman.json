@@ -1044,6 +1044,15 @@
     "set": "BOOMSDAY"
   },
   {
+    "dbfId": 49051,
+    "name": "图腾重击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
     "dbfId": 49052,
     "name": "流电爆裂",
     "rarity": "RARE",
@@ -1069,5 +1078,86 @@
     "type": "MINION",
     "cardClass": "SHAMAN",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 49802,
+    "name": "亡鬼幻象",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49803,
+    "name": "沼泽游荡者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49804,
+    "name": "青蛙之灵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49853,
+    "name": "终极巫毒",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49867,
+    "name": "泽蒂摩",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50369,
+    "name": "卡格瓦，青蛙之神",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50405,
+    "name": "疾疫使者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50547,
+    "name": "蟾蜍雨",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50550,
+    "name": "舔舔魔杖",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "set": "TROLL"
   }
 ]

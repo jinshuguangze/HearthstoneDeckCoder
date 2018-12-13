@@ -1078,5 +1078,95 @@
     "type": "MINION",
     "cardClass": "HUNTER",
     "set": "GILNEAS"
+  },
+  {
+    "dbfId": 49819,
+    "name": "祖尔金",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 49824,
+    "name": "魔泉山猫",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50212,
+    "name": "主人的召唤",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50466,
+    "name": "诱饵射击",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50471,
+    "name": "血顶战略家",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50608,
+    "name": "猎头者之斧",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50644,
+    "name": "野兽之心",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50659,
+    "name": "哈尔拉兹，山猫之神",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50660,
+    "name": "山猫之灵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 51159,
+    "name": "荒野的复仇",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "TROLL"
   }
 ]

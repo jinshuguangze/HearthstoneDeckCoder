@@ -84,7 +84,7 @@
     "dbfId": 405,
     "name": "法力浮龙",
     "rarity": "COMMON",
-    "cost": 1,
+    "cost": 2,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "EXPERT1"
@@ -1069,5 +1069,113 @@
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "BOOMSDAY"
+  },
+  {
+    "dbfId": 50084,
+    "name": "火焰狂人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50086,
+    "name": "冲击波",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50088,
+    "name": "加亚莱，龙鹰之神",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50093,
+    "name": "龙鹰之灵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50095,
+    "name": "妖术领主玛拉卡斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50120,
+    "name": "元素唤醒",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50121,
+    "name": "奥术暴龙",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50122,
+    "name": "灼烧",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50230,
+    "name": "裂魂残像",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 50381,
+    "name": "大胆的吞火者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "TROLL"
+  },
+  {
+    "dbfId": 52255,
+    "name": "冰刺",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "EXPERT1"
+  },
+  {
+    "dbfId": 52262,
+    "name": "智慧秘典",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "EXPERT1"
   }
 ]
