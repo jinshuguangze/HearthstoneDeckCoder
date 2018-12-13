@@ -30,18 +30,13 @@ public class CardHandler {
 		 */
 	}
 
-	public boolean cardRead(String path, boolean update) {
+	public boolean cardRead(String path) {
 		/**
-		 * 从Json文件读取卡牌
+		 * 从Json文件读取卡牌并检测更新，成功读取则为true
 		 */
 		File file = new File(path);
-		if (update && !file.exists()) {
-			if (!Updater.checkUpdate())
-				return false;
-			CardHandler cr = new CardHandler();
-			cr.cardRead(Updater.path, false);
-			cr.cardsSort();
-			cr.cardsClassify();
+		if (!file.exists()) {
+			return Updater.checkUpdate(true) & cardRead(path);// 强制更新
 		}
 		try {
 			Gson gsonInput = new Gson();

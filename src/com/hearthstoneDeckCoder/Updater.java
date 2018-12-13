@@ -86,9 +86,9 @@ public class Updater {
 		}
 	}
 
-	public static boolean checkUpdate() {
+	public static boolean checkUpdate(boolean enforce) {
 		/**
-		 * 检查卡牌数据是否是最新
+		 * 检查卡牌数据是否是最新，当前仅当成功更新时，返回true
 		 */
 		// 读取版本号并将版本号写进配置文件
 		String version;
@@ -96,22 +96,22 @@ public class Updater {
 			return false;
 		File file = new File("config.cfg");
 		try {
-			if (file.exists()) {
+			if (!enforce && file.exists()) {
 				Reader reader = new InputStreamReader(new FileInputStream(file), "UTF-8");
 				Gson gsonInput = new Gson();
 				Config config = gsonInput.fromJson(reader, new TypeToken<Config>() {
 				}.getType());
 				if (config.version.equals(version))
-					return true;
+					return false;
 			} else {
 				file.createNewFile();
 			}
 		} catch (IOException e) {
 			return false;
 		}
-		Updater.saveVersion(file, version);
-		Updater.update(version);
-		return true;
+		CardHandler cr = new CardHandler();
+		return Updater.saveVersion(file, version) & Updater.update(version) & cr.cardRead(Updater.path) & cr.cardsSort()
+				& cr.cardsClassify();
 	}
 
 	private static boolean saveVersion(File file, String version) {

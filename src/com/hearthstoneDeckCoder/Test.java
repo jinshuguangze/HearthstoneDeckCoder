@@ -54,7 +54,8 @@ public class Test {
 		db.randomBuild();
 		db.deckPrint(true);
 		
-		//测试网页下载源可用性
-		//Updater.checkUpdate();
+		//每日首次打开检测更新
+		//TODO:写个东西每日检测更新，并存储在config文件夹内
+		//Updater.checkUpdate(false);
 	}
 }
