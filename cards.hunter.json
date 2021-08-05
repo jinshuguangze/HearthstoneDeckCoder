@@ -6,7 +6,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 292,
@@ -15,7 +15,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 296,
@@ -24,7 +24,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 311,
@@ -51,7 +51,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 455,
@@ -87,7 +87,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 699,
@@ -96,7 +96,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 814,
@@ -114,13 +114,13 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 896,
     "name": "照明弹",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "EXPERT1"
@@ -141,7 +141,7 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1047,
@@ -150,7 +150,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1091,
@@ -183,10 +183,10 @@
     "dbfId": 1241,
     "name": "饥饿的秃鹫",
     "rarity": "FREE",
-    "cost": 5,
+    "cost": 2,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1243,
@@ -336,7 +336,7 @@
     "dbfId": 2484,
     "name": "子弹上膛",
     "rarity": "EPIC",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "TGT"
@@ -471,7 +471,7 @@
     "dbfId": 38727,
     "name": "兽群呼唤",
     "rarity": "EPIC",
-    "cost": 9,
+    "cost": 8,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "OG"
@@ -576,6 +576,20 @@
     "set": "GANGS"
   },
   {
+    "dbfId": 40474,
+    "name": "污手街情报员",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "GANGS"
+  },
+  {
     "dbfId": 40678,
     "name": "金手指纳克斯",
     "rarity": "LEGENDARY",
@@ -618,6 +632,34 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "HUNTER",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40703,
+    "name": "唐·汉古",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40743,
+    "name": "污手街走私者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "PALADIN",
+      "WARRIOR"
+    ],
     "set": "GANGS"
   },
   {
@@ -865,7 +907,7 @@
   },
   {
     "dbfId": 45546,
-    "name": "来我身边！",
+    "name": "来我身边",
     "rarity": "EPIC",
     "cost": 6,
     "type": "SPELL",
@@ -1002,7 +1044,7 @@
     "dbfId": 47856,
     "name": "死灵机械师",
     "rarity": "EPIC",
-    "cost": 5,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "HUNTER",
     "set": "BOOMSDAY"
@@ -1047,7 +1089,7 @@
     "dbfId": 48670,
     "name": "弗拉克的火箭炮",
     "rarity": "LEGENDARY",
-    "cost": 8,
+    "cost": 7,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "BOOMSDAY"
@@ -1168,5 +1210,1260 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "TROLL"
+  },
+  {
+    "dbfId": 52070,
+    "name": "标记射击",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52072,
+    "name": "奥术弓箭手",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52076,
+    "name": "急速射击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52081,
+    "name": "湮灭战车",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52082,
+    "name": "九命兽魂",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52089,
+    "name": "猛兽出笼",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52091,
+    "name": "温蕾萨·风行者",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52790,
+    "name": "机械巨熊",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52894,
+    "name": "闪光蝴蝶",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53099,
+    "name": "狩猎盛宴",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53435,
+    "name": "刺血狂蝎",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53609,
+    "name": "猩红织网蛛",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53860,
+    "name": "沙漠之矛",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53861,
+    "name": "猎人工具包",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53917,
+    "name": "拉穆卡恒驯兽师",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53919,
+    "name": "压感陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53922,
+    "name": "土狼头领",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53924,
+    "name": "打开宝库",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53926,
+    "name": "恐龙大师布莱恩",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54424,
+    "name": "飞蝗虫群",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54922,
+    "name": "腐蚀吐息",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54923,
+    "name": "风暴之锤",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54926,
+    "name": "俯冲狮鹫",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55288,
+    "name": "扫清道路",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55291,
+    "name": "相位追猎者",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55292,
+    "name": "矮人神射手",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55294,
+    "name": "始生龙探险者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55301,
+    "name": "病毒增援",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55303,
+    "name": "灭龙弩炮",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55640,
+    "name": "维拉努斯",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 56064,
+    "name": "拆件旋翼机",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56067,
+    "name": "新鲜气息",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56239,
+    "name": "腐巢幼龙",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56398,
+    "name": "强能箭猪",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56451,
+    "name": "顶级捕食者兹克索尔",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56482,
+    "name": "被禁锢的魔喉",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56483,
+    "name": "地狱野猪",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56484,
+    "name": "集群战术",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56694,
+    "name": "莫克纳萨将狮",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56697,
+    "name": "废铁射击",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56703,
+    "name": "拾荒者的智慧",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56758,
+    "name": "兽王莱欧洛克斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56827,
+    "name": "纳格兰大冲撞",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58782,
+    "name": "腐食研习",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 58980,
+    "name": "裂树三叶虫",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59026,
+    "name": "教师的爱宠",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59170,
+    "name": "鹿角小飞兔",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59188,
+    "name": "饱腹巨蟒",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59233,
+    "name": "引月长弓",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59394,
+    "name": "恶魔伙伴",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59449,
+    "name": "数量压制",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59457,
+    "name": "大导师野爪",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59539,
+    "name": "动物保镖",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59705,
+    "name": "萌物来袭",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59720,
+    "name": "嗜血传令官",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60003,
+    "name": "金牌猎手克里",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60004,
+    "name": "斯雷特教授",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 61679,
+    "name": "舞动的眼镜蛇",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61682,
+    "name": "神秘获奖者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61683,
+    "name": "打开兽笼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61690,
+    "name": "恩佐斯宝石",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61699,
+    "name": "暗月坦克",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61700,
+    "name": "宠物乐园",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61702,
+    "name": "狂踏的犀牛",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61839,
+    "name": "瑞林的步枪",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61842,
+    "name": "玛克希玛·雷管",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61846,
+    "name": "请勿投食",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61965,
+    "name": "套索射击",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61966,
+    "name": "鞍座管理员",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61967,
+    "name": "随心口袋",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61968,
+    "name": "邪火神射手",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 62698,
+    "name": "选种饲养员",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 62750,
+    "name": "载货科多兽",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62811,
+    "name": "赤鳞迅猛龙",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62812,
+    "name": "穿刺射击",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62813,
+    "name": "勘探者车队",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63002,
+    "name": "驯服野兽（等级1）",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63007,
+    "name": "科卡尔驯犬者",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63010,
+    "name": "塔维什·雷矛",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63088,
+    "name": "战歌驯兽师",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63195,
+    "name": "击伤猎物",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63334,
+    "name": "毒蛇花",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63335,
+    "name": "辛多雷气味猎手",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63461,
+    "name": "巴拉克·科多班恩",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63632,
+    "name": "毒袭之弓",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 64627,
+    "name": "硕鼠成群",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64631,
+    "name": "瞄准射击",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64637,
+    "name": "保卫矮人区",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64960,
+    "name": "老鼠窝",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64964,
+    "name": "制皮工具",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64965,
+    "name": "山羊坐骑",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64968,
+    "name": "暴风城吹笛人",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64970,
+    "name": "鼠王",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65044,
+    "name": "集群撕咬",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65159,
+    "name": "进口狼蛛",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 68357,
+    "name": "猎人印记",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68416,
+    "name": "饥饿的秃鹫",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68426,
+    "name": "驯兽师",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68428,
+    "name": "森林狼",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68430,
+    "name": "苔原犀牛",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68432,
+    "name": "多重射击",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68433,
+    "name": "追踪术",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68434,
+    "name": "奥术射击",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68472,
+    "name": "杀戮命令",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68529,
+    "name": "动物伙伴",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69545,
+    "name": "追踪术",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69546,
+    "name": "奥术射击",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69599,
+    "name": "食腐土狼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69600,
+    "name": "长鬃草原狮",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69601,
+    "name": "暴龙王克鲁什",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69602,
+    "name": "毒蛇陷阱",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69603,
+    "name": "爆炸陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69604,
+    "name": "冰冻陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69605,
+    "name": "致命射击",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69690,
+    "name": "子弹上膛",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69691,
+    "name": "快速射击",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69692,
+    "name": "结网蛛",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69693,
+    "name": "凶猛狂暴",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69694,
+    "name": "熊鲨",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69695,
+    "name": "猎头者之斧",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69803,
+    "name": "角斗士的长弓",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69962,
+    "name": "食腐土狼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69963,
+    "name": "误导",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69964,
+    "name": "长鬃草原狮",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69965,
+    "name": "鹰角弓",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69966,
+    "name": "爆炸射击",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69967,
+    "name": "关门放狗",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69968,
+    "name": "暴龙王克鲁什",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69969,
+    "name": "照明弹",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69970,
+    "name": "狂野怒火",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69971,
+    "name": "毒蛇陷阱",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70049,
+    "name": "狙击",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70050,
+    "name": "爆炸陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70051,
+    "name": "冰冻陷阱",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70056,
+    "name": "致命射击",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "VANILLA"
   }
 ]

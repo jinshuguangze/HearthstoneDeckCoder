@@ -9,6 +9,7 @@ import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.Writer;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
@@ -100,35 +101,43 @@ public class CardHandler {
 		/**
 		 * 将所有可收集卡牌分类并存储于Json文件中
 		 */
-		// 分离出九大职业与中立卡池，分离出英雄卡池
-		List<List<Card>> splitCards = new ArrayList<>(Collections.nCopies(11, new ArrayList<>()));
+		// 分离出十大职业与中立卡池，分离出英雄皮肤卡池
+		List<List<Card>> splitCards = new ArrayList<>(Collections.nCopies(CardClass.getCount() + 1, new ArrayList<>()));
 		ListIterator<Card> lIterator = cards.listIterator();
 
 		while (lIterator.hasNext()) {
 			Card temp = lIterator.next();
-			for (int i = 0; i < CardClass.getCount(); i++) {
-				int fileState = -1;
-				if (temp.type.toLowerCase().equals(CardClass.getName(0))// 英雄牌
-						&& (temp.set.toLowerCase().equals(CardSet.getName(0))
-								|| temp.set.toLowerCase().equals(CardSet.getName(1)))) {
-					fileState = 0;
-				} else if (temp.cardClass.toLowerCase().equals(CardClass.getName(i))) {// 其他牌
-					fileState = i;
-				}
-				if (fileState != -1) {
+			List<String> tempClasses = new ArrayList<>();
+			if (CardSet.isHeroSkin(temp.set.toLowerCase())) {// 英雄皮肤卡牌
+				List<Card> loopList = new ArrayList<>();
+				loopList.addAll(splitCards.get(0));
+				loopList.add(temp);
+				splitCards.set(0, loopList);
+				continue;
+			}
+			if (temp.classes != null)// 多职业卡牌
+			{
+				tempClasses = Arrays.asList(temp.classes);
+			} else {// 单职业卡牌
+				tempClasses.add(temp.cardClass);
+			}
+			for (int i = 0; i < tempClasses.size(); i++) {
+				int index = CardClass.getIndex(tempClasses.get(i).toLowerCase());
+				if (index != -1) {
 					List<Card> loopList = new ArrayList<>();
-					loopList.addAll(splitCards.get(fileState));
+					loopList.addAll(splitCards.get(index + 1));
 					loopList.add(temp);
-					splitCards.set(fileState, loopList);
-					break;
+					splitCards.set(index + 1, loopList);
 				}
 			}
 		}
 
 		// 将分离出来的卡牌写入json文件
+		if (!cardWrite(System.getProperty("user.dir") + "/cards." + CardSet.getName(0) + ".json", splitCards.get(0)))
+			return false;
 		for (int i = 0; i < CardClass.getCount(); i++)
 			if (!cardWrite(System.getProperty("user.dir") + "/cards." + CardClass.getName(i) + ".json",
-					splitCards.get(i)))
+					splitCards.get(i + 1)))
 				return false;
 		return true;
 	}

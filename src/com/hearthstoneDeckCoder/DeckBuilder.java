@@ -3,7 +3,6 @@ package com.hearthstoneDeckCoder;
 import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
@@ -12,6 +11,9 @@ public class DeckBuilder {
 	/**
 	 * 套牌构筑者
 	 */
+	public static double wildFormatRate = 0.35;// 狂野模式概率
+	public static double standardFormatRate = 0.6;// 标准模式概率
+	public static double classicFormatRate = 0.05;// 经典模式概率
 	public static double careerRate = 0.4;// 出现职业卡概率
 	public static double doubleCardMean = 5;// 出现双卡的数学期望
 	public static double doubleCardVariance = 10;// 出现双卡的方差
@@ -50,19 +52,22 @@ public class DeckBuilder {
 		int multiCount;
 		Random random = new Random();
 
-		// 卡组模式，狂野为1，标准为2
-		if (random.nextBoolean()) {
+		// 卡组模式，狂野为1，标准为2，经典为3
+		if (random.nextDouble() < wildFormatRate) {
 			cardsMode = 1;
-			cardsList.add(1);
-		} else {
+		} else if (random.nextDouble() < wildFormatRate + standardFormatRate) {
 			cardsMode = 2;
-			cardsList.add(2);
+		} else {
+			cardsMode = 3;
 		}
+		cardsList.add(cardsMode);
 
-		// 选择职业
+		// 选择职业，注意各职业概率与其皮肤数量有关
 		CardHandler heroes = new CardHandler();
-		heroes.cardRead("cards." + CardClass.getName(0).toLowerCase() + ".json");
-		cardsHero = heroes.cards.get(random.nextInt(heroes.cards.size()));
+		heroes.cardRead("cards." + CardSet.getName(0).toLowerCase() + ".json");
+		do {// 经典模式英雄限制
+			cardsHero = heroes.cards.get(random.nextInt(heroes.cards.size()));
+		} while (cardsMode == 3 && CardClass.getIndex(cardsHero.cardClass) == 10);
 		cardsList.add(cardsHero.dbfId);
 
 		// 决定单卡，双卡，多卡的数量
@@ -72,13 +77,13 @@ public class DeckBuilder {
 			multiCount = Integer.parseInt(new DecimalFormat("0")
 					.format(Math.sqrt(multiCardVariance) * random.nextGaussian() + multiCardMean));
 			sigleCount = 30 - 2 * doubleCount - 0 * multiCount;
-		} while (sigleCount * doubleCount < 0);
+		} while (sigleCount < 0 || doubleCount < 0 || multiCount < 0);
 
 		// 加入卡牌
 		CardHandler careerCards = new CardHandler();
 		careerCards.cardRead("cards." + cardsHero.cardClass.toLowerCase() + ".json");
 		CardHandler neutralCards = new CardHandler();
-		neutralCards.cardRead("cards." + CardClass.getName(10) + ".json");
+		neutralCards.cardRead("cards." + CardClass.getName(0) + ".json");
 		for (int i = 0; i < sigleCount + doubleCount; i++) {
 			Card card = new Card();
 			do {
@@ -88,9 +93,10 @@ public class DeckBuilder {
 					card = neutralCards.cards.get(random.nextInt(neutralCards.cards.size()));
 				}
 			} while (cardsList.contains(card.dbfId)// 列表重复限制
-					|| cardsMode == 2 && !CardSet.isStandardSet(card.set.toLowerCase()) // 标准环境限制
-					|| (i >= sigleCount && card.rarity.toLowerCase().equals(CardRarity.getName(4)))// 传说卡张数限制
-					|| !(card.classes == null || Arrays.asList(card.classes).contains(cardsHero.cardClass)));// 卡牌教派限制
+					|| cardsMode == 1 && !CardSet.isWildSet(card.set.toLowerCase())// 狂野环境限制
+					|| cardsMode == 2 && !CardSet.isStandardSet(card.set.toLowerCase())// 标准环境限制
+					|| cardsMode == 3 && !CardSet.isClassicSet(card.set.toLowerCase())// 经典环境限制
+					|| (i >= sigleCount && CardRarity.isLegendary(card.rarity.toLowerCase())));// 传说卡张数限制
 			cardsList.add(card.dbfId);
 			cardsCount.add(i < sigleCount ? 1 : 2);
 			cardsCost.add(card.cost);
@@ -127,9 +133,11 @@ public class DeckBuilder {
 		System.out.println("# 职业：" + CardClass.getChineseName(cardsHero.cardClass.toLowerCase()));
 		if (cardsMode == 1) {
 			System.out.println("# 模式：狂野模式");
-		} else {
+		} else if (cardsMode == 2) {
 			System.out.println("# 模式：标准模式");
-			System.out.println("# 渡鸦年");
+			System.out.println("# 狮鹫年");
+		} else {
+			System.out.println("# 模式：经典模式");
 		}
 		if (showCardsName) {
 			System.out.println("#");

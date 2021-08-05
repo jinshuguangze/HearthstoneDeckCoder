@@ -15,7 +15,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 147,
@@ -33,7 +33,7 @@
     "cost": 0,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 469,
@@ -55,12 +55,12 @@
   },
   {
     "dbfId": 592,
-    "name": "魅魔",
+    "name": "魔犬",
     "rarity": "FREE",
     "cost": 2,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 631,
@@ -76,7 +76,7 @@
     "name": "加拉克苏斯大王",
     "rarity": "LEGENDARY",
     "cost": 9,
-    "type": "MINION",
+    "type": "HERO",
     "cardClass": "WARLOCK",
     "set": "EXPERT1"
   },
@@ -96,7 +96,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "HOF"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 859,
@@ -123,7 +123,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 919,
@@ -132,7 +132,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 950,
@@ -141,7 +141,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 969,
@@ -159,7 +159,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 982,
@@ -168,7 +168,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1019,
@@ -177,7 +177,7 @@
     "cost": 6,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1090,
@@ -195,13 +195,13 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1100,
     "name": "灵魂虹吸",
     "rarity": "RARE",
-    "cost": 6,
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "set": "EXPERT1"
@@ -558,6 +558,48 @@
     "set": "GANGS"
   },
   {
+    "dbfId": 40407,
+    "name": "暗金教炼金师",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40408,
+    "name": "卡扎库斯",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40496,
+    "name": "暗金教信使",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "GANGS"
+  },
+  {
     "dbfId": 40517,
     "name": "邪火药水",
     "rarity": "RARE",
@@ -669,7 +711,7 @@
     "dbfId": 41872,
     "name": "血色绽放",
     "rarity": "EPIC",
-    "cost": 2,
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "set": "UNGORO"
@@ -894,7 +936,7 @@
     "dbfId": 46864,
     "name": "恶魔法阵",
     "rarity": "COMMON",
-    "cost": 4,
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "set": "GILNEAS"
@@ -975,7 +1017,7 @@
     "dbfId": 48113,
     "name": "灵魂炸弹",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "set": "BOOMSDAY"
@@ -1020,7 +1062,7 @@
     "dbfId": 48717,
     "name": "莫瑞甘博士",
     "rarity": "LEGENDARY",
-    "cost": 8,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "WARLOCK",
     "set": "BOOMSDAY"
@@ -1161,12 +1203,1294 @@
     "set": "TROLL"
   },
   {
+    "dbfId": 51371,
+    "name": "拉法姆的阴谋",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51966,
+    "name": "至暗时刻",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52058,
+    "name": "阿兰纳丝蛛后",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52119,
+    "name": "至尊盗王拉法姆",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
     "dbfId": 52263,
     "name": "虚空召唤",
     "rarity": "COMMON",
     "cost": 1,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "EXPERT1"
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 52480,
+    "name": "巨型小鬼",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52482,
+    "name": "性急的杂兵",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52698,
+    "name": "情势反转",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52871,
+    "name": "小鬼狱火",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52872,
+    "name": "怪盗天才",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52873,
+    "name": "邪能领主贝图格",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53739,
+    "name": "最最伟大的考古学",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53882,
+    "name": "邪恶交易",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53883,
+    "name": "尼斐塞特鞭笞者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53884,
+    "name": "怪盗征募官",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53885,
+    "name": "过期货物专卖商",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53887,
+    "name": "裂隙屠夫",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53889,
+    "name": "染病的兀鹫",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53890,
+    "name": "黑暗法老塔卡恒",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53938,
+    "name": "小鬼油膏",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54429,
+    "name": "火焰之灾祸",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54835,
+    "name": "攻城恶魔",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 54885,
+    "name": "疯狂的灵翼龙",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54888,
+    "name": "龙骨荒野异教徒",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54890,
+    "name": "暗藏的信徒",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54891,
+    "name": "黑暗天际",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54892,
+    "name": "虚空吐息",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54893,
+    "name": "火焰之雨",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54894,
+    "name": "深渊召唤者",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54896,
+    "name": "瓦迪瑞斯·邪噬",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54897,
+    "name": "扭曲巨龙泽拉库",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55251,
+    "name": "邪鬼仪式",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 56109,
+    "name": "扭曲学识",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56112,
+    "name": "邪魔仆从",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56114,
+    "name": "混乱凝视者",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56501,
+    "name": "古尔丹之手",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56502,
+    "name": "夜影主母",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56511,
+    "name": "黑暗之门",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56516,
+    "name": "改进型恐惧魔王",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56519,
+    "name": "被禁锢的拾荒小鬼",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56520,
+    "name": "暗影议会",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56523,
+    "name": "黑眼",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56534,
+    "name": "坎雷萨德·埃伯洛克",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57149,
+    "name": "不稳定的邪能箭",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57326,
+    "name": "击碎者克里丹",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57329,
+    "name": "邪火巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 58796,
+    "name": "校园精魂",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59192,
+    "name": "虚空吸食者",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59222,
+    "name": "脆骨破坏者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59223,
+    "name": "亡者复生",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59252,
+    "name": "高阶女巫维洛",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59263,
+    "name": "影光学者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59585,
+    "name": "血肉巨人",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59605,
+    "name": "骨网之卵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59623,
+    "name": "教导主任加丁",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59628,
+    "name": "恶魔研习",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59724,
+    "name": "精魂狱卒",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59725,
+    "name": "灵魂剥离",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59726,
+    "name": "邪能学说",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59727,
+    "name": "灵魂学家玛丽希亚",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 61202,
+    "name": "吐火艺人",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61203,
+    "name": "摇滚堕落者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61205,
+    "name": "免票入场",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61206,
+    "name": "癫狂的游客",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61207,
+    "name": "怨灵捣蛋鬼",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61254,
+    "name": "连环灾难",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61646,
+    "name": "提克特斯",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61648,
+    "name": "邪恶低语",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61884,
+    "name": "火圈鬼母",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61885,
+    "name": "混乱套牌",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61941,
+    "name": "幸运之魂囤积者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61942,
+    "name": "铁锈特使拉斯维克斯",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61944,
+    "name": "狂乱",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61971,
+    "name": "赛车回火",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 62349,
+    "name": "末日仪式",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 62350,
+    "name": "邪魂狱卒",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 63191,
+    "name": "牺牲魔典",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63192,
+    "name": "灵魂撕裂",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63193,
+    "name": "药剂师车队",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63211,
+    "name": "火焰祭坛",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63215,
+    "name": "暗金教物资官",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63216,
+    "name": "血岩碎片刺背野猪人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63217,
+    "name": "贫瘠之地拾荒者",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63218,
+    "name": "塔姆辛·罗姆",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63219,
+    "name": "尼尔鲁·火刃",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63220,
+    "name": "小鬼集群（等级1）",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63368,
+    "name": "不稳定的暗影震爆",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63369,
+    "name": "临终之息",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63370,
+    "name": "灵魂窃贼",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63677,
+    "name": "符文秘银杖",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64893,
+    "name": "血缚小鬼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64894,
+    "name": "暗巷契约",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64895,
+    "name": "阴暗的酒保",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64896,
+    "name": "恐惧坐骑",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64897,
+    "name": "恶魔来袭",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64898,
+    "name": "资深顾客",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64899,
+    "name": "纳斯雷兹姆之触",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64900,
+    "name": "恶魔之种",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64903,
+    "name": "安纳塞隆",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 66259,
+    "name": "被奴役的邪能领主",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 68341,
+    "name": "暗影箭",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68342,
+    "name": "吸取生命",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68343,
+    "name": "地狱烈焰",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68344,
+    "name": "腐蚀术",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68346,
+    "name": "恐惧地狱火",
+    "rarity": "FREE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68347,
+    "name": "虚空行者",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68459,
+    "name": "死亡缠绕",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68460,
+    "name": "魔犬",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68461,
+    "name": "灵魂之火",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68526,
+    "name": "牺牲契约",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69519,
+    "name": "地狱烈焰",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69520,
+    "name": "恐惧地狱火",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69553,
+    "name": "死亡缠绕",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69633,
+    "name": "虚空恐魔",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69634,
+    "name": "灵魂虹吸",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69635,
+    "name": "扭曲虚空",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69636,
+    "name": "烈焰小鬼",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69637,
+    "name": "加拉克苏斯大王",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69729,
+    "name": "小鬼骑士",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69734,
+    "name": "恶魔法阵",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69735,
+    "name": "吸取灵魂",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69736,
+    "name": "着魔村民",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69737,
+    "name": "拉卡利地狱犬",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69751,
+    "name": "鲜血小鬼",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69913,
+    "name": "恶魔卫士",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69914,
+    "name": "暗影烈焰",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69915,
+    "name": "虚空恐魔",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69916,
+    "name": "灵魂虹吸",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69917,
+    "name": "末日守卫",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69918,
+    "name": "扭曲虚空",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69919,
+    "name": "深渊领主",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69920,
+    "name": "召唤传送门",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69921,
+    "name": "力量的代价",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69922,
+    "name": "感知恶魔",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69923,
+    "name": "烈焰小鬼",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69924,
+    "name": "末日灾祸",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69925,
+    "name": "加拉克苏斯大王",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70042,
+    "name": "恶魔之火",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 75913,
+    "name": "暗影箭",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "VANILLA"
   }
 ]

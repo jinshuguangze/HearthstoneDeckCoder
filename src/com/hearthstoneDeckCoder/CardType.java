@@ -20,15 +20,6 @@ public enum CardType {
 		return CardType.values().length;
 	}
 
-	public static int getIndex(String name) {
-		for (CardType temp : CardType.values()) {
-			if (name.equals(temp.name)) {
-				return temp.index;
-			}
-		}
-		return -1;
-	}
-
 	public static String getName(int index) {
 		for (CardType temp : CardType.values()) {
 			if (index == temp.index) {
@@ -38,13 +29,13 @@ public enum CardType {
 		return null;
 	}
 
-	public static String getChineseName(String name) {
+	public static int getIndex(String name) {
 		for (CardType temp : CardType.values()) {
 			if (name.equals(temp.name)) {
-				return temp.chineseName;
+				return temp.index;
 			}
 		}
-		return null;
+		return -1;
 	}
 
 	public static String getChineseName(int index) {
@@ -54,5 +45,9 @@ public enum CardType {
 			}
 		}
 		return null;
+	}
+
+	public static String getChineseName(String name) {
+		return getChineseName(getIndex(name));
 	}
 }

@@ -6,7 +6,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 140,
@@ -33,7 +33,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 291,
@@ -42,7 +42,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 383,
@@ -51,7 +51,7 @@
     "cost": 1,
     "type": "WEAPON",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 435,
@@ -78,7 +78,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 584,
@@ -123,13 +123,13 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 756,
     "name": "生而平等",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "EXPERT1"
@@ -141,7 +141,7 @@
     "cost": 4,
     "type": "WEAPON",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 854,
@@ -150,7 +150,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 890,
@@ -168,7 +168,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1022,
@@ -186,7 +186,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1167,
@@ -567,6 +567,20 @@
     "set": "GANGS"
   },
   {
+    "dbfId": 40474,
+    "name": "污手街情报员",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "GANGS"
+  },
+  {
     "dbfId": 40531,
     "name": "暗鳞劫掠者",
     "rarity": "COMMON",
@@ -618,6 +632,34 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "PALADIN",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40703,
+    "name": "唐·汉古",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40743,
+    "name": "污手街走私者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "PALADIN",
+      "WARRIOR"
+    ],
     "set": "GANGS"
   },
   {
@@ -703,7 +745,7 @@
   },
   {
     "dbfId": 41945,
-    "name": "光铸剑龙",
+    "name": "光注剑龙",
     "rarity": "RARE",
     "cost": 4,
     "type": "MINION",
@@ -804,7 +846,7 @@
     "dbfId": 43384,
     "name": "战斗号角",
     "rarity": "EPIC",
-    "cost": 5,
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "LOOTAPALOOZA"
@@ -856,9 +898,9 @@
   },
   {
     "dbfId": 45877,
-    "name": "等级提升！",
+    "name": "等级提升",
     "rarity": "EPIC",
-    "cost": 5,
+    "cost": 6,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "LOOTAPALOOZA"
@@ -1029,7 +1071,7 @@
     "dbfId": 48985,
     "name": "水晶学",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "BOOMSDAY"
@@ -1038,7 +1080,7 @@
     "dbfId": 48989,
     "name": "亮石技师",
     "rarity": "EPIC",
-    "cost": 6,
+    "cost": 5,
     "type": "MINION",
     "cardClass": "PALADIN",
     "set": "BOOMSDAY"
@@ -1159,5 +1201,1269 @@
     "type": "MINION",
     "cardClass": "PALADIN",
     "set": "TROLL"
+  },
+  {
+    "dbfId": 51705,
+    "name": "孤注一掷",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51757,
+    "name": "青铜传令官",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51761,
+    "name": "龙语者",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52490,
+    "name": "光铸祝福",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52494,
+    "name": "永不屈服",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52496,
+    "name": "神秘之刃",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52500,
+    "name": "指挥官蕾撒",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52660,
+    "name": "冒险号角",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52685,
+    "name": "诺萨莉",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52742,
+    "name": "决斗",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53379,
+    "name": "沙漠爵士芬利",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53408,
+    "name": "先祖守护者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53445,
+    "name": "微型木乃伊",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53827,
+    "name": "法老祝福",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53832,
+    "name": "英勇狂热者",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53907,
+    "name": "制作木乃伊",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54037,
+    "name": "萨赫特的傲狮",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54038,
+    "name": "沙漠蜂后",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54427,
+    "name": "鱼人为王",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54806,
+    "name": "制伏",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54834,
+    "name": "正义",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 54919,
+    "name": "时光巨龙诺兹多姆",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54924,
+    "name": "正义感召",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55047,
+    "name": "空中飞爪",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55048,
+    "name": "琥珀看守者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55056,
+    "name": "青铜龙探险者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55067,
+    "name": "光铸远征军",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55068,
+    "name": "光铸狂热者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55069,
+    "name": "沙尘吐息",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55072,
+    "name": "龙骑士塔瑞萨",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55342,
+    "name": "庇护",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 56077,
+    "name": "炮火机甲",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56086,
+    "name": "空中团战",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56392,
+    "name": "被禁锢的阳鳃鱼人",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56394,
+    "name": "正义圣契",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56438,
+    "name": "鳞甲领主",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56443,
+    "name": "幽光鱼竿",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56444,
+    "name": "莫戈尔·莫戈尔格",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56445,
+    "name": "奥尔多侍从",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56554,
+    "name": "希望圣契",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56555,
+    "name": "智慧圣契",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56556,
+    "name": "奥尔多真理追寻者",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57476,
+    "name": "女伯爵莉亚德琳",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57546,
+    "name": "阿达尔之手",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58791,
+    "name": "流光之赐",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59038,
+    "name": "新生入学",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59083,
+    "name": "倦怠光波",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59408,
+    "name": "仪式重槌",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59409,
+    "name": "荣誉护盾",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59411,
+    "name": "巴罗夫领主",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59569,
+    "name": "终身教授图拉扬",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59583,
+    "name": "威能祝福",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59584,
+    "name": "虔诚的学徒",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59587,
+    "name": "高阶修士奥露拉",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59594,
+    "name": "双盾优等生",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59602,
+    "name": "毕业仪式",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59616,
+    "name": "银色自大狂",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59963,
+    "name": "踏实的大三学姐",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 61186,
+    "name": "气球商人",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61187,
+    "name": "古神在上",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61188,
+    "name": "狂欢报幕员",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61189,
+    "name": "纳鲁之锤",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61191,
+    "name": "救赎者洛萨克森",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61192,
+    "name": "大主教伊瑞尔",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61218,
+    "name": "游园日",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61305,
+    "name": "赤鳞驯龙者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61306,
+    "name": "零食大冲关",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61581,
+    "name": "旋转木马",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61943,
+    "name": "路障",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61947,
+    "name": "开赛集结",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61948,
+    "name": "被禁锢的星骓",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61949,
+    "name": "审判圣契",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 62921,
+    "name": "公正审判",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62924,
+    "name": "圣礼骑士",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62926,
+    "name": "逝者之剑",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62927,
+    "name": "北卫军指挥官",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62933,
+    "name": "战地医师老兵",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62947,
+    "name": "定罪（等级1）",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62976,
+    "name": "火炮长斯密瑟",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62993,
+    "name": "凯瑞尔·罗姆",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63079,
+    "name": "动员布道",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63099,
+    "name": "淡云圆盾",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63102,
+    "name": "小队集合",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63323,
+    "name": "迅疾救兵",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63690,
+    "name": "士兵车队",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 64007,
+    "name": "乌瑞恩首席剑士",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64308,
+    "name": "挺身而出",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64367,
+    "name": "光明使者之锤",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64368,
+    "name": "联盟旗手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64371,
+    "name": "古墓卫士",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64464,
+    "name": "清算",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 64523,
+    "name": "城建税",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64525,
+    "name": "神圣坐骑",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64546,
+    "name": "大领主弗塔根",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64554,
+    "name": "棱彩珠宝工具",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64661,
+    "name": "受祝福的货物",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 66862,
+    "name": "正义追击",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 68359,
+    "name": "力量祝福",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68361,
+    "name": "列王守卫",
+    "rarity": "FREE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68362,
+    "name": "圣光术",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68363,
+    "name": "圣光的正义",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68364,
+    "name": "王者祝福",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68366,
+    "name": "奉献",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68367,
+    "name": "愤怒之锤",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68368,
+    "name": "真银圣剑",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68462,
+    "name": "谦逊",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68464,
+    "name": "保护之手",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69528,
+    "name": "列王守卫",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69529,
+    "name": "圣光术",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69530,
+    "name": "王者祝福",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69532,
+    "name": "奉献",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69533,
+    "name": "真银圣剑",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69610,
+    "name": "崇高牺牲",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69611,
+    "name": "银色保卫者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69612,
+    "name": "奥尔多卫士",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69613,
+    "name": "提里奥·弗丁",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69614,
+    "name": "生而平等",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69703,
+    "name": "战马训练师",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69704,
+    "name": "复仇",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69705,
+    "name": "正义保护者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69706,
+    "name": "惩黑除恶",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69856,
+    "name": "崇高牺牲",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69858,
+    "name": "以眼还眼",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69861,
+    "name": "救赎",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69932,
+    "name": "神恩术",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69934,
+    "name": "圣疗术",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69935,
+    "name": "受祝福的勇士",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69936,
+    "name": "银色保卫者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69937,
+    "name": "智慧祝福",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69938,
+    "name": "神圣愤怒",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69939,
+    "name": "公正之剑",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69940,
+    "name": "忏悔",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69941,
+    "name": "奥尔多卫士",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69942,
+    "name": "提里奥·弗丁",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69943,
+    "name": "复仇之怒",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70057,
+    "name": "生而平等",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "VANILLA"
   }
 ]

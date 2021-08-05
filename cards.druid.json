@@ -3,7 +3,7 @@
     "dbfId": 36,
     "name": "塞纳留斯",
     "rarity": "LEGENDARY",
-    "cost": 9,
+    "cost": 8,
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "EXPERT1"
@@ -15,7 +15,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 86,
@@ -30,7 +30,7 @@
     "dbfId": 95,
     "name": "滋养",
     "rarity": "RARE",
-    "cost": 5,
+    "cost": 6,
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "EXPERT1"
@@ -51,7 +51,7 @@
     "cost": 8,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 213,
@@ -60,7 +60,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 233,
@@ -78,7 +78,7 @@
     "cost": 0,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 381,
@@ -96,7 +96,7 @@
     "cost": 0,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 481,
@@ -159,7 +159,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 773,
@@ -168,7 +168,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 823,
@@ -177,7 +177,7 @@
     "cost": 6,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 836,
@@ -213,16 +213,16 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1124,
     "name": "野性成长",
     "rarity": "FREE",
-    "cost": 2,
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1802,
@@ -280,7 +280,7 @@
   },
   {
     "dbfId": 2048,
-    "name": "尖牙德鲁伊",
+    "name": "毒牙德鲁伊",
     "rarity": "COMMON",
     "cost": 5,
     "type": "MINION",
@@ -525,7 +525,7 @@
     "dbfId": 39696,
     "name": "展览馆守卫",
     "rarity": "COMMON",
-    "cost": 6,
+    "cost": 5,
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "KARA"
@@ -594,6 +594,34 @@
     "set": "GANGS"
   },
   {
+    "dbfId": 40527,
+    "name": "青玉之灵",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40596,
+    "name": "艾雅·黑掌",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
+    "set": "GANGS"
+  },
+  {
     "dbfId": 40615,
     "name": "新月视界",
     "rarity": "EPIC",
@@ -609,6 +637,20 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "DRUID",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40742,
+    "name": "玉莲帮密探",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
     "set": "GANGS"
   },
   {
@@ -1038,7 +1080,7 @@
     "dbfId": 48744,
     "name": "黏液喷射者",
     "rarity": "COMMON",
-    "cost": 8,
+    "cost": 7,
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "BOOMSDAY"
@@ -1056,7 +1098,7 @@
     "dbfId": 48831,
     "name": "植被破碎机",
     "rarity": "RARE",
-    "cost": 10,
+    "cost": 9,
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "BOOMSDAY"
@@ -1159,5 +1201,1269 @@
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "TROLL"
+  },
+  {
+    "dbfId": 51769,
+    "name": "水晶之力",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51779,
+    "name": "远古祝福",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51781,
+    "name": "晶歌传送门",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51790,
+    "name": "橡果人",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51791,
+    "name": "织命者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51795,
+    "name": "卢森巴克",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52809,
+    "name": "守护者斯塔拉蒂斯",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52810,
+    "name": "守卫梦境之路",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52819,
+    "name": "森林的援助",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53179,
+    "name": "晶角雄鹿",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53496,
+    "name": "发掘潜力",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53545,
+    "name": "水晶商人",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53551,
+    "name": "蜂群来袭",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53576,
+    "name": "隐秘绿洲",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53596,
+    "name": "不虚此行",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53613,
+    "name": "园艺侏儒",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53615,
+    "name": "阿努比萨斯防御者",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53620,
+    "name": "启迪者伊莉斯",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53979,
+    "name": "溢流",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54489,
+    "name": "绿洲涌动者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54833,
+    "name": "野性赐福",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 55030,
+    "name": "觉醒巨龙伊瑟拉",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55031,
+    "name": "强力巨树格鲁",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55033,
+    "name": "保护甲板",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55035,
+    "name": "森然巨化",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55036,
+    "name": "空气栽培",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55037,
+    "name": "翡翠龙探险者",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55038,
+    "name": "盆栽投手",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55039,
+    "name": "树木援军",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55052,
+    "name": "梦境吐息",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55262,
+    "name": "人多势众",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 56057,
+    "name": "乘风而起",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56063,
+    "name": "飞翼守护者",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56262,
+    "name": "钢铁甲虫",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56676,
+    "name": "被禁锢的萨特",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56677,
+    "name": "真菌宝藏",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56678,
+    "name": "萌芽分裂",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56680,
+    "name": "过度生长",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56682,
+    "name": "伊谢尔·风歌",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56684,
+    "name": "铁木树皮",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56685,
+    "name": "沼泽多头蛇",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56686,
+    "name": "沼泽射线",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56687,
+    "name": "萤火成群",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56689,
+    "name": "孢子首领姆希菲",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 59001,
+    "name": "聒噪怪",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59026,
+    "name": "教师的爱宠",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59163,
+    "name": "自然研习",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59253,
+    "name": "演讲者吉德拉",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59450,
+    "name": "优胜劣汰",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59456,
+    "name": "分配组员",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59457,
+    "name": "大导师野爪",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59539,
+    "name": "动物保镖",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59542,
+    "name": "雕琢符文",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59553,
+    "name": "园地管理员",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59555,
+    "name": "林地守护者欧穆",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59614,
+    "name": "夜行虎",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59705,
+    "name": "萌物来袭",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60016,
+    "name": "雷霆绽放",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 61449,
+    "name": "月蚀",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61450,
+    "name": "日蚀",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61460,
+    "name": "泡沫元素",
+    "rarity": "RARE",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61461,
+    "name": "幽影猫头鹰",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61462,
+    "name": "马戏团树艺师",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61602,
+    "name": "月触项链",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61604,
+    "name": "塞纳里奥结界",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61605,
+    "name": "基利，艾露恩之眷",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61606,
+    "name": "格雷布",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61649,
+    "name": "猜重量",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61962,
+    "name": "灵魂指引",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61963,
+    "name": "迷梦幼龙",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61964,
+    "name": "树木生长",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61967,
+    "name": "随心口袋",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 62490,
+    "name": "诺达希尔德鲁伊",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 63021,
+    "name": "荆棘护卫",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63027,
+    "name": "狮群之怒",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63029,
+    "name": "厚皮科多兽",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63030,
+    "name": "生命之种（等级1）",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63033,
+    "name": "钢鬃卫兵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63038,
+    "name": "平原德鲁伊",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63040,
+    "name": "超凡之盟",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63042,
+    "name": "腐烂的普雷莫尔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63114,
+    "name": "尖壳印记",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63227,
+    "name": "古夫·符文图腾",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63329,
+    "name": "牙缚德鲁伊",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63332,
+    "name": "安娜科德拉",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63502,
+    "name": "变异尖牙风蛇",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 64201,
+    "name": "艾露恩神谕者",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64236,
+    "name": "播种施肥",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64291,
+    "name": "游园迷梦",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64292,
+    "name": "紧壳商品",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64337,
+    "name": "花园猎豹",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64346,
+    "name": "科多兽坐骑",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64384,
+    "name": "柳魔锐爪兽",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64385,
+    "name": "施肥",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64388,
+    "name": "活泼的松鼠",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64439,
+    "name": "沙德拉斯·月树",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 68307,
+    "name": "爪击",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68309,
+    "name": "治疗之触",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68310,
+    "name": "月火术",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68311,
+    "name": "野性印记",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68313,
+    "name": "野蛮咆哮",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68315,
+    "name": "横扫",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68316,
+    "name": "野性成长",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68413,
+    "name": "埃隆巴克保护者",
+    "rarity": "FREE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68445,
+    "name": "激活",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68446,
+    "name": "星火术",
+    "rarity": "FREE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69511,
+    "name": "野性印记",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69513,
+    "name": "野性成长",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69550,
+    "name": "激活",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69591,
+    "name": "丛林之魂",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69593,
+    "name": "野性之力",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69594,
+    "name": "滋养",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69595,
+    "name": "利爪德鲁伊",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69596,
+    "name": "战争古树",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69597,
+    "name": "自然之力",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69598,
+    "name": "塞纳留斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69685,
+    "name": "植树造林",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69686,
+    "name": "展览馆守卫",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69687,
+    "name": "魔法乌鸦",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69688,
+    "name": "野性之怒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69689,
+    "name": "飞扑",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69865,
+    "name": "愤怒",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69866,
+    "name": "自然印记",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69867,
+    "name": "丛林之魂",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69868,
+    "name": "野性之力",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69869,
+    "name": "自然平衡",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69871,
+    "name": "滋养",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69872,
+    "name": "利爪德鲁伊",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69873,
+    "name": "丛林守护者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69875,
+    "name": "战争古树",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69982,
+    "name": "撕咬",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70031,
+    "name": "塞纳留斯",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70034,
+    "name": "野蛮之击",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70076,
+    "name": "星辰坠落",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70077,
+    "name": "知识古树",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70981,
+    "name": "自然之力",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "VANILLA"
   }
 ]

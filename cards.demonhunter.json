@@ -1,0 +1,1140 @@
+[
+  {
+    "dbfId": 56583,
+    "name": "奥达奇战刃",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 56587,
+    "name": "棕红之翼",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56649,
+    "name": "被禁锢的安塔恩",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56652,
+    "name": "流放者奥图里斯",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56739,
+    "name": "乌祖尔恐魔",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56765,
+    "name": "暴怒邪吼者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56791,
+    "name": "混乱打击",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 56792,
+    "name": "协同打击",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 56806,
+    "name": "影蹄杀手",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 56841,
+    "name": "统率伊利达雷",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56860,
+    "name": "灰舌将领",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56873,
+    "name": "灵魂盛宴",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56899,
+    "name": "恶魔变形",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56900,
+    "name": "埃辛诺斯战刃",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56905,
+    "name": "斩炎",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56928,
+    "name": "双刃斩击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 56973,
+    "name": "盲眼监视者",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 56985,
+    "name": "虚无行者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57732,
+    "name": "灵魂裂劈",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 57847,
+    "name": "混乱新星",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 58170,
+    "name": "火色魔印奔行者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58172,
+    "name": "奈瑟兰达姆斯",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58183,
+    "name": "眼棱",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58201,
+    "name": "古尔丹之颅",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58202,
+    "name": "凯恩·日怒",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58243,
+    "name": "深渊指挥官",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58244,
+    "name": "巨型大恶魔",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58246,
+    "name": "灵魂分裂",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58452,
+    "name": "吞噬魔法",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58453,
+    "name": "幽灵视觉",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58455,
+    "name": "愤怒的女祭司",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58487,
+    "name": "战斗邪犬",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58489,
+    "name": "萨特监工",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 58492,
+    "name": "刃舞",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58494,
+    "name": "刃缚精锐",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 58495,
+    "name": "暴怒的邪鳍",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58524,
+    "name": "伊利达雷邪刃武士",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58607,
+    "name": "疾影",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 58610,
+    "name": "法力燃烧",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 59089,
+    "name": "切髓之刃",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59092,
+    "name": "仇恨之轮",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59230,
+    "name": "法师猎手",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59233,
+    "name": "引月长弓",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59394,
+    "name": "恶魔伙伴",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59395,
+    "name": "明星学员斯特里娜",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59606,
+    "name": "二段跳",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59710,
+    "name": "怒鳞纳迦",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 59720,
+    "name": "嗜血传令官",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59724,
+    "name": "精魂狱卒",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59725,
+    "name": "灵魂剥离",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59726,
+    "name": "邪能学说",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59727,
+    "name": "灵魂学家玛丽希亚",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59732,
+    "name": "铸魂宝石匠",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59753,
+    "name": "邪犬训练师",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59864,
+    "name": "邪能召唤师",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 59865,
+    "name": "怒刺蛮兵",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DEMON_HUNTER_INITIATE"
+  },
+  {
+    "dbfId": 59867,
+    "name": "心中的恶魔",
+    "rarity": "FREE",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 59869,
+    "name": "献祭光环",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 60003,
+    "name": "金牌猎手克里",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60143,
+    "name": "上古虚空恶犬",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60151,
+    "name": "残片震爆秘术师",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60153,
+    "name": "滑翔",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60164,
+    "name": "邪能护卫",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60280,
+    "name": "盘牙督军",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 61123,
+    "name": "越线的游客",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61125,
+    "name": "冷酷追杀",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61127,
+    "name": "邪吼冲击",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61128,
+    "name": "获救的流民",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61129,
+    "name": "知名表演者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61130,
+    "name": "演员大接力",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61131,
+    "name": "投掷利刃",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61132,
+    "name": "刀锋舞娘",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61133,
+    "name": "恐惧魔王之咬",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61135,
+    "name": "高跷艺人",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61136,
+    "name": "伊格诺斯",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61137,
+    "name": "扎依，出彩艺人",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61269,
+    "name": "贪食地狱犬",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61271,
+    "name": "魔钢处决者",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61273,
+    "name": "空翻杂技",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61939,
+    "name": "伊利达雷研习",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61940,
+    "name": "邪刃豹",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61941,
+    "name": "幸运之魂囤积者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61968,
+    "name": "邪火神射手",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 62845,
+    "name": "烈焰咒符",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63163,
+    "name": "剃刀野猪",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63164,
+    "name": "剃刀沼泽兽王",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63165,
+    "name": "邪恶召唤",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63166,
+    "name": "复仇之魂",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63167,
+    "name": "亡语者布莱克松",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63229,
+    "name": "獠牙锥刃",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63230,
+    "name": "污心拷问者",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63260,
+    "name": "库尔特鲁斯·陨烬",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63264,
+    "name": "召唤咒符",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63407,
+    "name": "邪能响尾蛇",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63467,
+    "name": "沉默咒符",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63682,
+    "name": "怒火（等级1）",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 64373,
+    "name": "怒缚蛮兵",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64375,
+    "name": "一决胜负",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64393,
+    "name": "邪能弹幕",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64394,
+    "name": "敏捷咒符",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64395,
+    "name": "固执的商贩",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64396,
+    "name": "邪能吞食者",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64397,
+    "name": "杰斯·织暗",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64465,
+    "name": "甘尔葛战刃铸造师",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 64467,
+    "name": "考瓦斯·血棘",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 64629,
+    "name": "魔变鱼人",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64665,
+    "name": "混乱吸取",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64688,
+    "name": "雄狮之怒",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 66176,
+    "name": "伊利达雷审判官",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69504,
+    "name": "协同打击",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69505,
+    "name": "混乱新星",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69506,
+    "name": "盲眼监视者",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69507,
+    "name": "奥达奇战刃",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69558,
+    "name": "混乱打击",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69586,
+    "name": "战斗邪犬",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69588,
+    "name": "暴怒邪吼者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69590,
+    "name": "灵魂盛宴",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69681,
+    "name": "灰舌将领",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69682,
+    "name": "埃辛诺斯战刃",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69683,
+    "name": "火色魔印奔行者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69684,
+    "name": "幽灵视觉",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69740,
+    "name": "眼棱",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  }
+]

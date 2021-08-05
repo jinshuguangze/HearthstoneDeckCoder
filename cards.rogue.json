@@ -6,16 +6,16 @@
     "cost": 0,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 196,
     "name": "消失",
-    "rarity": "FREE",
+    "rarity": "COMMON",
     "cost": 6,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 201,
@@ -30,7 +30,7 @@
     "dbfId": 268,
     "name": "冷血",
     "rarity": "COMMON",
-    "cost": 1,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "ROGUE",
     "set": "EXPERT1"
@@ -66,10 +66,10 @@
     "dbfId": 345,
     "name": "刺杀",
     "rarity": "FREE",
-    "cost": 5,
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 365,
@@ -93,10 +93,10 @@
     "dbfId": 421,
     "name": "刺客之刃",
     "rarity": "FREE",
-    "cost": 5,
+    "cost": 4,
     "type": "WEAPON",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 459,
@@ -105,7 +105,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 461,
@@ -114,7 +114,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 573,
@@ -123,16 +123,16 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 630,
     "name": "疾跑",
     "rarity": "FREE",
-    "cost": 7,
+    "cost": 6,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 667,
@@ -141,7 +141,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 708,
@@ -159,7 +159,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 887,
@@ -186,13 +186,13 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "HOF"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 1064,
     "name": "剑刃乱舞",
     "rarity": "RARE",
-    "cost": 4,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "ROGUE",
     "set": "EXPERT1"
@@ -559,11 +559,39 @@
   },
   {
     "dbfId": 40464,
-    "name": "暗影狂怒者",
+    "name": "暗影暴怒者",
     "rarity": "COMMON",
     "cost": 3,
     "type": "MINION",
     "cardClass": "ROGUE",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40527,
+    "name": "青玉之灵",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40596,
+    "name": "艾雅·黑掌",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
     "set": "GANGS"
   },
   {
@@ -600,6 +628,20 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "ROGUE",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40742,
+    "name": "玉莲帮密探",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
     "set": "GANGS"
   },
   {
@@ -723,7 +765,7 @@
     "dbfId": 42665,
     "name": "吸血药膏",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "ROGUE",
     "set": "ICECROWN"
@@ -966,7 +1008,7 @@
     "dbfId": 48035,
     "name": "紫色烟雾",
     "rarity": "COMMON",
-    "cost": 3,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "ROGUE",
     "set": "BOOMSDAY"
@@ -1002,7 +1044,7 @@
     "dbfId": 48471,
     "name": "蹦蹦兔",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "BOOMSDAY"
@@ -1161,12 +1203,1285 @@
     "set": "TROLL"
   },
   {
+    "dbfId": 51375,
+    "name": "托瓦格尔的阴谋",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51827,
+    "name": "未鉴定的合约",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52111,
+    "name": "怪盗恶霸",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52112,
+    "name": "荆棘帮蟊贼",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52114,
+    "name": "劫匪之王托瓦格尔",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
     "dbfId": 52264,
     "name": "窃取",
     "rarity": "COMMON",
     "cost": 1,
     "type": "SPELL",
     "cardClass": "ROGUE",
-    "set": "EXPERT1"
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 52603,
+    "name": "下水道销赃人",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52606,
+    "name": "宿敌",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52616,
+    "name": "塔克·诺兹维克",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52617,
+    "name": "摇摆矿锄",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52679,
+    "name": "战略转移",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53627,
+    "name": "连环腿大师",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54011,
+    "name": "沙赫柯特工兵",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54015,
+    "name": "钩镰弯刀",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54016,
+    "name": "死亡之影",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54020,
+    "name": "被埋葬的安卡",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54261,
+    "name": "法老御猫",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54311,
+    "name": "劫掠集市",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54314,
+    "name": "集市恶痞",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54317,
+    "name": "聪明的伪装",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54426,
+    "name": "疯狂之灾祸",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54863,
+    "name": "瘟疫使者",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 55094,
+    "name": "幽影潜藏者",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55095,
+    "name": "巨龙宝藏",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55097,
+    "name": "赞美迦拉克隆",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55099,
+    "name": "死金药剂师",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55101,
+    "name": "烛火吐息",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55102,
+    "name": "偷渡者",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55103,
+    "name": "血帆飞贼",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55104,
+    "name": "蜡烛巨龙",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55105,
+    "name": "菲里克·飞刺",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55246,
+    "name": "封印命运",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 56091,
+    "name": "空中私掠者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56093,
+    "name": "暗影塑形师",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56094,
+    "name": "蜡烛学",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56377,
+    "name": "间谍女郎",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56378,
+    "name": "灰舌杀手",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56379,
+    "name": "被诅咒的流浪者",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56524,
+    "name": "伏击",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56526,
+    "name": "邪恶计谋",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56527,
+    "name": "暗心贤者",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56528,
+    "name": "钉棍终结者",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56530,
+    "name": "阿卡玛",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57145,
+    "name": "偷天换日",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57419,
+    "name": "梦魇巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 57979,
+    "name": "暗影珠宝师汉纳尔",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58794,
+    "name": "秘密通道",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 58975,
+    "name": "调皮的大二学妹",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59207,
+    "name": "冰冷智慧",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59400,
+    "name": "狐人淬毒师",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59402,
+    "name": "胁迫",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59403,
+    "name": "钢铁舞者",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59556,
+    "name": "魔杖窃贼",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59609,
+    "name": "詹迪斯·巴罗夫",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59621,
+    "name": "幻觉药水",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59690,
+    "name": "卡斯迪诺夫教授",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59691,
+    "name": "渗透者莉莉安",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59877,
+    "name": "抄袭",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59989,
+    "name": "自砺之锋",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 60023,
+    "name": "劈砍课程",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 61151,
+    "name": "狐人老千",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61154,
+    "name": "暗影斗篷",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61156,
+    "name": "暗影克隆",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61157,
+    "name": "奖券老板",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61159,
+    "name": "行骗",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61162,
+    "name": "大女皇夏柯扎拉",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61168,
+    "name": "甜食狂",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61169,
+    "name": "致伤打击",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61171,
+    "name": "奖品掠夺者",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61635,
+    "name": "“赤烟”腾武",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61953,
+    "name": "氮素药膏",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61954,
+    "name": "欢脱的作弊选手",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61955,
+    "name": "蕉猾诡计",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61956,
+    "name": "钥匙守护者艾芙瑞",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 62359,
+    "name": "梵妮莎·范克里夫",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 62887,
+    "name": "油井伏击者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62888,
+    "name": "原野联络人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62889,
+    "name": "银叶草药膏",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62890,
+    "name": "邪恶挥刺（等级1）",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62891,
+    "name": "高效八爪机器人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62892,
+    "name": "麻痹药膏",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62893,
+    "name": "猪牙匕首",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62894,
+    "name": "偷师学艺",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 62895,
+    "name": "药剂师赫布瑞姆",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63357,
+    "name": "水栖蝮蛇",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63358,
+    "name": "潜伏帷幕",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63359,
+    "name": "美味风蛇",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63517,
+    "name": "斯卡布斯·刀油",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63955,
+    "name": "简略情报",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64013,
+    "name": "伪造的匕首",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64014,
+    "name": "锁喉",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64031,
+    "name": "军情七处线人",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64033,
+    "name": "军情七处的要挟",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64034,
+    "name": "军情七处探员",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64163,
+    "name": "军情七处刺客",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64363,
+    "name": "放贷的鲨鱼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64673,
+    "name": "变装大师",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64678,
+    "name": "探查内鬼",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 68348,
+    "name": "背刺",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68349,
+    "name": "致命药膏",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68351,
+    "name": "影袭",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68352,
+    "name": "刺杀",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68353,
+    "name": "疾跑",
+    "rarity": "FREE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68354,
+    "name": "刺客之刃",
+    "rarity": "FREE",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68444,
+    "name": "刀扇",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68458,
+    "name": "毒刃",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68475,
+    "name": "闷棍",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68548,
+    "name": "消失",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69521,
+    "name": "背刺",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69522,
+    "name": "致命药膏",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69524,
+    "name": "影袭",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69525,
+    "name": "刺杀",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69526,
+    "name": "疾跑",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69527,
+    "name": "刺客之刃",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69620,
+    "name": "冷血",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69621,
+    "name": "军情七处特工",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69622,
+    "name": "暗影步",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69623,
+    "name": "伺机待发",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69624,
+    "name": "耐心的刺客",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69708,
+    "name": "瘟疫科学家",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69738,
+    "name": "盗墓匪贼",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69742,
+    "name": "吹嘘海盗",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69743,
+    "name": "执刃教徒",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69752,
+    "name": "冷血",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69766,
+    "name": "剑刃乱舞",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69853,
+    "name": "刺骨",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69854,
+    "name": "背叛",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69855,
+    "name": "隐藏",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69857,
+    "name": "迪菲亚头目",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69859,
+    "name": "毁灭之刃",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69860,
+    "name": "军情七处特工",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69862,
+    "name": "裂颅之击",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69863,
+    "name": "暗影步",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69864,
+    "name": "伺机待发",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69961,
+    "name": "耐心的刺客",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70053,
+    "name": "艾德温·范克里夫",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70075,
+    "name": "劫持者",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70080,
+    "name": "伪装大师",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "VANILLA"
   }
 ]

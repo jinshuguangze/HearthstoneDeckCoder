@@ -1,7 +1,7 @@
 package com.hearthstoneDeckCoder;
 
 public enum CardClass {
-	HERO("hero", "英雄", 0),
+	NEUTRAL("neutral", "中立", 0),
 	WARRIOR("warrior", "战士", 1),
 	SHAMAN("shaman", "萨满祭司", 2),
 	ROGUE("rogue", "潜行者", 3),
@@ -11,7 +11,8 @@ public enum CardClass {
 	WARLOCK("warlock", "术士", 7),
 	MAGE("mage", "法师", 8),
 	PRIEST("priest", "牧师", 9),
-	NEUTRAL("neutral", "中立", 10);
+	DEMONHUNTER("demonhunter", "恶魔猎手", 10);
+	
 
 	private String name;
 	private String chineseName;
@@ -27,15 +28,6 @@ public enum CardClass {
 		return CardClass.values().length;
 	}
 
-	public static int getIndex(String name) {
-		for (CardClass temp : CardClass.values()) {
-			if (name.equals(temp.name)) {
-				return temp.index;
-			}
-		}
-		return -1;
-	}
-
 	public static String getName(int index) {
 		for (CardClass temp : CardClass.values()) {
 			if (index == temp.index) {
@@ -45,13 +37,13 @@ public enum CardClass {
 		return null;
 	}
 
-	public static String getChineseName(String name) {
+	public static int getIndex(String name) {
 		for (CardClass temp : CardClass.values()) {
-			if (name.equals(temp.name)) {
-				return temp.chineseName;
+			if (temp.name.equals(name)) {
+				return temp.index;
 			}
 		}
-		return null;
+		return -1;
 	}
 
 	public static String getChineseName(int index) {
@@ -61,5 +53,9 @@ public enum CardClass {
 			}
 		}
 		return null;
+	}
+
+	public static String getChineseName(String name) {
+		return getChineseName(getIndex(name));
 	}
 }

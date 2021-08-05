@@ -10,7 +10,11 @@ import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.Writer;
 import java.net.URL;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 import org.jsoup.Jsoup;
@@ -91,38 +95,57 @@ public class Updater {
 		 * 检查卡牌数据是否是最新，当前仅当成功更新时，返回true
 		 */
 		// 读取版本号并将版本号写进配置文件
-		String version;
-		if ((version = Updater.getVersion()) == null)
-			return false;
 		File file = new File("config.cfg");
+		String configVersion = null;
+		Date now = new Date();
+		DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		try {
-			if (!enforce && file.exists()) {
+			if (!file.exists() || enforce) {
+				file.delete();
+				file.createNewFile();
+			} else {
 				Reader reader = new InputStreamReader(new FileInputStream(file), "UTF-8");
 				Gson gsonInput = new Gson();
 				Config config = gsonInput.fromJson(reader, new TypeToken<Config>() {
 				}.getType());
-				if (config.version.equals(version))
-					return false;
-			} else {
-				file.createNewFile();
+				configVersion = config.version;
+				if (config.updateTime != null) {
+					try {
+						Date lastUpdateTime = df.parse(config.updateTime);
+						long betweenDays = (long) ((now.getTime() - lastUpdateTime.getTime()) 
+						/ (1000 * 60 * 60 * 24) + 0.5);
+						if (betweenDays >= 0 && betweenDays < 1) {
+							return false;
+						}
+					} catch (ParseException pe) {
+					}
+				}
 			}
-		} catch (IOException e) {
-			return false;
+			String version = Updater.getVersion();
+			CardHandler cr = new CardHandler();
+			// 当且仅当保存版本配置成功，且云版本和本地版本不全为空，且云版本和本地版本不相等，且更新成功才返回true
+			if(Updater.saveVersion(file, df.format(now), version != null ? version : configVersion)
+				&& (version != null || configVersion != null) && !version.equals(configVersion)
+				&& Updater.update((version != null) ? version : configVersion) && cr.cardRead(Updater.path)
+				&& cr.cardsSort() && cr.cardsClassify())
+				{
+					return true;
+				}
+		} catch (Exception e) {
 		}
-		CardHandler cr = new CardHandler();
-		return Updater.saveVersion(file, version) & Updater.update(version) & cr.cardRead(Updater.path) & cr.cardsSort()
-				& cr.cardsClassify();
+		return false;
 	}
 
-	private static boolean saveVersion(File file, String version) {
+	private static boolean saveVersion(File file, String updateTime, String version) {
 		/**
-		 * 将版本号存储在某个特定文件中 TODO:在未来版本里，会大更新配置文件的读取与写入，现在先搞出半成品。
+		 * 将版本号存储在某个特定文件中 TOD:在未来版本里，会大更新配置文件的读取与写入，现在先搞出半成品。
 		 */
 		try {
 			Writer writer = new OutputStreamWriter(new FileOutputStream(file, false), "UTF-8");
 			JsonWriter jsonWriter = new JsonWriter(writer);
 			jsonWriter.setIndent("  ");
 			jsonWriter.beginObject();
+			jsonWriter.name("updateTime").value(updateTime);
 			jsonWriter.name("version").value(version);
 			jsonWriter.endObject();
 			jsonWriter.close();

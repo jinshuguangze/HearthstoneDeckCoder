@@ -20,11 +20,15 @@ import org.jsoup.nodes.Document;
 @SuppressWarnings("unused")
 public class Test {
 	public static void main(String[] args) throws IOException {
-		//TODO:
-		//-软件开启自动检测更新，遇到更新弹出窗口询问下载是否下载xKB数据包
+		//TOD:
+		//-遇到更新弹出窗口询问下载是否下载xKB数据包
 		//-windows版本的UI，采用JavaFX制作
 		//-高级自定义，元素系列卡组，机械系列等
-		
+
+		//每日首次打开检测更新
+		//TOD:写个东西每日检测更新，并存储在config文件夹内
+		Updater.checkUpdate(false);
+
 		//测试单卡双卡数量
 		//Random random=new Random();
 		//int doubleCount=Integer.parseInt(new DecimalFormat("0").format(Math.sqrt(10)*random.nextGaussian()+5));
@@ -38,7 +42,7 @@ public class Test {
 		
 		//测试编码转数组
 		//String aString=
-		//		"AAEBAY0WECWkA+4E+gX7BqIQ6RLyE4sUpKwCsLwC/L0C0eECjeYC/+cCtPwCB4oQ7ROZFNm7AsbBAs31Atf+AgA=";
+		//		"AAEDAZirBAK1oQTcoQQO4ZUE4pUE5ZUE5pUE6JUE6ZYE9KAEvaEE1aEEk6IEoKMEv6MEw6MEx6MEAA==";
 		//System.out.println(CodeAnalyzer.code2list(aString));
 		
 		//测试数组转编码
@@ -53,9 +57,5 @@ public class Test {
 		DeckBuilder db = new DeckBuilder();
 		db.randomBuild();
 		db.deckPrint(true);
-		
-		//每日首次打开检测更新
-		//TODO:写个东西每日检测更新，并存储在config文件夹内
-		//Updater.checkUpdate(false);
 	}
 }

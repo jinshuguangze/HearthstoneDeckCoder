@@ -6,7 +6,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 113,
@@ -24,7 +24,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "HOF"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 192,
@@ -33,7 +33,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "HOF"
+    "set": "EXPERT1"
   },
   {
     "dbfId": 195,
@@ -60,7 +60,7 @@
     "cost": 4,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 366,
@@ -78,13 +78,13 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 405,
     "name": "法力浮龙",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 1,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "EXPERT1"
@@ -93,7 +93,7 @@
     "dbfId": 430,
     "name": "冰锥术",
     "rarity": "COMMON",
-    "cost": 4,
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "EXPERT1"
@@ -105,7 +105,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 457,
@@ -123,7 +123,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 564,
@@ -132,7 +132,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 587,
@@ -141,7 +141,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 614,
@@ -168,7 +168,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 748,
@@ -186,7 +186,7 @@
     "cost": 7,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1080,
@@ -204,7 +204,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 1087,
@@ -505,7 +505,7 @@
   },
   {
     "dbfId": 38900,
-    "name": "邪教女巫",
+    "name": "异教女巫",
     "rarity": "RARE",
     "cost": 2,
     "type": "MINION",
@@ -567,6 +567,34 @@
     "set": "GANGS"
   },
   {
+    "dbfId": 40407,
+    "name": "暗金教炼金师",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40408,
+    "name": "卡扎库斯",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "set": "GANGS"
+  },
+  {
     "dbfId": 40409,
     "name": "变形药水",
     "rarity": "RARE",
@@ -582,6 +610,20 @@
     "cost": 7,
     "type": "SPELL",
     "cardClass": "MAGE",
+    "set": "GANGS"
+  },
+  {
+    "dbfId": 40496,
+    "name": "暗金教信使",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
     "set": "GANGS"
   },
   {
@@ -856,7 +898,7 @@
   },
   {
     "dbfId": 45271,
-    "name": "巨龙之怒",
+    "name": "巨龙怒火",
     "rarity": "EPIC",
     "cost": 5,
     "type": "SPELL",
@@ -966,7 +1008,7 @@
     "dbfId": 47821,
     "name": "急速冷冻",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "GILNEAS"
@@ -1038,7 +1080,7 @@
     "dbfId": 48803,
     "name": "鲁莽试验",
     "rarity": "EPIC",
-    "cost": 4,
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "BOOMSDAY"
@@ -1161,13 +1203,40 @@
     "set": "TROLL"
   },
   {
+    "dbfId": 51943,
+    "name": "渡鸦信使",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51971,
+    "name": "咒术师的召唤",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 51977,
+    "name": "魔法蓝蛙",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
     "dbfId": 52255,
     "name": "冰刺",
     "rarity": "EPIC",
     "cost": 2,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "EXPERT1"
+    "set": "LEGACY"
   },
   {
     "dbfId": 52262,
@@ -1176,6 +1245,1234 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "EXPERT1"
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 52502,
+    "name": "卡德加",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52638,
+    "name": "肯瑞托三修法师",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52639,
+    "name": "霜冻射线",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52640,
+    "name": "创世之力",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52706,
+    "name": "法力飓风",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 52991,
+    "name": "魔术戏法",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53002,
+    "name": "卡雷苟斯",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DALARAN"
+  },
+  {
+    "dbfId": 53442,
+    "name": "尤格-萨隆的谜之匣",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53771,
+    "name": "始祖龟朝圣者",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53778,
+    "name": "考古专家雷诺",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53822,
+    "name": "对空奥术法师",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53823,
+    "name": "火焰结界",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53945,
+    "name": "洗劫天空殿",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 53974,
+    "name": "纳迦沙漠女巫",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54408,
+    "name": "沙丘塑形师",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54493,
+    "name": "云雾王子",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54772,
+    "name": "远古谜团",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ULDUM"
+  },
+  {
+    "dbfId": 54901,
+    "name": "碧蓝龙探险者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54904,
+    "name": "齐恩瓦拉",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54906,
+    "name": "奥术吐息",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54907,
+    "name": "紫罗兰魔翼鸦",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 54909,
+    "name": "法力巨人",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55276,
+    "name": "火球滚滚",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55280,
+    "name": "乘龙法师",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55281,
+    "name": "学习龙语",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 55283,
+    "name": "元素盟军",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 56071,
+    "name": "活化雪崩",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56072,
+    "name": "奥术增幅体",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56076,
+    "name": "神奇的雷诺",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "YEAR_OF_THE_DRAGON"
+  },
+  {
+    "dbfId": 56161,
+    "name": "织法巨龙玛里苟斯",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DRAGONS"
+  },
+  {
+    "dbfId": 56385,
+    "name": "咒术洪流",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56386,
+    "name": "虚空之风传送门",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56387,
+    "name": "被禁锢的眼魔",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56389,
+    "name": "唤醒",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56439,
+    "name": "星占师",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56460,
+    "name": "能量之泉",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56461,
+    "name": "埃匹希斯走私犯",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 56717,
+    "name": "星术师索兰莉安",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57217,
+    "name": "埃匹希斯冲击",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 57950,
+    "name": "深度冻结",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "BLACK_TEMPLE"
+  },
+  {
+    "dbfId": 58770,
+    "name": "决斗大师莫扎奇",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 58976,
+    "name": "衰变飞弹",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59000,
+    "name": "火印火妖",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59002,
+    "name": "浮龙培养师",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59013,
+    "name": "研究伙伴",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59207,
+    "name": "冰冷智慧",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59213,
+    "name": "始生研习",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59216,
+    "name": "莱斯·霜语",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59540,
+    "name": "燃烧",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59556,
+    "name": "魔杖窃贼",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59609,
+    "name": "詹迪斯·巴罗夫",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59621,
+    "name": "幻觉药水",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59639,
+    "name": "考前刷夜",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 59703,
+    "name": "戏法图腾",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "set": "SCHOLOMANCE"
+  },
+  {
+    "dbfId": 61176,
+    "name": "甜点飓风",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61177,
+    "name": "焰火元素",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61178,
+    "name": "游戏管理员",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61179,
+    "name": "克苏恩面具",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61180,
+    "name": "华丽谢幕",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61291,
+    "name": "套圈圈",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61584,
+    "name": "隐秘咒术师",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61585,
+    "name": "非公平游戏",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61587,
+    "name": "愚人套牌",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61589,
+    "name": "暗月先知赛格",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61956,
+    "name": "钥匙守护者艾芙瑞",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61957,
+    "name": "制造法力饼干",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61958,
+    "name": "冰川竞速者",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 61959,
+    "name": "被禁锢的凤凰",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "set": "DARKMOON_FAIRE"
+  },
+  {
+    "dbfId": 62347,
+    "name": "守护者艾格文",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 62804,
+    "name": "冰风暴（等级1）",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63056,
+    "name": "符文宝珠",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63057,
+    "name": "清凉的泉水",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63058,
+    "name": "织霜地下城历险家",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63059,
+    "name": "鲁莽的学徒",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63060,
+    "name": "奥术发光体",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63062,
+    "name": "野火",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63064,
+    "name": "火眼莫德雷斯",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63112,
+    "name": "霜舌半人马",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63261,
+    "name": "瓦尔登·晨拥",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63515,
+    "name": "冰爆冲击",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63520,
+    "name": "浮冰施法者",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63553,
+    "name": "绿洲盟军",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_BARRENS"
+  },
+  {
+    "dbfId": 63673,
+    "name": "星空墨水套装",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64423,
+    "name": "火热促销",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64430,
+    "name": "初始之火",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64433,
+    "name": "笨拙的信使",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64434,
+    "name": "点燃",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64435,
+    "name": "圣殿蜡烛商",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64436,
+    "name": "普瑞斯托的炎术师",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64438,
+    "name": "大魔导师安东尼达斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 64488,
+    "name": "巫师的计策",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65140,
+    "name": "炽热连击",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 68319,
+    "name": "变形术",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68321,
+    "name": "奥术智慧",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68322,
+    "name": "寒冰箭",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68323,
+    "name": "魔爆术",
+    "rarity": "FREE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68324,
+    "name": "冰霜新星",
+    "rarity": "FREE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68325,
+    "name": "镜像",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68326,
+    "name": "火球术",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68327,
+    "name": "烈焰风暴",
+    "rarity": "FREE",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68328,
+    "name": "水元素",
+    "rarity": "FREE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 68457,
+    "name": "奥术飞弹",
+    "rarity": "FREE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69500,
+    "name": "奥术智慧",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69501,
+    "name": "火球术",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69502,
+    "name": "烈焰风暴",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69503,
+    "name": "水元素",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69606,
+    "name": "冰锥术",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69607,
+    "name": "法术反制",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69608,
+    "name": "寒冰护体",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69609,
+    "name": "镜像实体",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69696,
+    "name": "英雄之魂",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69697,
+    "name": "考达拉幼龙",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69698,
+    "name": "迸射流星",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69699,
+    "name": "急速冷冻",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69700,
+    "name": "呓语魔典",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69701,
+    "name": "虚灵巫师",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69702,
+    "name": "秘法学家",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 69747,
+    "name": "暴风雪",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69748,
+    "name": "冰枪术",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69903,
+    "name": "虚灵奥术师",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69904,
+    "name": "冰锥术",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69905,
+    "name": "炎爆术",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69908,
+    "name": "法术反制",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69909,
+    "name": "寒冰护体",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69910,
+    "name": "镜像实体",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69911,
+    "name": "寒冰屏障",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 69975,
+    "name": "大法师安东尼达斯",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70040,
+    "name": "蒸发",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70048,
+    "name": "巫师学徒",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70052,
+    "name": "肯瑞托法师",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70079,
+    "name": "法力浮龙",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
+  },
+  {
+    "dbfId": 70102,
+    "name": "扰咒术",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "VANILLA"
   }
 ]
