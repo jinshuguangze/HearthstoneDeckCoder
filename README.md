@@ -91,7 +91,7 @@ AAECAf0GGrW5A8i5A+O+A+fRA87SA/LeA7DhA7zjA/XjA/bjA/jjA47nA5PoA/joA/DtA/LtA5TuA8jv
 ```
 
 ```
-### 随机卡组
+### 随机卡组3
 # 职业：战士
 # 模式：经典模式
 #
@@ -131,5 +131,5 @@ AAEDAePjAxSilgSplgS1lgTzlgT2lgSwlwS7lwStoQS3oQS8oQTAoQTCoQTHoQTIoQTXoQTAogTEogTG
 - [Jsoup](https://github.com/jhy/jsoup)
 
 # 未来计划
-1. 将它的核心放入著名炉石插件HearthStone Deck Tracker里！让更多人享受它！
+1. 将它的核心放入著名炉石插件[HearthStone Deck Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases)里！让更多人享受它！
 2. 英雄皮肤在如今版本已无法通过卡组代码来改变，已上报给炉石官方，期待暴雪修复这个BUG！
