@@ -2081,7 +2081,7 @@
   },
   {
     "dbfId": 64385,
-    "name": "施肥",
+    "name": "堆肥",
     "rarity": "EPIC",
     "cost": 2,
     "type": "SPELL",
@@ -2105,6 +2105,60 @@
     "type": "MINION",
     "cardClass": "DRUID",
     "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65580,
+    "name": "暗礁德鲁伊",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65583,
+    "name": "月光指引",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65584,
+    "name": "应急木工",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 66953,
+    "name": "野性之心古夫",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67207,
+    "name": "开路者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67209,
+    "name": "凶恶霜狼",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68307,
@@ -2458,6 +2512,60 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 70247,
+    "name": "霜刃豹头领",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70249,
+    "name": "野性之心",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70292,
+    "name": "空军指挥官穆维里克",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70295,
+    "name": "怒爪精锐",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70320,
+    "name": "占领冷齿矿洞",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70333,
+    "name": "傲狮猎手",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 70981,
     "name": "自然之力",
     "rarity": "EPIC",
@@ -2465,5 +2573,14 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 73528,
+    "name": "霜狼巢屋",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
   }
 ]

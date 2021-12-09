@@ -1521,7 +1521,7 @@
     "dbfId": 56385,
     "name": "咒术洪流",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "BLACK_TEMPLE"
@@ -1966,7 +1966,7 @@
     "dbfId": 63062,
     "name": "野火",
     "rarity": "EPIC",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "THE_BARRENS"
@@ -1975,7 +1975,7 @@
     "dbfId": 63064,
     "name": "火眼莫德雷斯",
     "rarity": "LEGENDARY",
-    "cost": 10,
+    "cost": 8,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "THE_BARRENS"
@@ -2114,6 +2114,87 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65682,
+    "name": "灰贤鹦鹉",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65683,
+    "name": "深水唤醒师",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65684,
+    "name": "奥术溢爆",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 66848,
+    "name": "魔导师晨拥",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67210,
+    "name": "法力虹吸",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67224,
+    "name": "群体变形",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67871,
+    "name": "战栗的女巫",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67873,
+    "name": "风雪增幅体",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67874,
+    "name": "奥术光辉",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68319,
@@ -2431,6 +2512,33 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 70005,
+    "name": "堆塑雪人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70011,
+    "name": "大法师的符文",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70015,
+    "name": "巴琳达·斯通赫尔斯",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 70040,
     "name": "蒸发",
     "rarity": "RARE",
@@ -2474,5 +2582,14 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 70204,
+    "name": "冰血哨塔",
+    "rarity": "RARE",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
   }
 ]

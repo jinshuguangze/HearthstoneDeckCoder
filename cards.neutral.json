@@ -8929,7 +8929,7 @@
   },
   {
     "dbfId": 64709,
-    "name": "工会商人",
+    "name": "公会商人",
     "rarity": "COMMON",
     "cost": 4,
     "type": "MINION",
@@ -8949,7 +8949,7 @@
     "dbfId": 64711,
     "name": "战场军官",
     "rarity": "COMMON",
-    "cost": 5,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "STORMWIND"
@@ -9117,6 +9117,51 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65599,
+    "name": "重拳先生",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65699,
+    "name": "最疯狂的爆破者",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65702,
+    "name": "葛拉卡蟹杀手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65704,
+    "name": "多系施法者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65705,
+    "name": "哥利亚，斯尼德的杰作",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 66854,
     "name": "雾帆劫掠者",
     "rarity": "RARE",
@@ -9196,6 +9241,105 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "CORE"
+  },
+  {
+    "dbfId": 66875,
+    "name": "德雷克塔尔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 66880,
+    "name": "洛克霍拉的使者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 66887,
+    "name": "冷饮制冰机",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67217,
+    "name": "狂乱角鹰兽",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67233,
+    "name": "群羊指挥官",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67237,
+    "name": "话痨奥术师",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67239,
+    "name": "范达尔·雷矛",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67352,
+    "name": "雪盲鹰身人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67375,
+    "name": "伏兵",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67753,
+    "name": "被背小鬼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67927,
+    "name": "巨型猫头鹰",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68298,
@@ -11178,6 +11322,213 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 70219,
+    "name": "侏儒列兵",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70220,
+    "name": "下士",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70221,
+    "name": "潜匿斥候",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70223,
+    "name": "恐狼指挥官",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70225,
+    "name": "塔楼中士",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70226,
+    "name": "碉堡中士",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70227,
+    "name": "冰雪亡魂",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70228,
+    "name": "冰封猛犸",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70231,
+    "name": "血卫士",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70232,
+    "name": "军团士兵",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70234,
+    "name": "骑士队长",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70235,
+    "name": "巨魔百夫长",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70236,
+    "name": "冰蹄护卫",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70238,
+    "name": "霜狼将领",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70239,
+    "name": "雷矛元帅",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70240,
+    "name": "狗头人监工",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70241,
+    "name": "深铁穴居人",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70243,
+    "name": "恐怖图腾赏金猎人",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70244,
+    "name": "憎恶军官",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70255,
+    "name": "冰雪之王洛克霍拉",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70257,
+    "name": "森林之王伊弗斯",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70258,
+    "name": "血怒者科尔拉克",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70400,
+    "name": "雷矛军需官",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 70980,
     "name": "伊瑟拉",
     "rarity": "LEGENDARY",
@@ -11203,5 +11554,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "CORE"
+  },
+  {
+    "dbfId": 79979,
+    "name": "反射工程师",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
   }
 ]

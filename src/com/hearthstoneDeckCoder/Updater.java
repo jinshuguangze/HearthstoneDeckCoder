@@ -38,7 +38,7 @@ public class Updater {
 		 */
 		try {
 			URL url = new URL(urlString);
-			BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
+			BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream(), "UTF-8"));
 			String currentLine;
 			String urlContent = "";
 			while ((currentLine = br.readLine()) != null)
@@ -53,22 +53,29 @@ public class Updater {
 		/**
 		 * 得到最新版本号
 		 */
+		// 得到版本号字符串数组
 		Document docHomepage;
+		String content[];
 		try {
 			// 坑爹的JDK11只支持TLSv1.3了，想支持以前的版本只能手动
 			System.setProperty("https.protocols", "TLSv1.2,TLSv1.1,SSLv3");
 			docHomepage = Jsoup.connect(urlHomepage).get();
-			String content[] = docHomepage.body().select("a").text().replaceAll("[^0-9 ]", "").split("\\s+");
-			Arrays.sort(content);
-			String version = content[content.length - 1];
-			if (version.isEmpty()) {
-				return null;
-			} else {
-				return version;
-			}
+			content = docHomepage.body().select("a").text().replaceAll("[^0-9 ]", "").split("\\s+");
 		} catch (Exception e) {
 			return null;
 		}
+
+		// 将版本号转换为整型数组后排序，得到最新版本号
+		int version[] = new int[content.length];
+		for(int i=0;i<content.length;i++){
+			try {
+				version[i] = Integer.parseInt(content[i]);
+			} catch (NumberFormatException e) {
+				version[i] = 0;
+			}
+		}
+		Arrays.sort(version);
+		return Integer.toString(version[version.length - 1]);
 	}
 
 	public static boolean update(String version) {
@@ -85,7 +92,7 @@ public class Updater {
 			if (!cr.cardWrite(path, cards))
 				return false;
 			return true;
-		} catch (NullPointerException e) {
+		} catch (Exception e) {
 			return false;
 		}
 	}
@@ -129,7 +136,7 @@ public class Updater {
 				&& Updater.update((version != null) ? version : configVersion) && cr.cardRead(Updater.path)
 				&& cr.cardsSort() && cr.cardsClassify())
 				{
-					return true;
+					return true; 
 				}
 		} catch (Exception e) {
 		}

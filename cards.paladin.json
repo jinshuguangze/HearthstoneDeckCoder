@@ -1939,7 +1939,7 @@
     "dbfId": 62947,
     "name": "定罪（等级1）",
     "rarity": "EPIC",
-    "cost": 1,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "THE_BARRENS"
@@ -2107,6 +2107,33 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65579,
+    "name": "分赃专员",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65590,
+    "name": "金翼鹦鹉",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65591,
+    "name": "正义防御",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 66862,
     "name": "正义追击",
     "rarity": "EPIC",
@@ -2114,6 +2141,24 @@
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "CORE"
+  },
+  {
+    "dbfId": 67040,
+    "name": "光铸凯瑞尔",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67211,
+    "name": "活力涌现",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68359,
@@ -2465,5 +2510,77 @@
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 70260,
+    "name": "坚守桥梁",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70261,
+    "name": "亮铜之翼",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70262,
+    "name": "圣殿骑士队长",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70263,
+    "name": "舍己为人",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70264,
+    "name": "骑兵号角",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70265,
+    "name": "石炉守备官",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72807,
+    "name": "丹巴达尔桥",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72810,
+    "name": "血色骑士赛丹",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
   }
 ]

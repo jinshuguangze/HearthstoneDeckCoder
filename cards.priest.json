@@ -1512,7 +1512,7 @@
     "dbfId": 56595,
     "name": "复苏",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "PRIEST",
     "set": "BLACK_TEMPLE"
@@ -1712,7 +1712,7 @@
     "dbfId": 59585,
     "name": "血肉巨人",
     "rarity": "EPIC",
-    "cost": 8,
+    "cost": 10,
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [
@@ -2179,6 +2179,33 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65676,
+    "name": "不朽护符",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65677,
+    "name": "迪菲亚麻风侏儒",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65678,
+    "name": "仿冒猫猫",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 66860,
     "name": "专注意志",
     "rarity": "RARE",
@@ -2195,6 +2222,24 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "set": "CORE"
+  },
+  {
+    "dbfId": 67048,
+    "name": "虔诚祭司泽瑞拉",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67759,
+    "name": "超脱",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68299,
@@ -2476,6 +2521,69 @@
     "set": "CORE"
   },
   {
+    "dbfId": 70020,
+    "name": "暗言术：噬",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70021,
+    "name": "不死信徒",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70022,
+    "name": "光辉晶簇",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70024,
+    "name": "灵魂向导",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70025,
+    "name": "祝福",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70026,
+    "name": "纳鲁的赐福",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70027,
+    "name": "纳亚克·海克森",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 70039,
     "name": "奥金尼灵魂祭司",
     "rarity": "RARE",
@@ -2528,5 +2636,14 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 72563,
+    "name": "雷矛救援站",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
   }
 ]

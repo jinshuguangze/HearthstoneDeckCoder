@@ -2125,6 +2125,51 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65597,
+    "name": "黑水弯刀",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65598,
+    "name": "海盗谈判",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65645,
+    "name": "艾德温，迪菲亚首脑",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 66874,
+    "name": "冷齿雪人",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 66939,
+    "name": "塑影匠师斯卡布斯",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 68348,
     "name": "背刺",
     "rarity": "FREE",
@@ -2483,5 +2528,77 @@
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 70202,
+    "name": "侦察",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70203,
+    "name": "双面间谍",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70395,
+    "name": "蛮爪豺狼人",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70396,
+    "name": "雪落墓地",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70488,
+    "name": "剥夺者",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70523,
+    "name": "赛拉辛·疾行",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70636,
+    "name": "珍藏私货",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 76041,
+    "name": "被遗忘者军官",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
   }
 ]

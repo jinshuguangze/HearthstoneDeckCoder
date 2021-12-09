@@ -24,6 +24,7 @@ public class Test {
 		//-遇到更新弹出窗口询问下载是否下载xKB数据包
 		//-windows版本的UI，采用JavaFX制作
 		//-高级自定义，元素系列卡组，机械系列等
+		//BUG：似乎不能随机英雄皮肤
 
 		//每日首次打开检测更新
 		//TOD:写个东西每日检测更新，并存储在config文件夹内
@@ -42,7 +43,7 @@ public class Test {
 		
 		//测试编码转数组
 		//String aString=
-		//		"AAEDAZirBAK1oQTcoQQO4ZUE4pUE5ZUE5pUE6JUE6ZYE9KAEvaEE1aEEk6IEoKMEv6MEw6MEx6MEAA==";
+		//		"AAECAd35AwynywOczQPr0QP83wOh6AOa6wPZ+QOjnwSynwS1nwTwnwTOoAQJrNQDtOED++MDkegDiPQDv/kDwPkD0/kDn6AEAA==";
 		//System.out.println(CodeAnalyzer.code2list(aString));
 		
 		//测试数组转编码

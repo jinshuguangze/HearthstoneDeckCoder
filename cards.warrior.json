@@ -2035,6 +2035,15 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 64197,
+    "name": "铁匠锤",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 64198,
     "name": "挑衅",
     "rarity": "EPIC",
@@ -2107,6 +2116,24 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65691,
+    "name": "操纵火炮",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65692,
+    "name": "迪菲亚炮手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 65693,
     "name": "遥控傀儡",
     "rarity": "EPIC",
@@ -2123,6 +2150,60 @@
     "type": "MINION",
     "cardClass": "WARRIOR",
     "set": "CORE"
+  },
+  {
+    "dbfId": 66876,
+    "name": "勇猛战将洛卡拉",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67193,
+    "name": "裂盾一击",
+    "rarity": "RARE",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67194,
+    "name": "凝冰护盾",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 68244,
+    "name": "荣耀追逐者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 68246,
+    "name": "冰雪围困",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 68255,
+    "name": "废料铁匠",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68371,
@@ -2431,6 +2512,15 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 70012,
+    "name": "奔赴前线",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 70045,
     "name": "严酷的监工",
     "rarity": "COMMON",
@@ -2465,5 +2555,32 @@
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 70282,
+    "name": "加尔范上尉",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72460,
+    "name": "冰血要塞",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 73459,
+    "name": "执斧狂战士",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
   }
 ]

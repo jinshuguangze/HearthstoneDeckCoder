@@ -1948,7 +1948,7 @@
     "dbfId": 63007,
     "name": "科卡尔驯犬者",
     "rarity": "EPIC",
-    "cost": 2,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "HUNTER",
     "set": "THE_BARRENS"
@@ -2056,7 +2056,7 @@
     "dbfId": 64964,
     "name": "制皮工具",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "WEAPON",
     "cardClass": "HUNTER",
     "set": "STORMWIND"
@@ -2105,6 +2105,69 @@
     "type": "MINION",
     "cardClass": "HUNTER",
     "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65601,
+    "name": "迪菲亚炸鱼手",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65602,
+    "name": "巨型鹦鹉",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65603,
+    "name": "狗狗饼干",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 67241,
+    "name": "布置陷阱",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67243,
+    "name": "冰霜陷阱",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67574,
+    "name": "觅血者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67803,
+    "name": "野兽追猎者塔维什",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68357,
@@ -2465,5 +2528,59 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 70103,
+    "name": "复活宠物",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70104,
+    "name": "雷矛军用山羊",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70105,
+    "name": "驯羊师",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70106,
+    "name": "空军指挥官艾克曼",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70245,
+    "name": "山岭野熊",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71321,
+    "name": "丹巴达尔碉堡",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
   }
 ]

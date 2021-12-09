@@ -28,7 +28,8 @@ public enum CardSet {
 	SCHOLOMANCE("scholomance", "通灵学院", 24, true),
 	DARKMOON_FAIRE("darkmoon_faire", "疯狂的暗月马戏团", 25, true),
 	THE_BARRENS("the_barrens", "贫瘠之地的锤炼", 26, true),
-	STORMWIND("stormwind", "暴风城下的集结", 27, true);
+	STORMWIND("stormwind", "暴风城下的集结", 27, true),
+	ALTERAC_VALLEY("alterac_valley", "奥特兰克的决裂", 28, true);
 
 	private String name;
 	private String chineseName;

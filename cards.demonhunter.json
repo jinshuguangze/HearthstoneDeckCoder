@@ -701,7 +701,7 @@
     "dbfId": 61136,
     "name": "伊格诺斯",
     "rarity": "LEGENDARY",
-    "cost": 4,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "DARKMOON_FAIRE"
@@ -907,7 +907,7 @@
     "dbfId": 64373,
     "name": "怒缚蛮兵",
     "rarity": "COMMON",
-    "cost": 7,
+    "cost": 8,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "STORMWIND"
@@ -1012,6 +1012,33 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65608,
+    "name": "贪婪需求",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65609,
+    "name": "桅台观察员",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65610,
+    "name": "试炼场",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 66176,
     "name": "伊利达雷审判官",
     "rarity": "RARE",
@@ -1019,6 +1046,78 @@
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "CORE"
+  },
+  {
+    "dbfId": 66951,
+    "name": "裂魔者库尔特鲁斯",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67204,
+    "name": "恐惧牢笼战刃",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67886,
+    "name": "擎旗奔行者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67887,
+    "name": "锁链守望者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67892,
+    "name": "清算咒符",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67894,
+    "name": "乌祖尔巨人",
+    "rarity": "EPIC",
+    "cost": 13,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 68061,
+    "name": "凯丽娅·邪魂",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 68216,
+    "name": "侧翼合击",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 69504,
@@ -1064,6 +1163,15 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "set": "CORE"
+  },
+  {
+    "dbfId": 69577,
+    "name": "历战先锋",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 69586,
@@ -1136,5 +1244,14 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "set": "CORE"
+  },
+  {
+    "dbfId": 72549,
+    "name": "征战平原",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
   }
 ]

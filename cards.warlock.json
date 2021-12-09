@@ -691,7 +691,7 @@
   },
   {
     "dbfId": 41869,
-    "name": "残暴的恐龙术士",
+    "name": "残暴的恐龙统领",
     "rarity": "RARE",
     "cost": 6,
     "type": "MINION",
@@ -1575,7 +1575,7 @@
     "dbfId": 56523,
     "name": "黑眼",
     "rarity": "EPIC",
-    "cost": 2,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "WARLOCK",
     "set": "BLACK_TEMPLE"
@@ -1682,7 +1682,7 @@
     "dbfId": 59585,
     "name": "血肉巨人",
     "rarity": "EPIC",
-    "cost": 8,
+    "cost": 10,
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [
@@ -2038,7 +2038,7 @@
     "dbfId": 63370,
     "name": "灵魂窃贼",
     "rarity": "RARE",
-    "cost": 4,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "WARLOCK",
     "set": "THE_BARRENS"
@@ -2047,7 +2047,7 @@
     "dbfId": 63677,
     "name": "符文秘银杖",
     "rarity": "RARE",
-    "cost": 3,
+    "cost": 4,
     "type": "WEAPON",
     "cardClass": "WARLOCK",
     "set": "STORMWIND"
@@ -2134,6 +2134,33 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65604,
+    "name": "暗影之刃飞刀手",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65605,
+    "name": "邪恶船运",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65606,
+    "name": "碎舰恶魔",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 66259,
     "name": "被奴役的邪能领主",
     "rarity": "COMMON",
@@ -2141,6 +2168,51 @@
     "type": "MINION",
     "cardClass": "WARLOCK",
     "set": "CORE"
+  },
+  {
+    "dbfId": 67756,
+    "name": "献祭召唤者",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67757,
+    "name": "可怕的憎恶",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67760,
+    "name": "恐惧巫妖塔姆辛",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67825,
+    "name": "塔姆辛的咒瓶",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67826,
+    "name": "墓地污染者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68341,
@@ -2476,6 +2548,24 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 69986,
+    "name": "毁灭之种",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70003,
+    "name": "邪火爆弹",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 70042,
     "name": "恶魔之火",
     "rarity": "COMMON",
@@ -2483,6 +2573,33 @@
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 70107,
+    "name": "邪恶入骨",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 70118,
+    "name": "邪能行者",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72440,
+    "name": "被亵渎的墓园",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 75913,

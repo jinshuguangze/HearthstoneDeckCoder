@@ -1966,7 +1966,7 @@
     "dbfId": 63098,
     "name": "永恒之火",
     "rarity": "RARE",
-    "cost": 1,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "set": "THE_BARRENS"
@@ -2098,6 +2098,33 @@
     "set": "STORMWIND"
   },
   {
+    "dbfId": 65619,
+    "name": "艳丽的金刚鹦鹉",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65655,
+    "name": "吸盘钩手",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "STORMWIND"
+  },
+  {
+    "dbfId": 65700,
+    "name": "厨师曲奇",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "STORMWIND"
+  },
+  {
     "dbfId": 66288,
     "name": "投资良机",
     "rarity": "COMMON",
@@ -2105,6 +2132,96 @@
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "set": "STORMWIND"
+  },
+  {
+    "dbfId": 67192,
+    "name": "冰川急冻",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67751,
+    "name": "雪球大战",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67761,
+    "name": "作弊的狗头人",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67769,
+    "name": "雪落守护者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67778,
+    "name": "熊男爵格雷希尔",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67779,
+    "name": "元素使者布鲁坎",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67833,
+    "name": "冰霜撕咬",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67861,
+    "name": "破霰元素",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67932,
+    "name": "冷风",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 68187,
+    "name": "蛮爪洞穴",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
   },
   {
     "dbfId": 68329,
