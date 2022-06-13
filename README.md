@@ -106,35 +106,39 @@ AAECAfrlBBzU6AP66AOY6gOu6wOd8AOj9QOm9QPN+QPU+QPW+QO1igSSnwSUnwSVnwSWnwSSoATMoATq
 
 ```
 ### 随机卡组3
-# 职业：恶魔猎手
+# 职业：法师
 # 模式：经典模式
 #
-# 2x (1) 石牙野猪
-# 1x (1) 精灵弓箭手
-# 2x (1) 南海船工
-# 1x (1) 叫嚣的中士
-# 1x (1) 圣光护卫者
-# 1x (1) 奥秘守护者
-# 1x (2) 工程师学徒
-# 2x (2) 上古看守者
-# 1x (2) 恐狼前锋
-# 1x (3) 银背族长
-# 1x (3) 大地之环先知
-# 2x (3) 血色十字军战士
-# 1x (3) 任务达人
-# 1x (3) 攻城车
-# 2x (4) 魔古山守望者
-# 1x (5) 霜狼督军
-# 2x (5) 夜刃刺客
-# 1x (5) 风险投资公司雇佣兵
-# 1x (6) 格尔宾·梅卡托克
-# 1x (6) 黑骑士
-# 1x (6) 伊利丹·怒风
-# 1x (7) 暴风城勇士
-# 1x (10) 海巨人
+# 2x (1) 闪金镇步兵
+# 1x (1) 巫医
+# 1x (1) 奥术飞弹
+# 1x (2) 魔爆术
+# 1x (2) 霜狼步兵
+# 1x (2) 鱼人猎潮者
+# 1x (2) 上古看守者
+# 1x (2) 魔瘾者
+# 1x (2) 巫师学徒
+# 1x (3) 冰霜新星
+# 1x (3) 团队领袖
+# 1x (3) 达拉然法师
+# 2x (3) 任务达人
+# 1x (3) 工匠大师欧沃斯巴克
+# 1x (3) 暴怒的狼人
+# 1x (3) 小鬼召唤师
+# 1x (3) 肯瑞托法师
+# 1x (4) 变形术
+# 1x (4) 水元素
+# 1x (4) 绿洲钳嘴龟
+# 1x (4) 食人魔法师
+# 1x (4) 年迈的酒仙
+# 1x (5) 沼泽爬行者
+# 1x (5) 加基森拍卖师
+# 1x (6) 石拳食人魔
+# 1x (6) 银色指挥官
+# 1x (7) 大法师安东尼达斯
 # 1x (20) 熔核巨人
 #
-AAEDAdKLBRKjlgSzlgS5lgS7lgTUlgS7lwT6oASBoQSEoQSsoQStoQTBoQTNoQTYoQTuoQSVowSmowSqowQGrJYE/pYE+6AEuaEEwqEEvKIEAA==
+AAEDAdvwBBrflQTjlQTklQTolQSclgSelgSflgS1lgS2lgTTlgTplgT0lgT8lgTxoATCoQTHoQTIoQTLoQTPoQTUoQTFogTXogSbowSgowSkowSqowQCypUEwaEEAA==
 #
 # 想要使用这副套牌，请先复制到剪贴板，然后在游戏中点击“新套牌”进行粘贴。
 ```
