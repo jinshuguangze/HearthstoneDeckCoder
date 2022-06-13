@@ -24,12 +24,13 @@ public enum CardSet {
 	DRAGONS("dragons", "巨龙降临", 20, false),
 	YEAR_OF_THE_DRAGON("year_of_the_dragon", "迦拉克隆的觉醒", 21, false),
 	DEMON_HUNTER_INITIATE("demon_hunter_initiate", "恶魔猎手新兵", 22, false),
-	BLACK_TEMPLE("black_temple", "外域的灰烬", 23, true),
-	SCHOLOMANCE("scholomance", "通灵学院", 24, true),
-	DARKMOON_FAIRE("darkmoon_faire", "疯狂的暗月马戏团", 25, true),
+	BLACK_TEMPLE("black_temple", "外域的灰烬", 23, false),
+	SCHOLOMANCE("scholomance", "通灵学院", 24, false),
+	DARKMOON_FAIRE("darkmoon_faire", "疯狂的暗月马戏团", 25, false),
 	THE_BARRENS("the_barrens", "贫瘠之地的锤炼", 26, true),
 	STORMWIND("stormwind", "暴风城下的集结", 27, true),
-	ALTERAC_VALLEY("alterac_valley", "奥特兰克的决裂", 28, true);
+	ALTERAC_VALLEY("alterac_valley", "奥特兰克的决裂", 28, true),
+	THE_SUNKEN_CITY("the_sunken_city", "探寻沉没之城", 29, true);
 
 	private String name;
 	private String chineseName;

@@ -1915,7 +1915,7 @@
     "cost": 0,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 62350,
@@ -2047,7 +2047,7 @@
     "dbfId": 63677,
     "name": "符文秘银杖",
     "rarity": "RARE",
-    "cost": 4,
+    "cost": 5,
     "type": "WEAPON",
     "cardClass": "WARLOCK",
     "set": "STORMWIND"
@@ -2167,7 +2167,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 67756,
@@ -2184,6 +2184,15 @@
     "rarity": "COMMON",
     "cost": 5,
     "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67758,
+    "name": "小鬼侵染",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
     "cardClass": "WARLOCK",
     "set": "ALTERAC_VALLEY"
   },
@@ -2320,7 +2329,7 @@
     "cost": 6,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69553,
@@ -2410,7 +2419,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69737,
@@ -2593,6 +2602,60 @@
     "set": "ALTERAC_VALLEY"
   },
   {
+    "dbfId": 71292,
+    "name": "痛苦诅咒",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71295,
+    "name": "死亡之翼的子嗣",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71924,
+    "name": "虚鳃鱼人",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72254,
+    "name": "艾萨拉的拾荒者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72318,
+    "name": "深渊波流",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72320,
+    "name": "岩石海底",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 72440,
     "name": "被亵渎的墓园",
     "rarity": "RARE",
@@ -2602,12 +2665,147 @@
     "set": "ALTERAC_VALLEY"
   },
   {
-    "dbfId": 75913,
-    "name": "暗影箭",
-    "rarity": "FREE",
+    "dbfId": 73436,
+    "name": "希拉柯丝教徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73442,
+    "name": "拖入深渊",
+    "rarity": "COMMON",
     "cost": 3,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "VANILLA"
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73443,
+    "name": "鱼饵桶",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73445,
+    "name": "暗影使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73446,
+    "name": "扎库尔",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74741,
+    "name": "老巨鳍",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75637,
+    "name": "献祭",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75639,
+    "name": "指挥官乌尔索克",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76281,
+    "name": "虚空行者",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76282,
+    "name": "小鬼首领",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76283,
+    "name": "渊狱惩击者",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76926,
+    "name": "血腥邪鳍鱼人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 86537,
+    "name": "高阶祭司耶克里克",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86538,
+    "name": "夜色镇图书管理员",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89144,
+    "name": "末日仪式",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 89148,
+    "name": "被奴役的邪能领主",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "LEGACY"
   }
 ]

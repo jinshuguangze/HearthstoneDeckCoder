@@ -2153,7 +2153,7 @@
   },
   {
     "dbfId": 67761,
-    "name": "作弊的狗头人",
+    "name": "作弊的雪地狗头人",
     "rarity": "EPIC",
     "cost": 3,
     "type": "MINION",
@@ -2164,7 +2164,7 @@
     "dbfId": 67769,
     "name": "雪落守护者",
     "rarity": "COMMON",
-    "cost": 5,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "SHAMAN",
     "set": "ALTERAC_VALLEY"
@@ -2320,7 +2320,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69516,
@@ -2374,7 +2374,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69628,
@@ -2383,7 +2383,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69629,
@@ -2437,7 +2437,7 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69744,
@@ -2582,5 +2582,194 @@
     "type": "MINION",
     "cardClass": "SHAMAN",
     "set": "VANILLA"
+  },
+  {
+    "dbfId": 71234,
+    "name": "别站在火里！",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71235,
+    "name": "灵魂坐骑",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71236,
+    "name": "提神冰冷",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72314,
+    "name": "驻锚图腾",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72316,
+    "name": "生物荧光",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72415,
+    "name": "怒脊附魔师",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72416,
+    "name": "鱼群聚集",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72418,
+    "name": "食人鱼偷猎者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72423,
+    "name": "艾萨拉之辉",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72508,
+    "name": "间歇热泉",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72553,
+    "name": "暴食巨鳗格拉格",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72973,
+    "name": "珊瑚培育师",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75586,
+    "name": "迷潮挖掘者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75589,
+    "name": "小丑鱼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75590,
+    "name": "耐普图隆的指令",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76293,
+    "name": "视界术",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76294,
+    "name": "火舌图腾",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76295,
+    "name": "大漩涡传送门",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 77209,
+    "name": "艾萨拉的卷轴",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77554,
+    "name": "嗜血",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 87920,
+    "name": "卡格瓦，青蛙之神",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
   }
 ]

@@ -129,7 +129,7 @@
     "dbfId": 756,
     "name": "生而平等",
     "rarity": "RARE",
-    "cost": 3,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "EXPERT1"
@@ -1707,7 +1707,7 @@
     "dbfId": 59587,
     "name": "高阶修士奥露拉",
     "rarity": "LEGENDARY",
-    "cost": 5,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [
@@ -2140,7 +2140,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 67040,
@@ -2257,7 +2257,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69529,
@@ -2266,7 +2266,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69530,
@@ -2335,7 +2335,7 @@
     "dbfId": 69614,
     "name": "生而平等",
     "rarity": "RARE",
-    "cost": 3,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "CORE"
@@ -2566,6 +2566,42 @@
     "set": "ALTERAC_VALLEY"
   },
   {
+    "dbfId": 71244,
+    "name": "暴风城复仇者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71248,
+    "name": "武装教士",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71253,
+    "name": "勇气之戒",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71984,
+    "name": "海兽号",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 72807,
     "name": "丹巴达尔桥",
     "rarity": "RARE",
@@ -2582,5 +2618,158 @@
     "type": "MINION",
     "cardClass": "PALADIN",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72926,
+    "name": "艾萨拉的观月仪",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73424,
+    "name": "神圣寿司卷",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73427,
+    "name": "纳迦侍从",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73428,
+    "name": "泡泡机器人",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73431,
+    "name": "闪光翻车鱼",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73434,
+    "name": "花园惠景",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76250,
+    "name": "雷达探测",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76258,
+    "name": "光鳐",
+    "rarity": "COMMON",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76306,
+    "name": "圣光闪现",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 77018,
+    "name": "海床救生员",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 78113,
+    "name": "克托里·光刃",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80112,
+    "name": "永存石中",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80117,
+    "name": "战争前线",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 86544,
+    "name": "琥珀看守者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86545,
+    "name": "青铜龙探险者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86546,
+    "name": "光耀之主拉格纳罗斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89149,
+    "name": "正义追击",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "LEGACY"
   }
 ]

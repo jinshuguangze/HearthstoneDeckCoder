@@ -963,7 +963,7 @@
     "dbfId": 47211,
     "name": "苔丝·格雷迈恩",
     "rarity": "LEGENDARY",
-    "cost": 8,
+    "cost": 7,
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "GILNEAS"
@@ -1699,7 +1699,7 @@
     "dbfId": 59609,
     "name": "詹迪斯·巴罗夫",
     "rarity": "LEGENDARY",
-    "cost": 6,
+    "cost": 5,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [
@@ -1787,7 +1787,7 @@
     "dbfId": 61154,
     "name": "暗影斗篷",
     "rarity": "EPIC",
-    "cost": 3,
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "ROGUE",
     "set": "DARKMOON_FAIRE"
@@ -1957,7 +1957,7 @@
     "dbfId": 62891,
     "name": "高效八爪机器人",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "THE_BARRENS"
@@ -2162,9 +2162,9 @@
   },
   {
     "dbfId": 66939,
-    "name": "塑影匠师斯卡布斯",
+    "name": "迅影匠师斯卡布斯",
     "rarity": "LEGENDARY",
-    "cost": 7,
+    "cost": 8,
     "type": "HERO",
     "cardClass": "ROGUE",
     "set": "ALTERAC_VALLEY"
@@ -2356,7 +2356,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69708,
@@ -2392,7 +2392,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69752,
@@ -2593,6 +2593,105 @@
     "set": "ALTERAC_VALLEY"
   },
   {
+    "dbfId": 71289,
+    "name": "奈法利安的牙",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71293,
+    "name": "烟幕",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71294,
+    "name": "军情七处走私贩",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72111,
+    "name": "艾萨拉的舰船",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72119,
+    "name": "垂钓时光",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72473,
+    "name": "血染大海",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72480,
+    "name": "镣铐水鬼",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72495,
+    "name": "海盗将领钩牙",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72533,
+    "name": "迅鳞欺诈者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72536,
+    "name": "可拉巴托亚",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74890,
+    "name": "鱼排斗士",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 76041,
     "name": "被遗忘者军官",
     "rarity": "EPIC",
@@ -2600,5 +2699,77 @@
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 76259,
+    "name": "碎冰蹒跚者",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76261,
+    "name": "墨晕伏击者",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76285,
+    "name": "锈水海盗",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 77208,
+    "name": "携刃信使",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77210,
+    "name": "剑鱼",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80121,
+    "name": "头等大奖",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 86539,
+    "name": "苔丝·格雷迈恩",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86540,
+    "name": "荆棘帮蟊贼",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
   }
 ]

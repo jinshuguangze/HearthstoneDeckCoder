@@ -21,7 +21,7 @@
     "dbfId": 56649,
     "name": "被禁锢的安塔恩",
     "rarity": "RARE",
-    "cost": 6,
+    "cost": 5,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "BLACK_TEMPLE"
@@ -102,7 +102,7 @@
     "dbfId": 56873,
     "name": "灵魂盛宴",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "set": "DEMON_HUNTER_INITIATE"
@@ -575,7 +575,7 @@
     "dbfId": 60151,
     "name": "残片震爆秘术师",
     "rarity": "RARE",
-    "cost": 4,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "SCHOLOMANCE"
@@ -701,7 +701,7 @@
     "dbfId": 61136,
     "name": "伊格诺斯",
     "rarity": "LEGENDARY",
-    "cost": 6,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "DARKMOON_FAIRE"
@@ -1120,6 +1120,15 @@
     "set": "ALTERAC_VALLEY"
   },
   {
+    "dbfId": 68262,
+    "name": "爪刃哨兵",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 69504,
     "name": "协同打击",
     "rarity": "COMMON",
@@ -1195,7 +1204,7 @@
     "dbfId": 69590,
     "name": "灵魂盛宴",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "set": "CORE"
@@ -1207,7 +1216,7 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69682,
@@ -1216,7 +1225,7 @@
     "cost": 5,
     "type": "WEAPON",
     "cardClass": "DEMONHUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69683,
@@ -1246,6 +1255,69 @@
     "set": "CORE"
   },
   {
+    "dbfId": 71237,
+    "name": "敏锐反应",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71239,
+    "name": "憎恨之翼（等级1）",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71694,
+    "name": "多重打击",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71919,
+    "name": "刃鲨",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71921,
+    "name": "库斯卡指挥官",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71922,
+    "name": "无底海渊",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72117,
+    "name": "骸骨战刃",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 72549,
     "name": "征战平原",
     "rarity": "RARE",
@@ -1253,5 +1325,104 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72657,
+    "name": "艾萨拉的背叛者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72984,
+    "name": "捕掠",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73721,
+    "name": "游荡贤者",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73723,
+    "name": "赛丝诺女士",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73726,
+    "name": "渊狱魔犬希拉格",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75070,
+    "name": "损毁神像",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75072,
+    "name": "化石狂热者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75552,
+    "name": "混乱使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76308,
+    "name": "恶魔变形",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86547,
+    "name": "怒鳞纳迦",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89699,
+    "name": "斩炎",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
   }
 ]

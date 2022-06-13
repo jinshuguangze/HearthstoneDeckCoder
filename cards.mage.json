@@ -147,7 +147,7 @@
     "dbfId": 614,
     "name": "巫师学徒",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "EXPERT1"
@@ -1305,7 +1305,7 @@
     "dbfId": 53002,
     "name": "卡雷苟斯",
     "rarity": "LEGENDARY",
-    "cost": 10,
+    "cost": 9,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "DALARAN"
@@ -1521,7 +1521,7 @@
     "dbfId": 56385,
     "name": "咒术洪流",
     "rarity": "COMMON",
-    "cost": 3,
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "BLACK_TEMPLE"
@@ -1548,7 +1548,7 @@
     "dbfId": 56389,
     "name": "唤醒",
     "rarity": "LEGENDARY",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "BLACK_TEMPLE"
@@ -1721,7 +1721,7 @@
     "dbfId": 59609,
     "name": "詹迪斯·巴罗夫",
     "rarity": "LEGENDARY",
-    "cost": 6,
+    "cost": 5,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [
@@ -1841,14 +1841,14 @@
     "dbfId": 61587,
     "name": "愚人套牌",
     "rarity": "LEGENDARY",
-    "cost": 4,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "DARKMOON_FAIRE"
   },
   {
     "dbfId": 61589,
-    "name": "暗月先知赛格",
+    "name": "暗月先知塞格",
     "rarity": "LEGENDARY",
     "cost": 6,
     "type": "MINION",
@@ -2119,7 +2119,7 @@
     "dbfId": 65682,
     "name": "灰贤鹦鹉",
     "rarity": "COMMON",
-    "cost": 8,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "STORMWIND"
@@ -2146,7 +2146,7 @@
     "dbfId": 66848,
     "name": "魔导师晨拥",
     "rarity": "LEGENDARY",
-    "cost": 8,
+    "cost": 7,
     "type": "HERO",
     "cardClass": "MAGE",
     "set": "ALTERAC_VALLEY"
@@ -2320,7 +2320,7 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69606,
@@ -2356,7 +2356,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69696,
@@ -2365,7 +2365,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69697,
@@ -2374,7 +2374,7 @@
     "cost": 6,
     "type": "MINION",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69698,
@@ -2591,5 +2591,194 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71229,
+    "name": "深呼吸",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71230,
+    "name": "监护者哈尔琳",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71290,
+    "name": "龙火护符",
+    "rarity": "COMMON",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71841,
+    "name": "盖亚，巨力机甲",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71996,
+    "name": "恶鞭海妖",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72024,
+    "name": "纳兹夏尔女士",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72649,
+    "name": "机械鲨鱼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72650,
+    "name": "海床传送口",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72651,
+    "name": "火山术",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72924,
+    "name": "法术卷积者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72925,
+    "name": "海沟勘测机",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72929,
+    "name": "艾萨拉的恩赐",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75555,
+    "name": "淹没的陨石",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75556,
+    "name": "变形术：水母",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76271,
+    "name": "卡雷苟斯",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76272,
+    "name": "炎爆术",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76273,
+    "name": "暴风雪",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 77016,
+    "name": "艾萨拉的清道夫",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77609,
+    "name": "指挥官西瓦拉",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 86235,
+    "name": "爆炸符文",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86533,
+    "name": "火焰狂人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
   }
 ]

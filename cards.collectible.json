@@ -838,7 +838,7 @@
   },
   {
     "dbfId": 2532,
-    "name": "雪地狗头人",
+    "name": "冰冷的雪地狗头人",
     "rarity": "COMMON",
     "cost": 4,
     "type": "MINION",
@@ -1524,7 +1524,7 @@
     "dbfId": 66848,
     "name": "魔导师晨拥",
     "rarity": "LEGENDARY",
-    "cost": 8,
+    "cost": 7,
     "type": "HERO",
     "cardClass": "MAGE",
     "set": "ALTERAC_VALLEY"
@@ -1540,7 +1540,7 @@
   },
   {
     "dbfId": 66876,
-    "name": "勇猛战将洛卡拉",
+    "name": "勇气战将洛卡拉",
     "rarity": "LEGENDARY",
     "cost": 7,
     "type": "HERO",
@@ -1549,9 +1549,9 @@
   },
   {
     "dbfId": 66939,
-    "name": "塑影匠师斯卡布斯",
+    "name": "迅影匠师斯卡布斯",
     "rarity": "LEGENDARY",
-    "cost": 7,
+    "cost": 8,
     "type": "HERO",
     "cardClass": "ROGUE",
     "set": "ALTERAC_VALLEY"
@@ -1729,7 +1729,7 @@
   },
   {
     "dbfId": 67761,
-    "name": "作弊的狗头人",
+    "name": "作弊的雪地狗头人",
     "rarity": "EPIC",
     "cost": 3,
     "type": "MINION",
@@ -1740,7 +1740,7 @@
     "dbfId": 67769,
     "name": "雪落守护者",
     "rarity": "COMMON",
-    "cost": 5,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "SHAMAN",
     "set": "ALTERAC_VALLEY"
@@ -2919,7 +2919,7 @@
     "dbfId": 62891,
     "name": "高效八爪机器人",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "THE_BARRENS"
@@ -3099,7 +3099,7 @@
     "dbfId": 63040,
     "name": "超凡之盟",
     "rarity": "EPIC",
-    "cost": 7,
+    "cost": 8,
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "THE_BARRENS"
@@ -5124,7 +5124,7 @@
     "dbfId": 56385,
     "name": "咒术洪流",
     "rarity": "COMMON",
-    "cost": 3,
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "BLACK_TEMPLE"
@@ -5151,7 +5151,7 @@
     "dbfId": 56389,
     "name": "唤醒",
     "rarity": "LEGENDARY",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "BLACK_TEMPLE"
@@ -5844,7 +5844,7 @@
     "dbfId": 56622,
     "name": "凯尔萨斯·逐日者",
     "rarity": "LEGENDARY",
-    "cost": 7,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "BLACK_TEMPLE"
@@ -6087,7 +6087,7 @@
     "dbfId": 56873,
     "name": "灵魂盛宴",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "set": "DEMON_HUNTER_INITIATE"
@@ -6591,7 +6591,7 @@
     "dbfId": 56649,
     "name": "被禁锢的安塔恩",
     "rarity": "RARE",
-    "cost": 6,
+    "cost": 5,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "BLACK_TEMPLE"
@@ -7845,7 +7845,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69697,
@@ -7854,7 +7854,7 @@
     "cost": 6,
     "type": "MINION",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69729,
@@ -7866,13 +7866,31 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76285,
+    "name": "锈水海盗",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76289,
+    "name": "活体根须",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69732,
     "name": "德莱尼图腾师",
     "rarity": "RARE",
     "cost": 4,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69707,
@@ -7890,6 +7908,15 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 76304,
+    "name": "怒袭",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
     "set": "CORE"
   },
   {
@@ -7908,7 +7935,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69711,
@@ -7917,7 +7944,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69685,
@@ -7926,7 +7953,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69698,
@@ -7944,6 +7971,15 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76282,
+    "name": "小鬼首领",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
     "set": "CORE"
   },
   {
@@ -7983,6 +8019,15 @@
     "set": "CORE"
   },
   {
+    "dbfId": 89699,
+    "name": "斩炎",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69506,
     "name": "盲眼监视者",
     "rarity": "RARE",
@@ -7996,6 +8041,15 @@
     "name": "战斗邪犬",
     "rarity": "COMMON",
     "cost": 1,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86547,
+    "name": "怒鳞纳迦",
+    "rarity": "EPIC",
+    "cost": 3,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "CORE"
@@ -8016,13 +8070,22 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69590,
     "name": "灵魂盛宴",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76308,
+    "name": "恶魔变形",
+    "rarity": "LEGENDARY",
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "set": "CORE"
@@ -8034,7 +8097,7 @@
     "cost": 5,
     "type": "WEAPON",
     "cardClass": "DEMONHUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69683,
@@ -8070,6 +8133,33 @@
     "cost": 3,
     "type": "WEAPON",
     "cardClass": "DEMONHUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76315,
+    "name": "亡灵药剂师",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86535,
+    "name": "龙人侦测者",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76283,
+    "name": "渊狱惩击者",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
     "set": "CORE"
   },
   {
@@ -8118,6 +8208,15 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76273,
+    "name": "暴风雪",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69501,
     "name": "火球术",
     "rarity": "COMMON",
@@ -8142,7 +8241,7 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69515,
@@ -8151,7 +8250,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69516,
@@ -8172,6 +8271,24 @@
     "set": "CORE"
   },
   {
+    "dbfId": 77554,
+    "name": "嗜血",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76293,
+    "name": "视界术",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69519,
     "name": "地狱烈焰",
     "rarity": "COMMON",
@@ -8185,6 +8302,15 @@
     "name": "恐惧地狱火",
     "rarity": "COMMON",
     "cost": 6,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 76281,
+    "name": "虚空行者",
+    "rarity": "COMMON",
+    "cost": 1,
     "type": "MINION",
     "cardClass": "WARLOCK",
     "set": "CORE"
@@ -8259,7 +8385,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69529,
@@ -8268,7 +8394,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69530,
@@ -8310,7 +8436,7 @@
     "dbfId": 69535,
     "name": "斩杀",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "set": "CORE"
@@ -8322,7 +8448,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69536,
@@ -8331,7 +8457,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69537,
@@ -8367,7 +8493,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69543,
@@ -8415,12 +8541,138 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76276,
+    "name": "北郡牧师",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 62349,
+    "name": "末日仪式",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 62463,
+    "name": "战争储备箱",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 62490,
+    "name": "诺达希尔德鲁伊",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 62498,
+    "name": "赤红教士",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 66259,
+    "name": "被奴役的邪能领主",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 66862,
+    "name": "正义追击",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 66863,
+    "name": "战歌侦察骑兵",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
     "dbfId": 69712,
     "name": "夺日者间谍",
     "rarity": "COMMON",
     "cost": 2,
     "type": "MINION",
     "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76300,
+    "name": "标记射击",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86540,
+    "name": "荆棘帮蟊贼",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76271,
+    "name": "卡雷苟斯",
+    "rarity": "LEGENDARY",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86536,
+    "name": "永恒巨龙姆诺兹多",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86544,
+    "name": "琥珀看守者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86545,
+    "name": "青铜龙探险者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
     "set": "CORE"
   },
   {
@@ -8448,7 +8700,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69652,
@@ -8460,13 +8712,22 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76316,
+    "name": "苦痛侍僧",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69653,
     "name": "银色侍从",
     "rarity": "COMMON",
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69654,
@@ -8502,7 +8763,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69657,
@@ -8518,6 +8779,15 @@
     "name": "荆棘谷猛虎",
     "rarity": "COMMON",
     "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76325,
+    "name": "暮光幼龙",
+    "rarity": "RARE",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "CORE"
@@ -8574,7 +8844,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69663,
@@ -8658,6 +8928,15 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76288,
+    "name": "愤怒",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69591,
     "name": "丛林之魂",
     "rarity": "COMMON",
@@ -8688,7 +8967,7 @@
     "dbfId": 69594,
     "name": "滋养",
     "rarity": "RARE",
-    "cost": 6,
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "CORE"
@@ -8718,7 +8997,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69669,
@@ -8745,7 +9024,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69672,
@@ -8754,7 +9033,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69673,
@@ -8763,7 +9042,7 @@
     "cost": 6,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69566,
@@ -8808,7 +9087,7 @@
     "cost": 8,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69625,
@@ -8853,7 +9132,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69628,
@@ -8862,7 +9141,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "SHAMAN",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69629,
@@ -8880,6 +9159,24 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76272,
+    "name": "炎爆术",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76324,
+    "name": "碧蓝幼龙",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
     "set": "CORE"
   },
   {
@@ -8907,7 +9204,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "MAGE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69553,
@@ -8970,7 +9267,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69611,
@@ -9015,7 +9312,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69556,
@@ -9081,6 +9378,15 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76270,
+    "name": "鱼人领军",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69675,
     "name": "鱼人招潮者",
     "rarity": "RARE",
@@ -9096,7 +9402,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "ROGUE",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69599,
@@ -9105,7 +9411,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69600,
@@ -9141,6 +9447,15 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76294,
+    "name": "火舌图腾",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
     "set": "CORE"
   },
   {
@@ -9180,6 +9495,15 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76322,
+    "name": "海巨人",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69644,
     "name": "严酷的监工",
     "rarity": "COMMON",
@@ -9194,6 +9518,15 @@
     "rarity": "RARE",
     "cost": 3,
     "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76302,
+    "name": "盾牌格挡",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
     "cardClass": "WARRIOR",
     "set": "CORE"
   },
@@ -9228,7 +9561,7 @@
     "dbfId": 69614,
     "name": "生而平等",
     "rarity": "RARE",
-    "cost": 3,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "CORE"
@@ -9249,7 +9582,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69991,
@@ -9258,7 +9591,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69713,
@@ -9276,7 +9609,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69704,
@@ -9294,6 +9627,15 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "NEUTRAL",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 86550,
+    "name": "苔藓恐魔",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
     "set": "CORE"
   },
   {
@@ -9303,6 +9645,42 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76301,
+    "name": "达利乌斯·克罗雷",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86539,
+    "name": "苔丝·格雷迈恩",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76320,
+    "name": "吸血蚊",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76296,
+    "name": "驯犬大师肖尔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
     "set": "CORE"
   },
   {
@@ -9324,13 +9702,22 @@
     "set": "CORE"
   },
   {
+    "dbfId": 86534,
+    "name": "圣光炸弹",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69715,
     "name": "齿轮大师",
     "rarity": "COMMON",
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69716,
@@ -9339,7 +9726,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69741,
@@ -9375,7 +9762,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69720,
@@ -9384,13 +9771,22 @@
     "cost": 12,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69721,
     "name": "冷酷的死灵法师",
     "rarity": "COMMON",
     "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76330,
+    "name": "深蓝刃鳞龙人",
+    "rarity": "COMMON",
+    "cost": 5,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "CORE"
@@ -9420,7 +9816,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69708,
@@ -9429,6 +9825,15 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "ROGUE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76299,
+    "name": "神秘女猎手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
     "set": "CORE"
   },
   {
@@ -9447,7 +9852,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69686,
@@ -9456,7 +9861,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69742,
@@ -9468,13 +9873,22 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76295,
+    "name": "大漩涡传送门",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69687,
     "name": "魔法乌鸦",
     "rarity": "COMMON",
     "cost": 1,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69701,
@@ -9483,6 +9897,15 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76314,
+    "name": "雷诺·杰克逊",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
     "set": "CORE"
   },
   {
@@ -9495,12 +9918,66 @@
     "set": "CORE"
   },
   {
+    "dbfId": 86548,
+    "name": "A3型机械金刚",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86541,
+    "name": "骑乘迅猛龙",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76311,
+    "name": "芬利·莫格顿爵士",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76312,
+    "name": "布莱恩·铜须",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76313,
+    "name": "伊莉斯·逐星",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69723,
     "name": "鱼人宝宝",
     "rarity": "COMMON",
     "cost": 0,
     "type": "MINION",
     "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86235,
+    "name": "爆炸符文",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
     "set": "CORE"
   },
   {
@@ -9519,7 +9996,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69726,
@@ -9528,6 +10005,42 @@
     "cost": 9,
     "type": "MINION",
     "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86543,
+    "name": "蜡烛弓",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76323,
+    "name": "硬壳甲虫",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76310,
+    "name": "蛇发女妖佐拉",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76291,
+    "name": "知识古树",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
     "set": "CORE"
   },
   {
@@ -9542,6 +10055,33 @@
   {
     "dbfId": 69677,
     "name": "血帆袭击者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76321,
+    "name": "狂野炎术师",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76317,
+    "name": "末日预言者",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76329,
+    "name": "精灵龙",
     "rarity": "COMMON",
     "cost": 2,
     "type": "MINION",
@@ -9567,6 +10107,24 @@
     "set": "CORE"
   },
   {
+    "dbfId": 76297,
+    "name": "动物伙伴",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76287,
+    "name": "范达尔·鹿盔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69688,
     "name": "野性之怒",
     "rarity": "COMMON",
@@ -9582,6 +10140,33 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "ROGUE",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 86538,
+    "name": "夜色镇图书管理员",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76303,
+    "name": "血蹄勇士",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86546,
+    "name": "光耀之主拉格纳罗斯",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PALADIN",
     "set": "CORE"
   },
   {
@@ -9591,7 +10176,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69706,
@@ -9609,7 +10194,7 @@
     "cost": 2,
     "type": "WEAPON",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69689,
@@ -9621,10 +10206,82 @@
     "set": "CORE"
   },
   {
+    "dbfId": 86537,
+    "name": "高阶祭司耶克里克",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76306,
+    "name": "圣光闪现",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86533,
+    "name": "火焰狂人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 87920,
+    "name": "卡格瓦，青蛙之神",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86542,
+    "name": "魔泉山猫",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
     "dbfId": 69680,
     "name": "腐肉食尸鬼",
     "rarity": "COMMON",
     "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "PLACEHOLDER_202204"
+  },
+  {
+    "dbfId": 76318,
+    "name": "欢快的同伴",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86551,
+    "name": "狐人恶棍",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86552,
+    "name": "受伤的托维尔人",
+    "rarity": "COMMON",
+    "cost": 2,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "CORE"
@@ -9636,6 +10293,24 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "MAGE",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76277,
+    "name": "光照元素",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86234,
+    "name": "大地之鳞",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
     "set": "CORE"
   },
   {
@@ -9670,6 +10345,42 @@
     "name": "巨齿刀叶",
     "rarity": "RARE",
     "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76327,
+    "name": "始生幼龙",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76319,
+    "name": "焦油爬行者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76275,
+    "name": "“太阳裂片”莱拉",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89354,
+    "name": "奔逃的魔刃豹",
+    "rarity": "EPIC",
+    "cost": 4,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "CORE"
@@ -10227,7 +10938,7 @@
     "dbfId": 785,
     "name": "斩杀",
     "rarity": "FREE",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "set": "LEGACY"
@@ -10692,13 +11403,13 @@
     "set": "CORE"
   },
   {
-    "dbfId": 62349,
+    "dbfId": 89144,
     "name": "末日仪式",
     "rarity": "RARE",
     "cost": 0,
     "type": "SPELL",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 62350,
@@ -10737,22 +11448,22 @@
     "set": "CORE"
   },
   {
-    "dbfId": 62463,
+    "dbfId": 89145,
     "name": "战争储备箱",
     "rarity": "RARE",
     "cost": 3,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
-    "dbfId": 62490,
+    "dbfId": 89146,
     "name": "诺达希尔德鲁伊",
     "rarity": "RARE",
     "cost": 4,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 62497,
@@ -10764,13 +11475,13 @@
     "set": "CORE"
   },
   {
-    "dbfId": 62498,
+    "dbfId": 89147,
     "name": "赤红教士",
     "rarity": "RARE",
     "cost": 1,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 62698,
@@ -10818,13 +11529,13 @@
     "set": "CORE"
   },
   {
-    "dbfId": 66259,
+    "dbfId": 89148,
     "name": "被奴役的邪能领主",
     "rarity": "COMMON",
     "cost": 7,
     "type": "MINION",
     "cardClass": "WARLOCK",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 66854,
@@ -10872,22 +11583,22 @@
     "set": "CORE"
   },
   {
-    "dbfId": 66862,
+    "dbfId": 89149,
     "name": "正义追击",
     "rarity": "EPIC",
     "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
-    "dbfId": 66863,
+    "dbfId": 89150,
     "name": "战歌侦察骑兵",
     "rarity": "COMMON",
     "cost": 4,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "CORE"
+    "set": "LEGACY"
   },
   {
     "dbfId": 66864,
@@ -11415,7 +12126,7 @@
     "dbfId": 52076,
     "name": "急速射击",
     "rarity": "COMMON",
-    "cost": 1,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "DALARAN"
@@ -11865,7 +12576,7 @@
     "dbfId": 53002,
     "name": "卡雷苟斯",
     "rarity": "LEGENDARY",
-    "cost": 10,
+    "cost": 9,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "DALARAN"
@@ -12405,7 +13116,7 @@
     "dbfId": 65682,
     "name": "灰贤鹦鹉",
     "rarity": "COMMON",
-    "cost": 8,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "STORMWIND"
@@ -12918,14 +13629,14 @@
     "dbfId": 61587,
     "name": "愚人套牌",
     "rarity": "LEGENDARY",
-    "cost": 4,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "MAGE",
     "set": "DARKMOON_FAIRE"
   },
   {
     "dbfId": 61589,
-    "name": "暗月先知赛格",
+    "name": "暗月先知塞格",
     "rarity": "LEGENDARY",
     "cost": 6,
     "type": "MINION",
@@ -13269,7 +13980,7 @@
     "dbfId": 61136,
     "name": "伊格诺斯",
     "rarity": "LEGENDARY",
-    "cost": 6,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "DARKMOON_FAIRE"
@@ -13395,7 +14106,7 @@
     "dbfId": 61154,
     "name": "暗影斗篷",
     "rarity": "EPIC",
-    "cost": 3,
+    "cost": 4,
     "type": "SPELL",
     "cardClass": "ROGUE",
     "set": "DARKMOON_FAIRE"
@@ -15744,7 +16455,7 @@
     "dbfId": 95,
     "name": "滋养",
     "rarity": "RARE",
-    "cost": 6,
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "EXPERT1"
@@ -17148,7 +17859,7 @@
     "dbfId": 614,
     "name": "巫师学徒",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "MAGE",
     "set": "EXPERT1"
@@ -17229,7 +17940,7 @@
     "dbfId": 756,
     "name": "生而平等",
     "rarity": "RARE",
-    "cost": 3,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "PALADIN",
     "set": "EXPERT1"
@@ -18165,7 +18876,7 @@
     "dbfId": 47211,
     "name": "苔丝·格雷迈恩",
     "rarity": "LEGENDARY",
-    "cost": 8,
+    "cost": 7,
     "type": "MINION",
     "cardClass": "ROGUE",
     "set": "GILNEAS"
@@ -19998,6 +20709,15 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 73740,
+    "name": "狂傲的洛卡拉",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 77250,
     "name": "海盗王加尔鲁什",
     "rarity": "FREE",
@@ -20027,6 +20747,24 @@
   {
     "dbfId": 79966,
     "name": "冬天爷爷麦格尼",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80190,
+    "name": "荒野战士加尔鲁什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83405,
+    "name": "沉船余生麦格尼",
     "rarity": "FREE",
     "cost": 0,
     "type": "HERO",
@@ -20214,6 +20952,42 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 80098,
+    "name": "青龙萨尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83407,
+    "name": "深海智者摩戈尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83411,
+    "name": "卡多雷瓦丝琪",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83832,
+    "name": "摩戈纳罗斯",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 930,
     "name": "瓦莉拉·萨古纳尔",
     "rarity": "FREE",
@@ -20333,6 +21107,33 @@
   {
     "dbfId": 79973,
     "name": "好好精灵瓦莉拉",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80183,
+    "name": "花园派对瓦莉拉",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84090,
+    "name": "半兽人迦罗娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83401,
+    "name": "水手玛维",
     "rarity": "FREE",
     "cost": 0,
     "type": "HERO",
@@ -20511,6 +21312,33 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 83395,
+    "name": "火车王里诺艾",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83402,
+    "name": "海军上将莉亚德琳",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83826,
+    "name": "芬利·莫格顿爵士",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 31,
     "name": "雷克萨",
     "rarity": "FREE",
@@ -20592,6 +21420,42 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 73772,
+    "name": "塔维什·雷矛",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 73773,
+    "name": "雇佣兵塔维什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 77030,
+    "name": "战利品赢家塔维什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 79930,
+    "name": "狙击手塔维什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 77247,
     "name": "罗宾汉雷克萨",
     "rarity": "FREE",
@@ -20612,6 +21476,33 @@
   {
     "dbfId": 79971,
     "name": "雪鳍雷克萨",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80100,
+    "name": "玄牛雷克萨",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80191,
+    "name": "巢穴之友雷克萨",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83409,
+    "name": "纳迦希尔瓦娜斯",
     "rarity": "FREE",
     "cost": 0,
     "type": "HERO",
@@ -20772,6 +21663,51 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 80095,
+    "name": "雪怒",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80187,
+    "name": "樱花烂漫露娜拉",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83398,
+    "name": "费林大使",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83406,
+    "name": "海树妖露娜拉",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83831,
+    "name": "古夫·鱼人图腾",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 893,
     "name": "古尔丹",
     "rarity": "FREE",
@@ -20907,6 +21843,42 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 80102,
+    "name": "魔古山古尔丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80189,
+    "name": "孵化员古尔蛋",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83404,
+    "name": "潜水员奈姆希",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84095,
+    "name": "宴会奈姆希",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 637,
     "name": "吉安娜·普罗德摩尔",
     "rarity": "FREE",
@@ -20919,6 +21891,15 @@
     "dbfId": 2829,
     "name": "麦迪文",
     "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83403,
+    "name": "导航员卡德加",
+    "rarity": "FREE",
     "cost": 0,
     "type": "HERO",
     "cardClass": "MAGE",
@@ -21087,6 +22068,51 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 80099,
+    "name": "朱鹤吉安娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80188,
+    "name": "节日盛装吉安娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 82519,
+    "name": "艾萨拉女王",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83830,
+    "name": "吉安娜·普罗德鱼尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84094,
+    "name": "永恒麦迪文",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 813,
     "name": "安度因·乌瑞恩",
     "rarity": "FREE",
@@ -21186,6 +22212,15 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 73741,
+    "name": "暗影触痕泽瑞拉",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 77251,
     "name": "白马王子安度因",
     "rarity": "FREE",
@@ -21206,6 +22241,33 @@
   {
     "dbfId": 79975,
     "name": "冰雪女士泰兰德",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80182,
+    "name": "小狮子安度因",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83408,
+    "name": "侍女泰兰德",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84096,
+    "name": "管家安度因",
     "rarity": "FREE",
     "cost": 0,
     "type": "HERO",
@@ -21294,6 +22356,15 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 73711,
+    "name": "复仇者库尔特鲁斯",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 77246,
     "name": "灰烬王庭伊利丹",
     "rarity": "FREE",
@@ -21314,6 +22385,51 @@
   {
     "dbfId": 79972,
     "name": "淘气包伊利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80101,
+    "name": "煞魔伊利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80185,
+    "name": "夜刃豹奴伊利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83410,
+    "name": "夜之子阿兰娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83829,
+    "name": "鱼利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84097,
+    "name": "邪蹄伊利丹",
     "rarity": "FREE",
     "cost": 0,
     "type": "HERO",
@@ -23124,7 +24240,7 @@
     "dbfId": 2911,
     "name": "A3型机械金刚",
     "rarity": "COMMON",
-    "cost": 4,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "LOE"
@@ -26028,6 +27144,321 @@
     "set": "OG"
   },
   {
+    "dbfId": 71226,
+    "name": "奥妮克希亚守卫",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71227,
+    "name": "全需勇士",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71228,
+    "name": "雏龙狂魔",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71333,
+    "name": "团本首领奥妮克希亚",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71684,
+    "name": "卡扎库杉",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71229,
+    "name": "深呼吸",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71230,
+    "name": "监护者哈尔琳",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71231,
+    "name": "狂怒之嚎",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71232,
+    "name": "宠物收集者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71233,
+    "name": "灭龙射击",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71234,
+    "name": "别站在火里！",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71235,
+    "name": "灵魂坐骑",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71236,
+    "name": "提神冰冷",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71237,
+    "name": "敏锐反应",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71239,
+    "name": "憎恨之翼（等级1）",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71240,
+    "name": "拉希奥的角",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71241,
+    "name": "暴烈枭兽",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71242,
+    "name": "团队协调员",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71244,
+    "name": "暴风城复仇者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71247,
+    "name": "奥妮克希亚鳞片",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71248,
+    "name": "武装教士",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71249,
+    "name": "猛力进攻",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71250,
+    "name": "奥妮克希亚幼龙",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71251,
+    "name": "铁肩冲撞",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71252,
+    "name": "光腹虚空幼龙",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71253,
+    "name": "勇气之戒",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71254,
+    "name": "米达，纯净圣光",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71290,
+    "name": "龙火护符",
+    "rarity": "COMMON",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71294,
+    "name": "军情七处走私贩",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71293,
+    "name": "烟幕",
+    "rarity": "RARE",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71289,
+    "name": "奈法利安的牙",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 67758,
+    "name": "小鬼侵染",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71292,
+    "name": "痛苦诅咒",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71295,
+    "name": "死亡之翼的子嗣",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 68262,
+    "name": "爪刃哨兵",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 1754,
     "name": "精英牛头人酋长",
     "rarity": "LEGENDARY",
@@ -26133,7 +27564,7 @@
     "dbfId": 59587,
     "name": "高阶修士奥露拉",
     "rarity": "LEGENDARY",
-    "cost": 5,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [
@@ -26704,7 +28135,7 @@
     "dbfId": 59609,
     "name": "詹迪斯·巴罗夫",
     "rarity": "LEGENDARY",
-    "cost": 6,
+    "cost": 5,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [
@@ -26748,7 +28179,7 @@
     "dbfId": 60151,
     "name": "残片震爆秘术师",
     "rarity": "RARE",
-    "cost": 4,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "set": "SCHOLOMANCE"
@@ -26828,7 +28259,7 @@
     "dbfId": 60278,
     "name": "博学者普克尔特",
     "rarity": "LEGENDARY",
-    "cost": 5,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "SCHOLOMANCE"
@@ -27132,7 +28563,7 @@
     "dbfId": 59539,
     "name": "动物保镖",
     "rarity": "EPIC",
-    "cost": 8,
+    "cost": 7,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [
@@ -27412,13 +28843,13 @@
     "set": "SCHOLOMANCE"
   },
   {
-    "dbfId": 75913,
-    "name": "暗影箭",
-    "rarity": "FREE",
-    "cost": 3,
-    "type": "SPELL",
-    "cardClass": "WARLOCK",
-    "set": "VANILLA"
+    "dbfId": 92384,
+    "name": "遥控傀儡",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "STORMWIND"
   },
   {
     "dbfId": 63673,
@@ -27433,7 +28864,7 @@
     "dbfId": 63677,
     "name": "符文秘银杖",
     "rarity": "RARE",
-    "cost": 4,
+    "cost": 5,
     "type": "WEAPON",
     "cardClass": "WARLOCK",
     "set": "STORMWIND"
@@ -27451,7 +28882,7 @@
     "dbfId": 63732,
     "name": "暗影布缝针",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "WEAPON",
     "cardClass": "PRIEST",
     "set": "STORMWIND"
@@ -27811,7 +29242,7 @@
     "dbfId": 64713,
     "name": "熊猫人进口商",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "STORMWIND"
@@ -28634,6 +30065,321 @@
     "type": "MINION",
     "cardClass": "HUNTER",
     "set": "STORMWIND"
+  },
+  {
+    "dbfId": 75558,
+    "name": "潮汐之灵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76117,
+    "name": "月光射线",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75560,
+    "name": "自然使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75586,
+    "name": "迷潮挖掘者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75589,
+    "name": "小丑鱼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75590,
+    "name": "耐普图隆的指令",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76224,
+    "name": "上古海怪杀手",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76225,
+    "name": "螺壳射击",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76258,
+    "name": "光鳐",
+    "rarity": "COMMON",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76259,
+    "name": "碎冰蹒跚者",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76261,
+    "name": "墨晕伏击者",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76583,
+    "name": "圣光使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73427,
+    "name": "纳迦侍从",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76223,
+    "name": "K9-0型机械狗",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74988,
+    "name": "缴械元素",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75070,
+    "name": "损毁神像",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75072,
+    "name": "化石狂热者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75552,
+    "name": "混乱使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75555,
+    "name": "淹没的陨石",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75556,
+    "name": "变形术：水母",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72024,
+    "name": "纳兹夏尔女士",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75579,
+    "name": "毒鳍龙",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75580,
+    "name": "厄祖玛特",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75583,
+    "name": "猎潮者耐普图隆",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71646,
+    "name": "泡泡元素",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75631,
+    "name": "火成熔岩吞食者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75633,
+    "name": "巨型剧斗",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75635,
+    "name": "潮汐亡魂",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73445,
+    "name": "暗影使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75637,
+    "name": "献祭",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75639,
+    "name": "指挥官乌尔索克",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 85810,
+    "name": "盘牙蟠蟒",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80120,
+    "name": "淹没",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80121,
+    "name": "头等大奖",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80117,
+    "name": "战争前线",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
   },
   {
     "dbfId": 49049,
@@ -29849,6 +31595,1221 @@
     "type": "MINION",
     "cardClass": "HUNTER",
     "set": "TROLL"
+  },
+  {
+    "dbfId": 71688,
+    "name": "海军水雷",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71690,
+    "name": "刺豚拳手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71694,
+    "name": "多重打击",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71695,
+    "name": "潜水跳板船员",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71729,
+    "name": "潜水泥鳞鱼人",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71701,
+    "name": "巫婆纳迦",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71705,
+    "name": "野蛮的女巫",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71709,
+    "name": "倒刺捕网",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71712,
+    "name": "可拉克",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71841,
+    "name": "盖亚，巨力机甲",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71984,
+    "name": "海兽号",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72007,
+    "name": "剑圣奥卡尼",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72021,
+    "name": "鳄鱼人掠夺者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72254,
+    "name": "艾萨拉的拾荒者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72598,
+    "name": "学校教师",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72648,
+    "name": "虹彩闪鳞纳迦",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72649,
+    "name": "机械鲨鱼",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72650,
+    "name": "海床传送口",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72651,
+    "name": "火山术",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72657,
+    "name": "艾萨拉的背叛者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72984,
+    "name": "捕掠",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73428,
+    "name": "泡泡机器人",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73431,
+    "name": "闪光翻车鱼",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73434,
+    "name": "花园惠景",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73792,
+    "name": "蛇行死鳞纳迦",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73799,
+    "name": "盔中寄居蟹",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74907,
+    "name": "费林大使",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73906,
+    "name": "深海融合怪",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74755,
+    "name": "鱼叉炮",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74881,
+    "name": "双弓积骇纳迦",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74884,
+    "name": "螺号召唤",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74886,
+    "name": "拉伊·纳兹亚",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 78113,
+    "name": "克托里·光刃",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80112,
+    "name": "永存石中",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76250,
+    "name": "雷达探测",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77018,
+    "name": "海床救生员",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77208,
+    "name": "携刃信使",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77210,
+    "name": "剑鱼",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77609,
+    "name": "指挥官西瓦拉",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72481,
+    "name": "湍流旋涡",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72482,
+    "name": "金光闪耀",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72483,
+    "name": "深海低语",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72484,
+    "name": "侍女",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72485,
+    "name": "女王护卫",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72487,
+    "name": "毒蛇假发",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72488,
+    "name": "黑水巨鳗",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73721,
+    "name": "游荡贤者",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73723,
+    "name": "赛丝诺女士",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73726,
+    "name": "渊狱魔犬希拉格",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71922,
+    "name": "无底海渊",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71921,
+    "name": "库斯卡指挥官",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71919,
+    "name": "刃鲨",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71924,
+    "name": "虚鳃鱼人",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71996,
+    "name": "恶鞭海妖",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72415,
+    "name": "怒脊附魔师",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72416,
+    "name": "鱼群聚集",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72417,
+    "name": "械钳虾",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72418,
+    "name": "食人鱼偷猎者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72423,
+    "name": "艾萨拉之辉",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72508,
+    "name": "间歇热泉",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72509,
+    "name": "食人鱼集群",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72553,
+    "name": "暴食巨鳗格拉格",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72586,
+    "name": "堡礁行者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72923,
+    "name": "艾萨拉女王",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72925,
+    "name": "海沟勘测机",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72924,
+    "name": "法术卷积者",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72926,
+    "name": "艾萨拉的观月仪",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72931,
+    "name": "母舰",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72932,
+    "name": "海底侦察兵",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72938,
+    "name": "潜水俯冲鹈鹕",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72973,
+    "name": "珊瑚培育师",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73068,
+    "name": "伊妮·积雷",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73462,
+    "name": "划水好友",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73464,
+    "name": "海草卷击",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73465,
+    "name": "妙手园丁",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73466,
+    "name": "底层掠食鱼",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73774,
+    "name": "水栖形态",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73471,
+    "name": "奇迹生长",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73712,
+    "name": "嗜睡的藻农",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73713,
+    "name": "异端纳迦海德拉",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74672,
+    "name": "海沟追猎者",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74894,
+    "name": "奈利，超巨蛇颈龙",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80118,
+    "name": "体型互换",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76926,
+    "name": "血腥邪鳍鱼人",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77209,
+    "name": "艾萨拉的卷轴",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77374,
+    "name": "艾萨拉的祭仪",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77016,
+    "name": "艾萨拉的清道夫",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71917,
+    "name": "暗水记录员",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71940,
+    "name": "重钳执行者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71944,
+    "name": "凶恶的滑矛纳迦",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71945,
+    "name": "女祭司瓦丽丝琪",
+    "rarity": "LEGENDARY",
+    "cost": 0,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71949,
+    "name": "纳迦巨人",
+    "rarity": "EPIC",
+    "cost": 20,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71781,
+    "name": "海中向导芬利爵士",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72105,
+    "name": "拖网海象人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72109,
+    "name": "挖掘专家",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72111,
+    "name": "艾萨拉的舰船",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72113,
+    "name": "艾萨拉的三叉戟",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72117,
+    "name": "骸骨战刃",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72119,
+    "name": "垂钓时光",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72120,
+    "name": "黑鳞蛮兵",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72212,
+    "name": "艾萨拉的哨兵",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72314,
+    "name": "驻锚图腾",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72316,
+    "name": "生物荧光",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72318,
+    "name": "深渊波流",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72320,
+    "name": "岩石海底",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72333,
+    "name": "掩息海星",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72336,
+    "name": "艾萨拉的花园",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72338,
+    "name": "安保自动机",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72340,
+    "name": "紧急机动",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72473,
+    "name": "血染大海",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72480,
+    "name": "镣铐水鬼",
+    "rarity": "EPIC",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72495,
+    "name": "海盗将领钩牙",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72504,
+    "name": "自私的扇贝",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72533,
+    "name": "迅鳞欺诈者",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72536,
+    "name": "可拉巴托亚",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72583,
+    "name": "宝藏守卫",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72587,
+    "name": "火焰熔铸",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72588,
+    "name": "深海来客",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72590,
+    "name": "保卫城市",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72592,
+    "name": "黑曜石铸匠",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72594,
+    "name": "艾什凡女勋爵",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72632,
+    "name": "辛艾萨莉之火",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72896,
+    "name": "艾萨拉的刃豹",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72897,
+    "name": "海胆尖刺",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72928,
+    "name": "纳迦的鱼群",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72929,
+    "name": "艾萨拉的恩赐",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72935,
+    "name": "海卓拉顿",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73424,
+    "name": "神圣寿司卷",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73436,
+    "name": "希拉柯丝教徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73442,
+    "name": "拖入深渊",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73443,
+    "name": "鱼饵桶",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73446,
+    "name": "扎库尔",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74652,
+    "name": "并鳍奇兵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74741,
+    "name": "老巨鳍",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74890,
+    "name": "鱼排斗士",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "set": "THE_SUNKEN_CITY"
   },
   {
     "dbfId": 397,
@@ -31409,7 +34370,7 @@
   },
   {
     "dbfId": 41247,
-    "name": "凶恶的雏龙",
+    "name": "凶恶的翼龙",
     "rarity": "RARE",
     "cost": 3,
     "type": "MINION",

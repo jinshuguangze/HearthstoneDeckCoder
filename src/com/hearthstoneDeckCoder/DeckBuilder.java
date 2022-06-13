@@ -135,7 +135,7 @@ public class DeckBuilder {
 			System.out.println("# 模式：狂野模式");
 		} else if (cardsMode == 2) {
 			System.out.println("# 模式：标准模式");
-			System.out.println("# 狮鹫年");
+			System.out.println("# 多头蛇年");
 		} else {
 			System.out.println("# 模式：经典模式");
 		}

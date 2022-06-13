@@ -138,7 +138,7 @@
     "dbfId": 785,
     "name": "斩杀",
     "rarity": "FREE",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "set": "LEGACY"
@@ -1906,7 +1906,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "WARRIOR",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 63117,
@@ -2149,11 +2149,11 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 66876,
-    "name": "勇猛战将洛卡拉",
+    "name": "勇气战将洛卡拉",
     "rarity": "LEGENDARY",
     "cost": 7,
     "type": "HERO",
@@ -2308,7 +2308,7 @@
     "dbfId": 69535,
     "name": "斩杀",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 1,
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "set": "CORE"
@@ -2320,7 +2320,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "WARRIOR",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69556,
@@ -2566,6 +2566,51 @@
     "set": "ALTERAC_VALLEY"
   },
   {
+    "dbfId": 71249,
+    "name": "猛力进攻",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71250,
+    "name": "奥妮克希亚幼龙",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71251,
+    "name": "铁肩冲撞",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 72113,
+    "name": "艾萨拉的三叉戟",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72120,
+    "name": "黑鳞蛮兵",
+    "rarity": "RARE",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 72460,
     "name": "冰血要塞",
     "rarity": "RARE",
@@ -2575,6 +2620,60 @@
     "set": "ALTERAC_VALLEY"
   },
   {
+    "dbfId": 72587,
+    "name": "火焰熔铸",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72588,
+    "name": "深海来客",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72590,
+    "name": "保卫城市",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72592,
+    "name": "黑曜石铸匠",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72594,
+    "name": "艾什凡女勋爵",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72632,
+    "name": "辛艾萨莉之火",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 73459,
     "name": "执斧狂战士",
     "rarity": "COMMON",
@@ -2582,5 +2681,113 @@
     "type": "MINION",
     "cardClass": "WARRIOR",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 74672,
+    "name": "海沟追猎者",
+    "rarity": "EPIC",
+    "cost": 9,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74894,
+    "name": "奈利，超巨蛇颈龙",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75631,
+    "name": "火成熔岩吞食者",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75633,
+    "name": "巨型剧斗",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75635,
+    "name": "潮汐亡魂",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76301,
+    "name": "达利乌斯·克罗雷",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76302,
+    "name": "盾牌格挡",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76303,
+    "name": "血蹄勇士",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76304,
+    "name": "怒袭",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89145,
+    "name": "战争储备箱",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 89150,
+    "name": "战歌侦察骑兵",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "LEGACY"
+  },
+  {
+    "dbfId": 92384,
+    "name": "遥控傀儡",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "set": "STORMWIND"
   }
 ]

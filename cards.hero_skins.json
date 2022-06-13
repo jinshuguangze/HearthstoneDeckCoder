@@ -927,6 +927,33 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 73711,
+    "name": "复仇者库尔特鲁斯",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 73740,
+    "name": "狂傲的洛卡拉",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 73741,
+    "name": "暗影触痕泽瑞拉",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 73742,
     "name": "大厨斯卡布斯",
     "rarity": "FREE",
@@ -1035,12 +1062,39 @@
     "set": "HERO_SKINS"
   },
   {
+    "dbfId": 73772,
+    "name": "塔维什·雷矛",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 73773,
+    "name": "雇佣兵塔维什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
     "dbfId": 74586,
     "name": "拉格纳罗斯",
     "rarity": "FREE",
     "cost": 0,
     "type": "HERO",
     "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 77030,
+    "name": "战利品赢家塔维什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
     "set": "HERO_SKINS"
   },
   {
@@ -1230,6 +1284,15 @@
     "cost": 0,
     "type": "HERO",
     "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 79930,
+    "name": "狙击手塔维什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
     "set": "HERO_SKINS"
   },
   {
@@ -1428,6 +1491,348 @@
     "cost": 0,
     "type": "HERO",
     "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80095,
+    "name": "雪怒",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80098,
+    "name": "青龙萨尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80099,
+    "name": "朱鹤吉安娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80100,
+    "name": "玄牛雷克萨",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80101,
+    "name": "煞魔伊利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80102,
+    "name": "魔古山古尔丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80182,
+    "name": "小狮子安度因",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80183,
+    "name": "花园派对瓦莉拉",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80185,
+    "name": "夜刃豹奴伊利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80187,
+    "name": "樱花烂漫露娜拉",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80188,
+    "name": "节日盛装吉安娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80189,
+    "name": "孵化员古尔蛋",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80190,
+    "name": "荒野战士加尔鲁什",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 80191,
+    "name": "巢穴之友雷克萨",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 82519,
+    "name": "艾萨拉女王",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83395,
+    "name": "火车王里诺艾",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83398,
+    "name": "费林大使",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83401,
+    "name": "水手玛维",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83402,
+    "name": "海军上将莉亚德琳",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83403,
+    "name": "导航员卡德加",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83404,
+    "name": "潜水员奈姆希",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83405,
+    "name": "沉船余生麦格尼",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83406,
+    "name": "海树妖露娜拉",
+    "rarity": "EPIC",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83407,
+    "name": "深海智者摩戈尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83408,
+    "name": "侍女泰兰德",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83409,
+    "name": "纳迦希尔瓦娜斯",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "HUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83410,
+    "name": "夜之子阿兰娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83411,
+    "name": "卡多雷瓦丝琪",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83826,
+    "name": "芬利·莫格顿爵士",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PALADIN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83829,
+    "name": "鱼利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83830,
+    "name": "吉安娜·普罗德鱼尔",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83831,
+    "name": "古夫·鱼人图腾",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DRUID",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 83832,
+    "name": "摩戈纳罗斯",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84090,
+    "name": "半兽人迦罗娜",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "ROGUE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84094,
+    "name": "永恒麦迪文",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "MAGE",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84095,
+    "name": "宴会奈姆希",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "WARLOCK",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84096,
+    "name": "管家安度因",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "set": "HERO_SKINS"
+  },
+  {
+    "dbfId": 84097,
+    "name": "邪蹄伊利丹",
+    "rarity": "FREE",
+    "cost": 0,
+    "type": "HERO",
+    "cardClass": "DEMONHUNTER",
     "set": "HERO_SKINS"
   }
 ]

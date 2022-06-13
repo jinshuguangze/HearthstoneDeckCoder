@@ -1233,7 +1233,7 @@
     "dbfId": 52076,
     "name": "急速射击",
     "rarity": "COMMON",
-    "cost": 1,
+    "cost": 2,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "DALARAN"
@@ -1699,7 +1699,7 @@
     "dbfId": 59539,
     "name": "动物保镖",
     "rarity": "EPIC",
-    "cost": 8,
+    "cost": 7,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [
@@ -2284,7 +2284,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69600,
@@ -2347,7 +2347,7 @@
     "cost": 1,
     "type": "SPELL",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69691,
@@ -2365,7 +2365,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69693,
@@ -2383,7 +2383,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69695,
@@ -2392,7 +2392,7 @@
     "cost": 2,
     "type": "WEAPON",
     "cardClass": "HUNTER",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69803,
@@ -2575,6 +2575,33 @@
     "set": "ALTERAC_VALLEY"
   },
   {
+    "dbfId": 71231,
+    "name": "狂怒之嚎",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71232,
+    "name": "宠物收集者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71233,
+    "name": "灭龙射击",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
     "dbfId": 71321,
     "name": "丹巴达尔碉堡",
     "rarity": "RARE",
@@ -2582,5 +2609,176 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71709,
+    "name": "倒刺捕网",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72340,
+    "name": "紧急机动",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72896,
+    "name": "艾萨拉的刃豹",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72897,
+    "name": "海胆尖刺",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72928,
+    "name": "纳迦的鱼群",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72935,
+    "name": "海卓拉顿",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74755,
+    "name": "鱼叉炮",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74881,
+    "name": "双弓积骇纳迦",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74884,
+    "name": "螺号召唤",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74886,
+    "name": "拉伊·纳兹亚",
+    "rarity": "LEGENDARY",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76223,
+    "name": "K9-0型机械狗",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76224,
+    "name": "上古海怪杀手",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76225,
+    "name": "螺壳射击",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76296,
+    "name": "驯犬大师肖尔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76297,
+    "name": "动物伙伴",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76299,
+    "name": "神秘女猎手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76300,
+    "name": "标记射击",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86542,
+    "name": "魔泉山猫",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86543,
+    "name": "蜡烛弓",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "set": "CORE"
   }
 ]

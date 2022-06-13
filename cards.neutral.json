@@ -2395,7 +2395,7 @@
   },
   {
     "dbfId": 2532,
-    "name": "雪地狗头人",
+    "name": "冰冷的雪地狗头人",
     "rarity": "COMMON",
     "cost": 4,
     "type": "MINION",
@@ -2658,7 +2658,7 @@
     "dbfId": 2911,
     "name": "A3型机械金刚",
     "rarity": "COMMON",
-    "cost": 4,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "LOE"
@@ -3871,7 +3871,7 @@
   },
   {
     "dbfId": 41247,
-    "name": "凶恶的雏龙",
+    "name": "凶恶的翼龙",
     "rarity": "RARE",
     "cost": 3,
     "type": "MINION",
@@ -7608,7 +7608,7 @@
     "dbfId": 56622,
     "name": "凯尔萨斯·逐日者",
     "rarity": "LEGENDARY",
-    "cost": 7,
+    "cost": 6,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "BLACK_TEMPLE"
@@ -8112,7 +8112,7 @@
     "dbfId": 60278,
     "name": "博学者普克尔特",
     "rarity": "LEGENDARY",
-    "cost": 5,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "SCHOLOMANCE"
@@ -8967,7 +8967,7 @@
     "dbfId": 64713,
     "name": "熊猫人进口商",
     "rarity": "COMMON",
-    "cost": 2,
+    "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "STORMWIND"
@@ -9771,7 +9771,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69537,
@@ -9843,7 +9843,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69557,
@@ -9870,7 +9870,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69648,
@@ -9879,7 +9879,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69649,
@@ -9906,7 +9906,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69652,
@@ -9924,7 +9924,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69654,
@@ -9951,7 +9951,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69657,
@@ -10086,7 +10086,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69672,
@@ -10095,7 +10095,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69673,
@@ -10104,7 +10104,7 @@
     "cost": 6,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69674,
@@ -10167,7 +10167,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69710,
@@ -10176,7 +10176,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69711,
@@ -10185,7 +10185,7 @@
     "cost": 2,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69712,
@@ -10212,7 +10212,7 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69715,
@@ -10221,7 +10221,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69716,
@@ -10230,7 +10230,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69717,
@@ -10257,7 +10257,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69720,
@@ -10266,7 +10266,7 @@
     "cost": 12,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69721,
@@ -10284,7 +10284,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69723,
@@ -10311,7 +10311,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "NEUTRAL",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69726,
@@ -11538,6 +11538,204 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 71226,
+    "name": "奥妮克希亚守卫",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71227,
+    "name": "全需勇士",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71228,
+    "name": "雏龙狂魔",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71333,
+    "name": "团本首领奥妮克希亚",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71646,
+    "name": "泡泡元素",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71684,
+    "name": "卡扎库杉",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71688,
+    "name": "海军水雷",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71690,
+    "name": "刺豚拳手",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71695,
+    "name": "潜水跳板船员",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71701,
+    "name": "巫婆纳迦",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71705,
+    "name": "野蛮的女巫",
+    "rarity": "COMMON",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71729,
+    "name": "潜水泥鳞鱼人",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71781,
+    "name": "海中向导芬利爵士",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71917,
+    "name": "暗水记录员",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71940,
+    "name": "重钳执行者",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71944,
+    "name": "凶恶的滑矛纳迦",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 71949,
+    "name": "纳迦巨人",
+    "rarity": "EPIC",
+    "cost": 20,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72007,
+    "name": "剑圣奥卡尼",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72021,
+    "name": "鳄鱼人掠夺者",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72105,
+    "name": "拖网海象人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72109,
+    "name": "挖掘专家",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72212,
+    "name": "艾萨拉的哨兵",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 72248,
     "name": "翡翠天爪枭",
     "rarity": "COMMON",
@@ -11556,6 +11754,384 @@
     "set": "CORE"
   },
   {
+    "dbfId": 72333,
+    "name": "掩息海星",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72338,
+    "name": "安保自动机",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72417,
+    "name": "械钳虾",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72504,
+    "name": "自私的扇贝",
+    "rarity": "COMMON",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72509,
+    "name": "食人鱼集群",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72583,
+    "name": "宝藏守卫",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72586,
+    "name": "堡礁行者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72598,
+    "name": "学校教师",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72648,
+    "name": "虹彩闪鳞纳迦",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72923,
+    "name": "艾萨拉女王",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72931,
+    "name": "母舰",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72932,
+    "name": "海底侦察兵",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72938,
+    "name": "潜水俯冲鹈鹕",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73068,
+    "name": "伊妮·积雷",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73792,
+    "name": "蛇行死鳞纳迦",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73799,
+    "name": "盔中寄居蟹",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73906,
+    "name": "深海融合怪",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74652,
+    "name": "并鳍奇兵",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 74907,
+    "name": "费林大使",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75579,
+    "name": "毒鳍龙",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75580,
+    "name": "厄祖玛特",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75583,
+    "name": "猎潮者耐普图隆",
+    "rarity": "LEGENDARY",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76270,
+    "name": "鱼人领军",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76310,
+    "name": "蛇发女妖佐拉",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76311,
+    "name": "芬利·莫格顿爵士",
+    "rarity": "LEGENDARY",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76312,
+    "name": "布莱恩·铜须",
+    "rarity": "LEGENDARY",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76313,
+    "name": "伊莉斯·逐星",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76314,
+    "name": "雷诺·杰克逊",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76315,
+    "name": "亡灵药剂师",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76316,
+    "name": "苦痛侍僧",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76317,
+    "name": "末日预言者",
+    "rarity": "EPIC",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76318,
+    "name": "欢快的同伴",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76319,
+    "name": "焦油爬行者",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76320,
+    "name": "吸血蚊",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76321,
+    "name": "狂野炎术师",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76322,
+    "name": "海巨人",
+    "rarity": "EPIC",
+    "cost": 10,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76323,
+    "name": "硬壳甲虫",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76324,
+    "name": "碧蓝幼龙",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76325,
+    "name": "暮光幼龙",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76327,
+    "name": "始生幼龙",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76329,
+    "name": "精灵龙",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76330,
+    "name": "深蓝刃鳞龙人",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
     "dbfId": 79979,
     "name": "反射工程师",
     "rarity": "COMMON",
@@ -11563,5 +12139,59 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 85810,
+    "name": "盘牙蟠蟒",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 86548,
+    "name": "A3型机械金刚",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86550,
+    "name": "苔藓恐魔",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86551,
+    "name": "狐人恶棍",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86552,
+    "name": "受伤的托维尔人",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89354,
+    "name": "奔逃的魔刃豹",
+    "rarity": "EPIC",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "set": "CORE"
   }
 ]

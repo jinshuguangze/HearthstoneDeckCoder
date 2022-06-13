@@ -1725,7 +1725,7 @@
     "dbfId": 59587,
     "name": "高阶修士奥露拉",
     "rarity": "LEGENDARY",
-    "cost": 5,
+    "cost": 4,
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [
@@ -1969,7 +1969,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 62871,
@@ -2092,7 +2092,7 @@
     "dbfId": 63732,
     "name": "暗影布缝针",
     "rarity": "RARE",
-    "cost": 2,
+    "cost": 1,
     "type": "WEAPON",
     "cardClass": "PRIEST",
     "set": "STORMWIND"
@@ -2401,7 +2401,7 @@
     "cost": 8,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69618,
@@ -2410,7 +2410,7 @@
     "cost": 3,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69619,
@@ -2419,7 +2419,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69707,
@@ -2518,7 +2518,7 @@
     "cost": 2,
     "type": "SPELL",
     "cardClass": "PRIEST",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 70020,
@@ -2638,6 +2638,105 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 71240,
+    "name": "拉希奥的角",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71252,
+    "name": "光腹虚空幼龙",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71254,
+    "name": "米达，纯净圣光",
+    "rarity": "LEGENDARY",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71945,
+    "name": "女祭司瓦丽丝琪",
+    "rarity": "LEGENDARY",
+    "cost": 0,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72481,
+    "name": "湍流旋涡",
+    "rarity": "EPIC",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72482,
+    "name": "金光闪耀",
+    "rarity": "COMMON",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72483,
+    "name": "深海低语",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72484,
+    "name": "侍女",
+    "rarity": "RARE",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72485,
+    "name": "女王护卫",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72487,
+    "name": "毒蛇假发",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72488,
+    "name": "黑水巨鳗",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 72563,
     "name": "雷矛救援站",
     "rarity": "RARE",
@@ -2645,5 +2744,113 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 74988,
+    "name": "缴械元素",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76275,
+    "name": "“太阳裂片”莱拉",
+    "rarity": "LEGENDARY",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76276,
+    "name": "北郡牧师",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76277,
+    "name": "光照元素",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76583,
+    "name": "圣光使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 77374,
+    "name": "艾萨拉的祭仪",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80118,
+    "name": "体型互换",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 80120,
+    "name": "淹没",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 86534,
+    "name": "圣光炸弹",
+    "rarity": "EPIC",
+    "cost": 6,
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86535,
+    "name": "龙人侦测者",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86536,
+    "name": "永恒巨龙姆诺兹多",
+    "rarity": "LEGENDARY",
+    "cost": 8,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89147,
+    "name": "赤红教士",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "set": "LEGACY"
   }
 ]

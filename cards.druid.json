@@ -30,7 +30,7 @@
     "dbfId": 95,
     "name": "滋养",
     "rarity": "RARE",
-    "cost": 6,
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "EXPERT1"
@@ -1677,7 +1677,7 @@
     "dbfId": 59539,
     "name": "动物保镖",
     "rarity": "EPIC",
-    "cost": 8,
+    "cost": 7,
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [
@@ -1897,7 +1897,7 @@
     "cost": 4,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 63021,
@@ -1957,7 +1957,7 @@
     "dbfId": 63040,
     "name": "超凡之盟",
     "rarity": "EPIC",
-    "cost": 7,
+    "cost": 8,
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "THE_BARRENS"
@@ -2299,7 +2299,7 @@
     "dbfId": 69594,
     "name": "滋养",
     "rarity": "RARE",
-    "cost": 6,
+    "cost": 5,
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "CORE"
@@ -2320,7 +2320,7 @@
     "cost": 7,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69597,
@@ -2347,7 +2347,7 @@
     "cost": 3,
     "type": "SPELL",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69686,
@@ -2356,7 +2356,7 @@
     "cost": 5,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69687,
@@ -2365,7 +2365,7 @@
     "cost": 1,
     "type": "MINION",
     "cardClass": "DRUID",
-    "set": "CORE"
+    "set": "PLACEHOLDER_202204"
   },
   {
     "dbfId": 69688,
@@ -2575,6 +2575,96 @@
     "set": "VANILLA"
   },
   {
+    "dbfId": 71241,
+    "name": "暴烈枭兽",
+    "rarity": "RARE",
+    "cost": 5,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71242,
+    "name": "团队协调员",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71247,
+    "name": "奥妮克希亚鳞片",
+    "rarity": "COMMON",
+    "cost": 7,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 71712,
+    "name": "可拉克",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 72336,
+    "name": "艾萨拉的花园",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73462,
+    "name": "划水好友",
+    "rarity": "COMMON",
+    "cost": 5,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73464,
+    "name": "海草卷击",
+    "rarity": "EPIC",
+    "cost": 3,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73465,
+    "name": "妙手园丁",
+    "rarity": "RARE",
+    "cost": 6,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73466,
+    "name": "底层掠食鱼",
+    "rarity": "EPIC",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73471,
+    "name": "奇迹生长",
+    "rarity": "COMMON",
+    "cost": 8,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
     "dbfId": 73528,
     "name": "霜狼巢屋",
     "rarity": "RARE",
@@ -2582,5 +2672,122 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "set": "ALTERAC_VALLEY"
+  },
+  {
+    "dbfId": 73712,
+    "name": "嗜睡的藻农",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73713,
+    "name": "异端纳迦海德拉",
+    "rarity": "LEGENDARY",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 73774,
+    "name": "水栖形态",
+    "rarity": "RARE",
+    "cost": 0,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75558,
+    "name": "潮汐之灵",
+    "rarity": "RARE",
+    "cost": 2,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 75560,
+    "name": "自然使徒",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76117,
+    "name": "月光射线",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "THE_SUNKEN_CITY"
+  },
+  {
+    "dbfId": 76287,
+    "name": "范达尔·鹿盔",
+    "rarity": "LEGENDARY",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76288,
+    "name": "愤怒",
+    "rarity": "COMMON",
+    "cost": 2,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76289,
+    "name": "活体根须",
+    "rarity": "COMMON",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 76291,
+    "name": "知识古树",
+    "rarity": "EPIC",
+    "cost": 7,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86234,
+    "name": "大地之鳞",
+    "rarity": "RARE",
+    "cost": 1,
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 86541,
+    "name": "骑乘迅猛龙",
+    "rarity": "COMMON",
+    "cost": 3,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "CORE"
+  },
+  {
+    "dbfId": 89146,
+    "name": "诺达希尔德鲁伊",
+    "rarity": "RARE",
+    "cost": 4,
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "set": "LEGACY"
   }
 ]
